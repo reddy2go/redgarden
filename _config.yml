@@ -1,0 +1,56 @@
+title:               Green Web Template
+url:                 'https://garden.megu.space'
+favicon:              🥬
+
+# https://jekyllrb.com/docs/configuration/options/
+timezone: America/Los_Angeles
+
+# Comment out .htaccess if you're uploading to a non-Apache server such as Netlify
+include:             ['.htaccess']
+
+# Remove obsidian-templates and delete the folder if you aren't using Obsidian Templates plugin
+exclude:             ['_includes/notes_graph.json','obsidian-templates']
+
+# If you are using a host that cannot resolve URLs that do
+# not end with .html (such as Neocities or Dreamhost), set this to 'true'.
+use_html_extension:  true
+
+# 'True' displays notes graph at bottom of each note
+show_notes_graph: false
+
+# Set to `true` to open non-internal links in new tabs, or
+# set to `false` to open non-internal links in current tab.
+open_external_links_in_new_tab: true
+
+permalink:           slug
+
+# Set to 'true' to generate excerpts for pages. Notes are technically pages.
+page_excerpts:      true
+
+# Enabled CommonMark instead of default kramdown. All extensions are enabled, but you can choose to remove some by referencing https://github.github.com/gfm/ and https://github.com/gjtorikian/commonmarker#options
+markdown: CommonMarkGhPages
+commonmark:
+  options: ["SMART", "FOOTNOTES", "VALIDATE_UTF8", "GITHUB_PRE_LANG", "TABLE_PREFER_STYLE_ATTRIBUTES"]
+  extensions: ["strikethrough", "autolink", "table", "tagfilter"]
+
+plugins:
+  - jekyll-last-modified-at
+
+collections:
+  notes:
+    output: true
+    permalink: /:slug
+
+  pages:
+    output: true
+    permalink: /:slug
+
+defaults:
+  - scope:
+      path: "**/*"
+    values:
+      layout: "default"
+  - scope:
+      path: "_notes/**/*.md"
+    values:
+      layout: "note"

@@ -225,7 +225,7 @@ a {
   transition: all 300ms;
   font-weight: 600;
   color: var(--heading-color);
-  border-bottom: 4px solid var(--primary-color);
+  border-bottom: 1px solid var(--primary-color);
   text-decoration: none;
 }
 

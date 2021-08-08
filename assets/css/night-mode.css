@@ -1,6 +1,6 @@
 body.night-mode {
-  background-color: #121212;
-  color: #ffffffe6;
+  background-color: #262626;
+  color: #f9e8e0;
 
   h1,
   h2,
@@ -8,7 +8,7 @@ body.night-mode {
   h4,
   h5,
   h6 {
-    color: #ffffffe6;
+    color: #f9e8e0;
   }
 
   .masthead,
@@ -17,13 +17,18 @@ body.night-mode {
     border-color: hsla(0, 100%, 100%, 0.15);
   }
 
+  a {
+    color: #f9e8e0;
+    border-bottom: 4px solid #c74a3e;
+  }
+
   .entry a,
   a.read-more {
     color: rgb(218, 202, 136);
   }
 
   a:hover {
-    color: lighten(rgb(218, 202, 136), 15);
+    color: #c74a3e;
   }
 
   .wrapper-footer {

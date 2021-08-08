@@ -8,7 +8,7 @@
   --text-color-faded: rgb(29, 31, 32, 0.5);
   --primary-color: #d85649;
   --background-color: #f9eeed;
-  --callout-background: #f8e3dc;
+  --callout-background: #f7e8e1;
   --primary-font: "Inter", "Inter Variable", -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif;
   --heading-font: "Inter", "Wremena", "Times", "Times New Roman", serif;
   /* Set headings to large size by increasing :root em font size */

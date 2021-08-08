@@ -6,6 +6,8 @@ category: Getting Started
 ### Welcome!
 This is your first note. You'll find it in the `_notes/` directory. I recommend using [Obsidian](https://obsidian.md/) to edit Markdown files. Learn more about [[Obsidian Setup]], [[Site Organization]], and [[Note Formatting]]. 
 
+here's me
+
 ### Link syntax
 
 To link to another note, you can use multiple syntaxes. The following four use the "double-bracket" notation ([view the Markdown source file](https://github.com/maximevaillancourt/digital-garden-jekyll-template/blob/master/_notes/your-first-note.md#link-syntax) to see the underlying syntax).

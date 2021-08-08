@@ -13,10 +13,10 @@ exclude:             ['_includes/notes_graph.json','obsidian-templates']
 
 # If you are using a host that cannot resolve URLs that do
 # not end with .html (such as Neocities or Dreamhost), set this to 'true'.
-use_html_extension:  true
+use_html_extension:  false
 
 # 'True' displays notes graph at bottom of each note
-show_notes_graph: false
+show_notes_graph: true
 
 # Set to `true` to open non-internal links in new tabs, or
 # set to `false` to open non-internal links in current tab.

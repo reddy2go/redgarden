@@ -3,8 +3,8 @@ title: the allure of failure
 slug: the-allure-of-failure
 date_published: 2021-04-17T21:15:16.000Z
 date_updated: 2021-04-17T21:15:16.000Z
+category: 
 ---
-
 when was the last time you celebrated failure? probably never i’ll bet. there are a few questions here.
 
 - why should you celebrate your failures?

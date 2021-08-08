@@ -3,8 +3,8 @@ title: small talk or real talk?
 slug: small-talk-real-talk
 date_published: 2021-05-02T04:57:50.000Z
 date_updated: 2021-05-02T16:35:22.000Z
+category: 
 ---
-
 small talk always scares me. whether it’s professionally or personally. whether it’s with friends and family or with casual and intimate lovers.
 
 but first let’s define small talk. actually it’s easier to define what it is not. it is not real talk. and what is real talk? that’s easy, an exchange of one’s fears and desires.

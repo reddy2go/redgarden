@@ -3,8 +3,8 @@ title: privilege - play it up or play it down?
 slug: privilege
 date_published: 2021-04-05T15:29:43.000Z
 date_updated: 2021-04-05T15:29:43.000Z
+category: 
 ---
-
 the word privilege commonly brings negative connotations today. where it was once sought after, it more often than not makes one uncomfortable today. has burdening privilege with guilt made the world a better place for both the privileged and the under privileged?
 ![IMG_6141](https://res.craft.do/user/full/aea53ecb-f07e-7684-f954-13f587938a00/7ABFB0FC-F1C8-40AD-8B4C-AAB3A0CD62FB_2)
 ## guilt

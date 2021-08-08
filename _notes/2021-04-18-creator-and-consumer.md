@@ -3,8 +3,8 @@ title: are you a creator or consumer?
 slug: creator-and-consumer
 date_published: 2021-04-18T17:54:05.000Z
 date_updated: 2021-04-19T03:59:19.000Z
+category: 
 ---
-
 when the time comes to share on social media, inanity rules the mind and that explains the deluge of "i'm eating cheeseburger" posts. the problem doesn't lie there, but rather deeper in one's psyche which is what we'll target.
 
 ## the self

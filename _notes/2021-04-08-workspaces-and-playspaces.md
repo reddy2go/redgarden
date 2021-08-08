@@ -3,8 +3,8 @@ title: is your workspace a playspace?
 slug: workspaces-and-playspaces
 date_published: 2021-04-07T20:15:07.000Z
 date_updated: 2021-04-07T20:15:07.000Z
+category: 
 ---
-
 > the world is your playground
 
 that would be an inspiring line to throw at you. but this post is more about making a playground your world. we spend most of our time as children in playgrounds and playpens. as adults, however, we’re obsessed with workplaces, even when we’re working from home!

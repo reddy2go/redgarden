@@ -3,8 +3,8 @@ title: all you need is love - love is all i need
 slug: love-is-all-we-need
 date_published: 2021-06-04T19:43:40.000Z
 date_updated: 2021-06-04T19:43:40.000Z
+category: 
 ---
-
 > All you need is love, love
 > Love is all you need
 > All you need is love, all together now

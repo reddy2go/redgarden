@@ -3,6 +3,7 @@ title: What Do You Do?
 slug: what-do-you-do
 date_published: 2020-07-21T05:11:00.000Z
 date_updated: 2020-12-14T05:26:09.000Z
+category: 
 ---
 
 Every time I'm asked this question, it takes me back to a simpler time. When my answer to such questions was considered amusing and endearing. Now my answer confuses if not, annoys people. Before we go on to what I do, let's start with what I wanted to do.

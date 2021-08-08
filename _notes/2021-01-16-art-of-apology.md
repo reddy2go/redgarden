@@ -4,8 +4,8 @@ slug: art-of-apology
 date_published: 2021-01-16T17:34:01.000Z
 date_updated: 2021-01-16T17:34:48.000Z
 excerpt: Mistakes are not an anomaly, yet very few have mastered the art of apology. Seeking forgiveness demands more than just a "sorry!"
+category: 
 ---
-
 A typical apology goes quite like this. "Sorry!" Is there more to it though?
 Here's how I think apologies should play out.
 

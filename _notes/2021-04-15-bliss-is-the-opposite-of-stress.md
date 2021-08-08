@@ -3,8 +3,8 @@ title: bliss is the opposite of stress
 slug: bliss-is-the-opposite-of-stress
 date_published: 2021-04-15T16:58:06.000Z
 date_updated: 2021-04-15T16:58:06.000Z
+category: 
 ---
-
 for the adult, playing is a break from work. for the child, playing is serious business. we’re all adults here (i know, i know) so i’m talking about taking a break from work. play offers the adult most allure as a way to destress, especially now with stress levels hitting all time highs everyday.
 
 but if you’ve been following me awhile you’ll know that i don’t believe in the concept of 'de-stressing'. because

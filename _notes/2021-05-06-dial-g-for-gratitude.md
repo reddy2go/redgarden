@@ -3,8 +3,8 @@ title: dial G for gratitude
 slug: dial-g-for-gratitude
 date_published: 2021-05-06T18:27:10.000Z
 date_updated: 2021-05-06T18:27:10.000Z
+category: 
 ---
-
 whenever i do something for someone, i’m curious about the motivation behind my actions. i’m always running multiple processes in my head to decode this.
 
 especially with loved ones, i’ve found that they generally fall in these two categories. in the current pandemic crisis that we’re growing through, i’m not trying to expand my circle of compassion to care for others in the world who are suffering. i have no guilt or shame in saying IDGAF.

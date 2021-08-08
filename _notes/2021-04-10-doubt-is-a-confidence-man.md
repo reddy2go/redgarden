@@ -3,8 +3,8 @@ title: doubt is a confidence man
 slug: doubt-is-a-confidence-man
 date_published: 2021-04-10T11:29:04.000Z
 date_updated: 2021-04-10T11:29:04.000Z
+category: 
 ---
-
 i've always assumed that i've been immune to the disease of doubt and in the moments that it struck, i had a quick and dirty solution that worked for me every single time. jump! it didn't always land in victory and often in pain.
 ![IMG_7042.jpeg](https://res.craft.do/user/full/aea53ecb-f07e-7684-f954-13f587938a00/AD2FD0A1-E152-4DC1-B1E0-CD379B36C6E5_2)
 ## the danger of doubt

@@ -3,8 +3,8 @@ title: can we fight and still be friends?
 slug: lets-fight-and-still-be-friends
 date_published: 2021-05-21T19:03:16.000Z
 date_updated: 2021-05-21T19:03:16.000Z
+category: 
 ---
-
 the overarching narrative today is that fighting is to be frowned upon. the world firmly believes that the modern perception of civilisation has saved the world from savagery and incessant combat between tribes.
 
 yet we see conflict and wars across the globe. they’re covert instead of overt. they’re proxy wars instead of full declaration of war. is the world really more peaceful than it was a hundred or a thousand years ago?

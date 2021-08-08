@@ -3,8 +3,8 @@ title: mining and shining
 slug: mining-and-shining
 date_published: 2021-03-25T10:22:45.000Z
 date_updated: 2021-03-25T10:32:14.000Z
+category: 
 ---
-
 it’s been a year since i started writing to let my thoughts out of my own head. the year was 2020. covid had struck. death was all around. uncertainty was overwhelming, yet casually dismissed. the world was spinning off kilter but nobody wanted to believe that things would never be the same again.
 
 yet something inside me told me this was the beginning of the end. the end of the world as we knew it. governments were at their wits end though they didn’t know it or want to admit it. corporations rolled with the punches and enabled work from home but big industries were wobbling around punch drunk.

@@ -3,6 +3,7 @@ title: magic of movement
 slug: magic-of-movement
 date_published: 2020-07-18T06:19:00.000Z
 date_updated: 2021-03-25T13:51:30.000Z
+category: 
 ---
 
 even as adults, we enjoy the cognitive and spatial freedom offered by video games and virtual reality. but we don't explore the physical and tactile world with the same enthusiasm as a child. babies are born free to explore in 3-dimensions, but soon develop a bias for bipedal movement. the modern world pushes us to move for material benefits, not just for exploration. ancient cultures never treated physical development apart from mental learning. today however, we have a 'nerd vs. jock' dichotomy. as my friend michael dean eloquently describes it "you either train for the olympics & read new york times best sellers, or you learn how to program computers and go to the gym twice a week." consider this, what if you moved your body, just for the sake of exploring it? animals reach a state of peak genetic ability through play, not exercise. how can we relive our youth, incorporate movement in to our daily lives without it feeling like yet another activity to checklist?

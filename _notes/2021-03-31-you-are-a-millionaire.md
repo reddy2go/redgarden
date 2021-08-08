@@ -3,8 +3,8 @@ title: i am a millionaire 💰
 slug: you-are-a-millionaire
 date_published: 2021-03-31T14:50:57.000Z
 date_updated: 2021-04-02T11:43:31.000Z
+category: 
 ---
-
 ![](https://images.unsplash.com/photo-1528557692780-8e7be39eafab?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHwxOXx8cmFpbmJvd3xlbnwwfHx8fDE2MTcyMDEzNTc&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=1080)
 the gold is always at the end of the rainbow right? or so we’re told. we spend our entire lives chasing that pot of gold. but is it really the pot of gold that's valuable or the **idea** of the pot of gold? let's play with perception and value, shall we?
 

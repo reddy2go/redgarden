@@ -3,8 +3,8 @@ title: inspire. incite. infect
 slug: inspire-incite-infect
 date_published: 2021-06-01T15:34:34.000Z
 date_updated: 2021-06-01T15:35:05.000Z
+category: 
 ---
-
 > what are you looking to do with this whole play shtick?
 
 it’s very hard for people to digest purposeless play. and all the badgering gets me second guessing. do i really have a grandiose goal being all this irreverent play?

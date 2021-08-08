@@ -3,8 +3,8 @@ title: retire or revive?
 slug: retire-or-revive
 date_published: 2021-03-29T14:36:29.000Z
 date_updated: 2021-03-29T16:17:22.000Z
+category: 
 ---
-
 almost everyone who hears of my retirement has an incredulous look on their faces. sometimes it’s replaced with pity assuming tragedy has befallen me. at other times, envy takes over knowing full well they’re nowhere close to catching up. curiosity though is a constant regardless of first impressions.
 ![](https://images.unsplash.com/photo-1601412436405-1f0c6b50921f?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHw2fHxzdXJwcmlzZWR8ZW58MHx8fHwxNjE2NjkzNDQ4&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=1080)
 ## why why why?

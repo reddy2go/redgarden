@@ -4,8 +4,8 @@ slug: santa-vs-the-grinch
 date_published: 2020-12-16T02:40:49.000Z
 date_updated: 2021-02-10T12:24:59.000Z
 excerpt: Have you craved for something and gotten frustrated about not getting it? Scarcity & victim-hood or empowering self & others with abundance - choose!
+category: 
 ---
-
 I've been known to make drunken boasts and tall claims without thought. An excellent example of this would be my recent public announcement that I intend to complete a book before 2020 finally bids us goodbye.
 
 More on that later. Today's talk is on the twitter thread that has me in knots. I made a decision to gift a subscription to an [online community](https://nesslabs.com/) run by the effervescent [Anne-Laure](https://twitter.com/anthilemoon). 

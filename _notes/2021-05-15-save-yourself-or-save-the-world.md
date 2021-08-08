@@ -3,8 +3,8 @@ title: who would you save - yourself or the world?
 slug: save-yourself-or-save-the-world
 date_published: 2021-05-14T20:32:40.000Z
 date_updated: 2021-05-14T20:32:40.000Z
+category: 
 ---
-
 > Should the cabin lose pressure, oxygen masks will drop from the overhead area. Please place the mask over your own mouth and nose before assisting others.
 
 i’d love to say i’ve heard this a thousand times over but i’ve always escaped into my headphone cocoon before they even begin to speak. but we all know what this means and yet we rarely if ever, follow this.

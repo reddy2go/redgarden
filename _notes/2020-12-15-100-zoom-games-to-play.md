@@ -4,8 +4,8 @@ slug: 100-zoom-games-to-play
 date_published: 2020-12-15T17:57:36.000Z
 date_updated: 2021-02-10T12:28:06.000Z
 excerpt: 100 games designed to make your Zoom room a fun, not fatiguing experience. Make the world a better place by putting a smile on your face, for it’s playtime!
+category: 
 ---
-
 2020 hasn't been easy on anyone. Livelihoods have been snatched away from many but for most of us reading this online, Zoom has been a savior. Offering to teleport and transport us across continents and timezones. Zoom almost single-handedly stitched together the fabric of time and space that COVID-19 tore apart.
 
 But is everything rosy in the kingdom? Zoom fatigue is now as real as jet lag. Did you really think you can get away with skipping traffic and bad airline food? Well, I still don't have a solution for either jet lag or zoom fatigue, but I believe there's a solution for work fatigue.

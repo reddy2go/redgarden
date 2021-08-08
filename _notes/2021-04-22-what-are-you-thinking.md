@@ -3,8 +3,8 @@ title: what! are you thinking?
 slug: what-are-you-thinking
 date_published: 2021-04-21T19:40:38.000Z
 date_updated: 2021-04-21T19:40:38.000Z
+category: 
 ---
-
 thinkers are abundant throughout the history of man. civilization or not, man has always thought about topics ranging from the origin of self to the discovery of fire. in fact it is this particular faculty that separates man from his fellow creatures on this planet. 
 ![](https://images.unsplash.com/photo-1522435229388-6f7a422cd95b?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHw0fHx0aGlua2luZ3xlbnwwfHx8fDE2MTg5ODcwMjQ&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=1080)
 but **do all men think alike?** rather do all men exercise their power of thought equally?

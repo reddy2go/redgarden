@@ -3,8 +3,8 @@ title: death at the door
 slug: death-at-the-door
 date_published: 2021-04-26T20:36:39.000Z
 date_updated: 2021-04-26T20:36:39.000Z
+category: 
 ---
-
 this time last year, i began writing this letter that you receive. and the lockdown then was the subject of my first letter. the same lockdown is the subject of my letter today almost a year later.
 
 i had shared tips on enduring the lockdown through physical and mental movement of various kinds. this time the story might appear different. there’s more corona in the air and an equivalent amount of panic.

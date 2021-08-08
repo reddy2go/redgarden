@@ -3,8 +3,8 @@ title: (p)lay the game of lust and love
 slug: play-with-love-and-lust
 date_published: 2021-04-06T18:15:07.000Z
 date_updated: 2021-04-06T18:31:18.000Z
+category: 
 ---
-
 the idea of play as something only children do is accepted but erroneous. unless you believe that we’re all really children forever and that we’re merely playing the role of adults 🤯 in which case you’re probably right. being playful isn’t childish, but child-like. being responsible doesn’t mean you can’t be playful.
 
 today we’re looking at the line that divides the child from the adult - puberty. that’s the no man’s land where you’re not really a child and not yet an adult. that confusing and confounding space where nothing makes sense yet everything make sense. and of course you want someone else to play with so you can both make sense together. did i say sense? i mean love. make love together.

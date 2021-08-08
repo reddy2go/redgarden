@@ -3,8 +3,8 @@ title: why you need to build a pillow fort
 slug: why-you-need-to-build-a-pillow-fort
 date_published: 2021-05-28T14:15:24.000Z
 date_updated: 2021-05-28T14:15:24.000Z
+category: 
 ---
-
 i’ve witnessed the birth of over four generations of puppies and kittens. i’ve played almost every role in their lives from midwife to undertaker. it’s always magical to witness either extreme; birth or death.
 
 but it’s the in between that’s the hard part. that’s what we call life. that’s the space where we play. and the game of life is simple the best. but what happens when we need a timeout?

@@ -3,8 +3,8 @@ title: playgrounds not libraries
 slug: playground-not-library
 date_published: 2021-05-26T09:49:04.000Z
 date_updated: 2021-05-26T09:49:04.000Z
+category: 
 ---
-
 play. play. play. all day long i think of play. that’s the proof that i’m still an adult. if i was a child, i’d be playing all day long not thinking or theorizing about it.
 
 if you assume that play is all about fun and games, you’re right. if you think play is only fun and games, you’re wrong. play is also our default state of action to learn through.

@@ -3,8 +3,8 @@ title: burnin’ or burnout
 slug: burnin-or-burnout
 date_published: 2021-03-26T11:45:52.000Z
 date_updated: 2021-03-26T11:45:52.000Z
+category: 
 ---
-
 in India, auspicious events begins with the lighting of a lamp. some festivals are celebrated with lamps adorning the windows of houses. and funeral pyres are also lit ablaze so both beginnings and endings are associated with fire.
 
 but this isn’t just a cultural specificity. the phrase ‘burning with passion’ is common in the west too. the whole world knows ‘burning desires’ simply cannot wait. the very nature of fire is to constantly burn away at itself. whether fire is used to create or destroy is a matter of intention and ability.

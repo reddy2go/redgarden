@@ -3,8 +3,8 @@ title: is fear playing you or are you playing with fear?
 slug: playing-with-fear
 date_published: 2021-05-08T18:03:47.000Z
 date_updated: 2021-05-08T18:03:47.000Z
+category: 
 ---
-
 > fear as a response is healthy
 > fear as a state is unhealthy
 

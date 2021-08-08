@@ -3,8 +3,8 @@ title: minari magic
 slug: minari-magic
 date_published: 2021-04-12T16:19:18.000Z
 date_updated: 2021-04-12T16:19:18.000Z
+category: 
 ---
-
 if you want more than just a spoiler, here are the all the details of this film - [read the screenplay](https://deadline.com/wp-content/uploads/2021/03/Minari-Screenplay.pdf).  if you want to watch the movie,  here’s a trailer to whet your appetite.
 
 this story has many themes that resonated with me. but this is something i want to address first because more people than ever before are burning out.  this goes out to all of you who are experiencing this. maybe it’s just a niggling pain in your butt or maybe it’s bringing your world down to ashes.

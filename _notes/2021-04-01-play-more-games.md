@@ -3,8 +3,8 @@ title: play many games
 slug: play-more-games
 date_published: 2021-04-01T17:25:42.000Z
 date_updated: 2021-04-01T17:25:42.000Z
+category: 
 ---
-
 do you remember when you were a kid? my earliest memories are from the age of five and i remember many of the games we played. even the ones i didn’t really fancy, i recall enjoying. the game never mattered as much as it does today.
 
 ## children play games

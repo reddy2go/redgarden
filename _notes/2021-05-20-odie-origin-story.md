@@ -3,8 +3,8 @@ title: "ODie: origin story"
 slug: odie-origin-story
 date_published: 2021-05-19T20:05:42.000Z
 date_updated: 2021-05-19T20:05:42.000Z
+category: 
 ---
-
 the last time i wrote about ODie was when building a second brain was all the rage. well, it still is. being a lazy person (feature not bug, more on that another time), i don’t want to think of it as building a second brain, because that onus is on me to.
 
 so here’s how i’m thinking about it. delegating or outsourcing to a second brain. this appeals to my lazy self as i’m more inclined to do it if it feels like i’m getting rid of responsibility and work to someone else. yes, someone else. not something else. a brain feels less warm friendly and humane than a heart.

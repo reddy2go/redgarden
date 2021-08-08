@@ -3,8 +3,8 @@ title: aggression in the community
 slug: healthy-aggression-in-the-community
 date_published: 2021-05-20T19:54:28.000Z
 date_updated: 2021-05-20T19:54:28.000Z
+category: 
 ---
-
 play is a primal act. like sex and violence. let’s look at how play is an aggressive act yet a non-violent act.
 
 aggression is defined both as hostility and confidence. i like to think of aggression as an act of energized forward movement. it can be used to help (even heal) or to harm. only when it begins to harm does it encroach into the territory of violence.

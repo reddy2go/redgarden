@@ -3,8 +3,8 @@ title: In Dependence
 slug: in-dependence
 date_published: 2020-09-26T10:26:00.000Z
 date_updated: 2021-02-10T12:23:12.000Z
+category: 
 ---
-
 ### "I can't see my face!"
 
 I've never had anything longer than a buzzcut and a clean-shaven face for over a decade now. But what stares back at me today is quite the contrary. I have a ready excuse of course.

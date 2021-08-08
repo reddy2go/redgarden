@@ -3,8 +3,8 @@ title: thank you, sorry and fuck you
 slug: thank-you-sorry-fuck-you
 date_published: 2021-04-08T18:41:32.000Z
 date_updated: 2021-05-04T13:36:27.000Z
+category: 
 ---
-
 > The most essential thing in life is to establish an unafraid, heartfelt communication with others - Sogyal Rinpoche
 
 communication is the key to connecting, relating and sharing. whether that's in a personal or professional relation, what makes it real is the emotions, feelings and thoughts that we choose to express to the other. most of the time, things fall apart and people drift away due to impotent or insincere communication that fails to connect and create an atmosphere of trust and camaraderie.

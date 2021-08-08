@@ -3,8 +3,8 @@ title: what’s this letter about again?
 slug: whats-this-newsletter-about
 date_published: 2021-05-07T12:32:20.000Z
 date_updated: 2021-05-07T12:32:20.000Z
+category: 
 ---
-
 it’s come to my attention that both my style of writing and positioning of this newsletter have changed since i first started. i understand if you’re unsure of where this is going, but that is a feature, not a bug.
 
 ## not a newsletter

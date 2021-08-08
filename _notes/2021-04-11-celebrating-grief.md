@@ -3,8 +3,8 @@ title: celebrating grief
 slug: celebrating-grief
 date_published: 2021-04-11T12:29:40.000Z
 date_updated: 2021-04-11T12:29:40.000Z
+category: 
 ---
-
 when i watched this poignant movie, it reminded me of all the people i’ve seen die through my life. the most vivid memory is that of an uncle who was instrumental in exposing me to all the cultures of the world at a young and impressionable age. we now take it for granted in a world connected by the interwebs, but it wasn’t so a few decades ago.
 
 i lived through his amazing adventures across the globe. everywhere he went, he brought me back a souvenir. the postcards and pictures he sent me made me feel like i was right along side him on his journey. just like the bike rides he took me on whenever he was in town.

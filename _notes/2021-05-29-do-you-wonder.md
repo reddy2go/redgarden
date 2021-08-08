@@ -3,8 +3,8 @@ title: do you wonder?
 slug: do-you-wonder
 date_published: 2021-05-29T17:47:57.000Z
 date_updated: 2021-05-29T17:47:57.000Z
+category: 
 ---
-
 when was the last time you wondered? not worry, but wonder. isn’t that something we’ve forgotten as adults? something that’s been replaced by your regular run of the mill, garden variety worry.
 
 if you’re wondering why, there’s hope for you yet. if you’ve already dismissed this even before you read ahead, you’re exactly the kind of person i’m worried for. the kind that forgotten the wonder of wondering.

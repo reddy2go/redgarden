@@ -3,8 +3,8 @@ title: come get some
 slug: value-of-value
 date_published: 2021-04-09T17:07:23.000Z
 date_updated: 2021-04-13T18:44:09.000Z
+category: 
 ---
-
 a recent tweet by [Craig Burgess](https://www.getdoingthings.com) hastened this article, which was in the making for a while. and i believe the urgency with which it was written has raised it's value manifold. but you won’t know till you’ve read it, will you?
 
 > Does the words “providing value” trigger you?

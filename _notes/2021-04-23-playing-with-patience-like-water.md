@@ -3,8 +3,8 @@ title: playing with patience
 slug: playing-with-patience-like-water
 date_published: 2021-04-22T22:20:42.000Z
 date_updated: 2021-04-22T22:20:42.000Z
+category: 
 ---
-
 ## dial p.a.t.i.e… for patience
 
 that already got my goat! you may have guessed patience isn't one of my virtues. persistence, maybe. patience, no. i want it. right here, right now. this is how i demand from life, love and everything else that orbits around me.

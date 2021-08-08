@@ -3,8 +3,8 @@ title: playing alpha - boss or bully?
 slug: playing-alpha-boss-or-bully
 date_published: 2021-04-29T19:24:12.000Z
 date_updated: 2021-04-29T19:24:12.000Z
+category: 
 ---
-
 the alpha gets a bad rep in most circles today and we don’t like to see dominant, strong and aggressive personalities having their way.
 
 in the playground of life, we equate the alpha to the bully who’s always dominating games. so it’s no surprise that such an association is accepted. but that couldn’t be farther from the truth.

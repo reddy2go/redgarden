@@ -4,8 +4,8 @@ slug: who-is-your-hero
 date_published: 2021-01-12T14:15:02.000Z
 date_updated: 2021-01-13T11:39:39.000Z
 excerpt: What do we value most about ourselves? We are what we believe in and stand for. Nothing is more precious and yet we hardly, if ever choose our values.
+category: 
 ---
-
 When we're born into this world, values are handed down to us by others before us, by others around us. As children, parents teach us what is right and wrong. We were too young to certainly make that choice for ourselves.
 
 Family values are essentially a reflection of society's values - those derived from the predominant religious values embraced by the state. Are we then really selecting our values?

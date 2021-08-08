@@ -3,8 +3,8 @@ title: doing or done?
 slug: doing-or-done
 date_published: 2021-05-11T20:15:32.000Z
 date_updated: 2021-05-11T20:15:32.000Z
+category: 
 ---
-
 our whole lives as adults revolve around accomplishments. in fact that’s the first step to becoming one. as a child, we’re in it for the fun of doing. as an adult, we’re in it for the value of achieving.
 
 we learn to associate happiness with achievements and accomplishments than experiencing the joy in doing, acting, creating, in the moment.

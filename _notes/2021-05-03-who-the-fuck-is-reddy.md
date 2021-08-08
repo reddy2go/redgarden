@@ -3,8 +3,8 @@ title: who the fuck is reddy?
 slug: who-the-fuck-is-reddy
 date_published: 2021-05-03T14:27:30.000Z
 date_updated: 2021-05-03T14:27:30.000Z
+category: 
 ---
-
 why am i writing to you every single day, and who is this ‘i’ that i’m referring to? what could i possibly have to say every day that you’d want to listen to? and what difference is it gonna make to your life anyway even if you do read this letter?
 
 there are so many questions here that have been unanswered and today i’m gonna tell you why they will remain so. yup, no answers here. but let’s play with that curiosity a while longer.

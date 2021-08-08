@@ -3,6 +3,7 @@ title: The Horizon
 slug: the-horizon
 date_published: 2020-08-01T06:40:00.000Z
 date_updated: 2020-12-15T15:26:41.000Z
+category: 
 ---
 
 You walk towards the horizon on a hot summer day. The sight of the river brings hope to your heart and vigour to your stride. Scrambling across the arid landscape, kicking up dust and slipping on rocks, you want to stop. But the horizon beckons with dreams of satiated desires. When you reach the river, you're ready to stop now, rested and awash with accomplishment. But the horizon still beckons. And so I walk on. In the darkness of the night, the infinite horizon disappears only to reappear as a guiding star in the sky. Nudging me ever so gently, lovingly towards my future, one step at a time. And when the future is here, I'll look towards her again. Towards a better me. Towards perfection. Here I go again.

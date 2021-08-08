@@ -3,8 +3,8 @@ title: are YOU in the game?
 slug: are-you-in-the-game
 date_published: 2021-05-04T16:06:32.000Z
 date_updated: 2021-05-04T17:53:45.000Z
+category: 
 ---
-
 get in the game! no, i’m not encouraging prostitution. nor am i discouraging it. if you can sell your mind, you can sell your body. why, you can even sell your soul to the devil, i hear. if you don't know what i'm talking about, don't mind me.
 
 let’s get back to being in the game. being involved. bringing your A-game. being mindful. being in the moment. etc. here's how to be an A-game player!

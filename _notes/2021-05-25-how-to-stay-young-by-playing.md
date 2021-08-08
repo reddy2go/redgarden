@@ -3,8 +3,8 @@ title: how to stay young by playing
 slug: how-to-stay-young-by-playing
 date_published: 2021-05-25T06:56:47.000Z
 date_updated: 2021-05-25T06:56:47.000Z
+category: 
 ---
-
 the eternal fountain of youth has entranced many treasure hunters through history. but it’s closer than you think and easier to grasp than you may imagine.
 
 i’m past 40, and of course i’m growing old compared to what i was yesterday. but i don’t feel old. i’m still physically and mentally capable, and i’m hell in a tea cup for any young punk who even thinks of rubbing me the wrong way.

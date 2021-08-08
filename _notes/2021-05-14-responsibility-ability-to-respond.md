@@ -3,8 +3,8 @@ title: how i learned to love responsibility
 slug: responsibility-ability-to-respond
 date_published: 2021-05-13T20:36:15.000Z
 date_updated: 2021-05-13T20:36:15.000Z
+category: 
 ---
-
 everyone knows that i’m all about the game. the infinite game. i’m here to play and that’s my way. and every one i know wants the same. but for that big big big word. the word that turns every child into an adult. magically.
 
 > responsibility

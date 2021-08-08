@@ -3,8 +3,8 @@ title: play a prank every day
 slug: play-a-prank
 date_published: 2021-04-02T14:51:53.000Z
 date_updated: 2021-04-02T14:51:53.000Z
+category: 
 ---
-
 i woke up to see a parcel in my name outside the door. it was a large-ish sack with my name and address on it. i wondered who had left it there and why. went in grabbed a cutter to open it up. just before i ran the extended blade through the plastic, i placed my hand on it for support. my blood ran cold as i realised it’s a human being!
 
 and my friend jumped up throwing the bag off. while she was screaming April fool and laughing at the look on my face, i knew this was a bloody good one. she had me good, even if for just a second. in that single instant, i’d been scared, thrilled, worried, curious, delighted and more. at the end of the roller coaster ride of emotions, one feeling reigned supreme. gratitude.

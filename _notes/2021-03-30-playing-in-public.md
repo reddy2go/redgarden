@@ -3,8 +3,8 @@ title: playing in public
 slug: playing-in-public
 date_published: 2021-03-30T15:23:47.000Z
 date_updated: 2021-03-30T16:22:25.000Z
+category: 
 ---
-
 the building in public movement is gaining momentum and rightfully so. there is no dearth of valid reasons to not do so, especially when you realise the attention you can generate from day one. the feedback you receive goes a long way in keeping the momentum going while allowing for iterations or course corrections.
 
 but it’s not easy is it? to rewire your brains to the new paradigm, the new wave that is beginning to take over the way we create today. be it backyard art or global enterprises. but what if i were to tell you that this is how you’ve always done things. since the beginning of time. at least the beginning of your time for sure.

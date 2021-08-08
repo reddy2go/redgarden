@@ -3,8 +3,8 @@ title: what's in your toy box?
 slug: toy-box-for-adults
 date_published: 2021-04-16T19:31:45.000Z
 date_updated: 2021-04-16T19:31:45.000Z
+category: 
 ---
-
 every day you go to work, you carry a briefcase, backpack or a bag with all the tools you need. whether you’re blue collar or white collar, you gotta carry your tools else you wouldn’t be able to work. it’s that simple right?
 
 so it makes perfect sense that you gotta have toys if you wanna play! which is something we’ve all thrown away or handed down to the kids to play with. time to reclaim that lost treasure. let the hunt begin!

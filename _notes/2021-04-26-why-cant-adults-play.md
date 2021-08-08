@@ -3,8 +3,8 @@ title: why can’t adults play?
 slug: why-cant-adults-play
 date_published: 2021-04-25T21:25:55.000Z
 date_updated: 2021-04-25T21:25:55.000Z
+category: 
 ---
-
 yes. there’s a one word answer to that question.
 
 ## malleability

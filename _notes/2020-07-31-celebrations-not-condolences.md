@@ -3,6 +3,7 @@ title: Celebrations not Condolences
 slug: celebrations-not-condolences
 date_published: 2020-07-31T05:55:00.000Z
 date_updated: 2020-12-14T05:59:28.000Z
+category: 
 ---
 
 The sight of her still body lying on the tarmac got my mind racing. Could it be her? How did this happen? My mind raced through the worst possibilities. I tried to logically piece together the situation. But the train of thoughts was riding on a rollercoaster of emotions. Anger, sadness, regret, disgust, revenge all danced around me, save for hope. I hobbled hurriedly across, my cane rattling along noisily.

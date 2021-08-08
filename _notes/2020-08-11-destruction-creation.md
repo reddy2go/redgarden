@@ -3,8 +3,8 @@ title: Dancing between Destruction and Creation
 slug: destruction-creation
 date_published: 2020-08-11T10:04:00.000Z
 date_updated: 2020-12-14T10:13:56.000Z
+category: 
 ---
-
 35 years ago, I received my first accolade for a piece of art I created. It was a rendition of Krishna expounding the wisdom of the Bhagwad Gita to Arjuna on the battlefield. It was on a standard A4 size paper. I was excited to use color pencils. They offered less grain than crayons, a softer finish, and seemed to depict divinity better. But what I enjoyed most was the scraping sound on paper as I filled in the spaces. It was mesmerizing. I don’t remember the garden around me, the murmur of other kids whispering over my shoulder, the breeze teasing the edge of my paper off the ground. I used a Rotring pen to complete the outlines and it looked like the kindergarten version of a Tanjore painting with pastel colors filling in for gold foil. The Gods appeared happy to be portrayed thus.
 
 ## Destruction

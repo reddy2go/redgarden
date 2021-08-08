@@ -3,8 +3,8 @@ title: tinker with your toys and make some noise
 slug: tinker-with-toys
 date_published: 2021-05-12T19:12:47.000Z
 date_updated: 2021-05-12T19:12:47.000Z
+category: 
 ---
-
 congratulations 🥳 you just got a brand new gadget to play with! now what’s the first thing you do with it? pick one - read the manual manual. watch a youtube video. ask a friend who has the same thingamajig. maybe all of the above.
 
 it’s interesting that as adults we want to do things the right way. the way it was designed to be used. and i’m not just talking about gadgets. everything we do revolves around it finding the ideal way.

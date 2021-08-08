@@ -3,8 +3,8 @@ title: gamification vs playification
 slug: gamification-vs-playification
 date_published: 2021-05-27T10:13:32.000Z
 date_updated: 2021-05-27T10:13:32.000Z
+category: 
 ---
-
 the corporate world has tested gamification experiments but hasn’t quite made a dent in industry standard processes of project management. even in the personal development world of getting things done, it hasn’t quite taken off.
 
 it’s not that we haven’t yet found that sweet spot. i think we’re just barking up the same tree. games are as much work, because work after all is a game.

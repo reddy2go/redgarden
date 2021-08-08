@@ -3,8 +3,8 @@ title: Mehfils & Salons
 slug: mehfils-salons
 date_published: 2021-02-11T08:56:05.000Z
 date_updated: 2021-02-11T09:03:14.000Z
+category: 
 ---
-
 0530 is a surreal time to be in. Not quite day and certainly not night. But it’s that edge of time that reminds me of the opportunity that lies between the dichotomy of day and night.
 
 I’d already had an eventful start to the day. The effervescent [Anna Gat](https://twitter.com/theannagat) talking about decentralising the selection process for hosting salons on the [Interintellect](https://interintellect.com/) is music to the ears even at 0400.

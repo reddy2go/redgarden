@@ -3,8 +3,8 @@ title: fighting for love
 slug: fighting-for-love
 date_published: 2021-05-22T16:32:17.000Z
 date_updated: 2021-05-22T16:32:16.000Z
+category: 
 ---
-
 the rosy picture that welcomes you into a relationship is not what it is once you’re inside. so what do you do? pack up and leave or never enter into one in the first place.
 
 it’s strange that love is assumed to be pretty and pious when the best love stories are all gory and result in one or both dying (often a macabre affair).

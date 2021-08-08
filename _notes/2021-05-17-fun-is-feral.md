@@ -3,8 +3,8 @@ title: fun is feral
 slug: fun-is-feral
 date_published: 2021-05-16T20:40:28.000Z
 date_updated: 2021-05-16T20:40:28.000Z
+category: 
 ---
-
 when it comes to playing (just playing games, not sport), just rewind back to our feral ways. that’s where the spirit of play resides and where we ought to find our way to.
 
 much of the past few centuries has been spent in civilising the savage world. whether it’s the Romans or the British empire, the quest to unite the world was more a desire to dominate over tribes which had unacceptable customs.

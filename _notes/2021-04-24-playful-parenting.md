@@ -3,8 +3,8 @@ title: playful parenting
 slug: playful-parenting
 date_published: 2021-04-24T18:29:26.000Z
 date_updated: 2021-04-25T04:26:10.000Z
+category: 
 ---
-
 i’m not a parent and harbor no intentions of raising any offspring any time in the future, near or far. but it’s a topic of great interest to me. after all i’ve been the subject of it through the earliest years of my life.
 
 my earliest memory is thinking my parents were too stupid and i’m too smart. delusions of grandeur comes to mind but i continued on that path and rebelled against everything they said.

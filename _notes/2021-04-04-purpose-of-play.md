@@ -3,8 +3,8 @@ title: play with a purpose
 slug: purpose-of-play
 date_published: 2021-04-04T15:42:04.000Z
 date_updated: 2021-04-04T15:42:04.000Z
+category: 
 ---
-
 ## why are you doing this?
 
 so i’m obsessed with this play thingamajig and it’s taken over my whole life. but i have no grand goals of creating a new pattern for self development, inspiring creativity or introducing play in organisations, etc which will lead to increased individual and collective productivity.

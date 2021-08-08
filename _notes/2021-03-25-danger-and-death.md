@@ -3,8 +3,8 @@ title: vitamin D - danger and death
 slug: danger-and-death
 date_published: 2021-03-25T13:34:42.000Z
 date_updated: 2021-04-02T09:19:30.000Z
+category: 
 ---
-
 > **A good plan, violently executed now, is better than a perfect plan next week.** George Patton
 
 in the primal world, danger and death are a constant threat. this is well known and the reason why we’ve been enamoured by the idea of civilisation with its promise to deliver us from danger. technology now lures us deeper into delusion with the promise of eradicating even death.

@@ -3,8 +3,8 @@ title: guns and toys
 slug: guns-and-toys
 date_published: 2021-05-10T19:17:30.000Z
 date_updated: 2021-05-10T19:17:30.000Z
+category: 
 ---
-
 why do we love guns? if you think you don’t, you probably haven’t fired one. if you have and still don’t like them, you’re probably in the minuscule minority. but this isn’t a statistical argument for or against guns.
 
 this is a philosophical enquiry into the nature of play. as children we love playing rough and tumble, getting dirty in the mud, splashing in puddles, as messy as possible.

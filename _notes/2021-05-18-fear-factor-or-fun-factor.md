@@ -3,8 +3,8 @@ title: fear or fun factor
 slug: fear-factor-or-fun-factor
 date_published: 2021-05-18T11:19:56.000Z
 date_updated: 2021-05-18T11:19:56.000Z
+category: 
 ---
-
 everyday when you wake up what drives you to get out of bed? we’re a hybrid fuel engine and can be driven by either fear or desire. either run away from something or run towards something.
 
 time travel to your early years. as a kid, how did you wake up every morning? what was the energy you felt? what were the thoughts running through your mind?

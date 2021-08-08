@@ -3,8 +3,8 @@ title: break stuff. destroy darlings. dance with the dark side
 slug: break-destroy-dance-with-the-dark-side
 date_published: 2021-05-01T02:52:57.000Z
 date_updated: 2021-05-01T02:52:57.000Z
+category: 
 ---
-
 adults love breaking news. that’s all. nothing else. anything else that is even remotely connected to breaking is taboo. but kids break everything. all the time. in fact they destroy before they create.
 
 this is a silly thing right? talking about breaking when every adult is attempting the opposite - to build. build a career. build a house. build a relationship. build a family. build a legacy.

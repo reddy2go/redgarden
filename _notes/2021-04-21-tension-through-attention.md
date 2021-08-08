@@ -3,8 +3,8 @@ title: tension through attention
 slug: tension-through-attention
 date_published: 2021-04-20T20:30:01.000Z
 date_updated: 2021-04-20T20:30:01.000Z
+category: 
 ---
-
 there are **60 minutes in an hour** and 1440 minutes in an entire day. of course it doesn't seem like much really even if it is a rather large number. why? because minutes pass by innocuously without much fanfare. mulling on the subject, i concocted this modern koan on the ancient subject of time:
 
 > time in minutes slips away,

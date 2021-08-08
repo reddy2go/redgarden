@@ -3,6 +3,7 @@ title: The Value of Wasting Time
 slug: the-value-of-wasting-time
 date_published: 2020-08-09T07:08:00.000Z
 date_updated: 2020-12-14T09:45:56.000Z
+category: 
 ---
 
 > “We are wasting time. Time wastes itself. Who are we to float in its way?” - Iain Banks

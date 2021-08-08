@@ -3,8 +3,8 @@ title: fun with benefits
 slug: fwb-fun-with-benefits
 date_published: 2021-04-14T14:57:30.000Z
 date_updated: 2021-04-14T14:57:30.000Z
+category: 
 ---
-
 ever since i’ve been raving about play, it’s always been about the infinite game for me. there’s no end game to what i’m playing. in fact there’s no game at all (which is how i see the infinite game). James Carse has divided games into finite and infinite games.
 
 now i still haven’t read that seminal work of his but i’m willing to bet that most people are interested in the finite game. which is why i’m always asked about the benefits of play. and i’m just like 🤷🏻‍♂️ fun!

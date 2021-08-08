@@ -3,8 +3,8 @@ title: love yourself like a cat
 slug: love-yourself-like-a-cat
 date_published: 2021-05-09T19:05:07.000Z
 date_updated: 2021-05-09T19:05:07.000Z
+category: 
 ---
-
 cats are sticklers for cleanliness. hygiene here is seen by their ability to care for their own selves physically. but the same quality is also seen in their mentality should you observe them closely.
 
 cats don’t take kindly to bullying. they treat themselves like kings and queens and demand of you to treat them likewise. they are comfortable in solitude and yet are quite capable of demanding your company should they feel like it.

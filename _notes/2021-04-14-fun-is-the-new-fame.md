@@ -3,8 +3,8 @@ title: fun is the new fame
 slug: fun-is-the-new-fame
 date_published: 2021-04-13T18:41:57.000Z
 date_updated: 2021-04-13T18:43:00.000Z
+category: 
 ---
-
 in recent times, the resurgence of young people playing with the idea of fun and creating for the sake of creating has made me very happy. ever since the obsession of play grabbed me by the balls, i’ve been in a state of fun beyond desire or fear.
 
 ## two sides of the coin 🪙

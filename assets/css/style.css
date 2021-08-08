@@ -8,7 +8,7 @@
   --text-color-faded: rgb(29, 31, 32, 0.5);
   --primary-color: #f04635;
   --background-color: #fff2ed;
-  --callout-background: #f3bca3;
+  --callout-background: #eedad3;
   --primary-font: "Inter", "Inter Variable", -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif;
   --heading-font: "Inter", "Wremena", "Times", "Times New Roman", serif;
   /* Set headings to large size by increasing :root em font size */
@@ -128,7 +128,7 @@ aside {
 }
 
 .backlink-box {
-  background: #ffa486;
+  background: #ffdace;
   padding: 1em;
   border-radius: 4px;
   font-size: 0.5rem;
@@ -290,7 +290,7 @@ a.internal-link:after, a.footnote-backref:after {
 
 /* Graph */
 .links line {
-  stroke: #ffb85c;
+  stroke: #fff1f3;
   opacity: 0.5;
 }
 

@@ -62,7 +62,7 @@ h1, h2, h3, h4, h5, h6, a {
 /* Heading Styles */
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--heading-font);
-  color: var(--heading-color);
+  color: #3d3434;
   margin-bottom: 0;
   padding-bottom: 0;
   font-weight: 800;

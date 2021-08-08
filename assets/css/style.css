@@ -3,14 +3,14 @@
 
 /* Global Styles */
 :root {
-  --heading-color: rgb(29, 31, 32);
+  --heading-color: #1d1f20;
   --text-color: #1D1F20;
   --text-color-faded: rgb(29, 31, 32, 0.5);
   --primary-color: #f04635;
   --background-color: #fff2ed;
   --callout-background: #f3bca3;
-  --primary-font: "Inter Variable", "Inter", -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif;
-  --heading-font: "Wremena", "Times", "Times New Roman", serif;
+  --primary-font: "Inter", "Inter Variable", -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif;
+  --heading-font: "Inter", "Wremena", "Times", "Times New Roman", serif;
   /* Set headings to large size by increasing :root em font size */
   /* Calc with vw makes font sizes intrinsically responsive */
   font-size: calc(1.75em + 0.5vw);
@@ -158,7 +158,7 @@ blockquote {
   padding: 1.5em;
   margin: 0;
   font-size: 0.88em;
-  background: var(--callout-background);
+  background: #e7cec2;
   border-radius: 4px
 }
 

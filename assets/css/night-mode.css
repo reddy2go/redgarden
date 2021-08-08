@@ -1,16 +1,6 @@
-/* Global Styles */
-:root {
-  --heading-color: #f9eeed;
-  --text-color: #f9eeed;
-  /*--text-color-faded: rgb(29, 31, 32, 0.5);*/
-  --background-color: #292424;
-  --callout-background: #4a4747;
-  --primary-color: #c55d53;
-}
-
 body.night-mode {
-  background-color: var(--background-color);
-  color: var(--text-color);
+  background-color: #292424;
+  color: #f9eeed;
 
   h1,
   h2,
@@ -18,7 +8,7 @@ body.night-mode {
   h4,
   h5,
   h6 {
-    color: var(--text-color);
+    color: #f9eeed;
   }
 
   .masthead,
@@ -56,11 +46,11 @@ body.night-mode {
   }
 
   code {
-    background: var(--callout-background);
+    background: #4a4747;
   }
 
   #graph-wrapper {
-    background: var(--callout-background);
+    background: #4a4747;
   }
   
   .links line {
@@ -68,6 +58,6 @@ body.night-mode {
   }
   
   .nodes circle {
-    fill: var(--primary-color);
+    fill: #c55d53;
   }
 }

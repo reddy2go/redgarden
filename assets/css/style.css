@@ -65,7 +65,7 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--heading-color);
   margin-bottom: 0;
   padding-bottom: 0;
-  font-weight: 100;
+  font-weight: 800;
   line-height: 1.3;
 }
 
@@ -83,15 +83,15 @@ h1+p, h2+p, h3+p {
 }
 
 h1 {
-  font-weight: 800;
+  /*font-size: ;*/
 }
 
 h2 {
-  font-weight: 600;
+  /*font-size: ;*/
 }
 
 h3 {
-  font-weight: 400;
+  /*font-weight: ;*/
   font-size: 0.900rem;
 }
 
@@ -184,7 +184,7 @@ hr {
 }
 
 strong, b {
-  font-weight: 600;
+  font-weight: 800;
   color: var(--heading-color);
 }
 
@@ -232,7 +232,7 @@ table th, table td {
 /* Links */
 a {
   transition: all 300ms;
-  font-weight: 600;
+  font-weight: 800;
   color: var(--heading-color);
   border-bottom: 1px solid var(--primary-color);
   text-decoration: none;

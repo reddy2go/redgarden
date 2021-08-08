@@ -618,3 +618,7 @@ ul.navElement {
   justify-content: space-between;
   gap: 1em;
 }
+
+.element1{
+  flex-grow : 1;
+}

@@ -3,12 +3,12 @@
 
 /* Global Styles */
 :root {
-  --heading-color: #1d1f20;
-  --text-color: #1D1F20;
+  --heading-color: #141413;
+  --text-color: #141413;
   --text-color-faded: rgb(29, 31, 32, 0.5);
-  --primary-color: #f04635;
-  --background-color: #fff2ed;
-  --callout-background: #eedad3;
+  --primary-color: #d85649;
+  --background-color: #f9eeed;
+  --callout-background: #f8e3dc;
   --primary-font: "Inter", "Inter Variable", -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif;
   --heading-font: "Inter", "Wremena", "Times", "Times New Roman", serif;
   /* Set headings to large size by increasing :root em font size */
@@ -48,7 +48,7 @@ body {
 }
 
 ::-moz-selection {
-  color: black;
+  color: rgb(129, 120, 120);
   background: var(--primary-color);
 }
 
@@ -136,7 +136,7 @@ aside {
 }
 
 .backlink-box {
-  background: #ffdace;
+  background: #f2e9e8;
   padding: 1em;
   border-radius: 4px;
   font-size: 0.5rem;
@@ -166,7 +166,7 @@ blockquote {
   padding: 1.5em;
   margin: 0;
   font-size: 0.88em;
-  background: #e7cec2;
+  background: #ebe1df;
   border-radius: 4px;
   border-left : 4px solid var(--primary-color);
 }
@@ -299,7 +299,7 @@ a.internal-link:after, a.footnote-backref:after {
 
 /* Graph */
 .links line {
-  stroke: #fff1f3;
+  stroke: #dbcfca;
   opacity: 0.5;
 }
 
@@ -327,7 +327,7 @@ a.internal-link:after, a.footnote-backref:after {
 }
 
 #graph-wrapper {
-  background: #d5bfbb;
+  background: var(--callout-background);
   border-radius: 4px;
   height: auto;
 }
@@ -369,7 +369,7 @@ div.highlight pre {
 }
 
 .highlight .c {
-  color: #999988;
+  color: #dadac2;
   font-style: italic
 }
 

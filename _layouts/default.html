@@ -1,14 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 {% include head.html %}
-
+<script src="/assets/js/integrations.js"></script>
 <body>
   <nav>{% include nav.html %}</nav>
   <main>{{ content }}</main>
   <footer>{% include footer.html %}</footer>
 
   {% include link-previews.html wrapperQuerySelector="content" %}
-  {% include integrations-js.html %}
   <!--{% include color-switcher-js.html %}-->
 </body>
 

@@ -1,4 +1,90 @@
 <head>
+  <script>
+    function generateSocialImage({
+            title,
+            tagline,
+            cloudName,
+            imagePublicID,
+            cloudinaryUrlBase = 'https://res.cloudinary.com',
+            version = null,
+            titleFont = 'arial',
+            titleExtraConfig = '',
+            taglineExtraConfig = '',
+            taglineFont = 'arial',
+            imageWidth = 1280,
+            imageHeight = 669,
+            textAreaWidth = 760,
+            textLeftOffset = 480,
+            titleBottomOffset = 254,
+            taglineTopOffset = 445,
+            textColor = '000000',
+            titleFontSize = 64,
+            taglineFontSize = 48,
+            }) {
+                // configure social media image dimensions, quality, and format
+                const imageConfig = [
+                `w_${imageWidth}`,
+                `h_${imageHeight}`,
+                'c_fill',
+                'q_auto',
+                'f_auto',
+                ].join(',');
+  
+                const titleConfig = [
+                `w_${textAreaWidth}`,
+                'c_fit',
+                `co_rgb:${textColor}`,
+                'g_south_west',
+                `x_${textLeftOffset}`,
+                `y_${titleBottomOffset}`,
+                `l_text:${titleFont}_${titleFontSize}${titleExtraConfig}:${encodeURIComponent(
+                title,
+                )}`,
+                ].join(',');
+  
+                // configure the tagline text
+                const taglineConfig = [
+                `w_${textAreaWidth}`,
+                'c_fit',
+                `co_rgb:${textColor}`,
+                'g_north_west',
+                `x_${textLeftOffset}`,
+                `y_${taglineTopOffset}`,
+                `l_text:${taglineFont}_${taglineFontSize}${taglineExtraConfig}:${encodeURIComponent(
+                tagline,
+                )}`,
+                ].join(',');
+  
+                // combine all the pieces required to generate a Cloudinary URL
+                const urlParts = [
+                cloudinaryUrlBase,
+                cloudName,
+                'image',
+                'upload',
+                imageConfig,
+                titleConfig,
+                taglineConfig,
+                version,
+                imagePublicID,
+                ];
+  
+                const validParts = urlParts.filter(Boolean);
+  
+                // join all the parts into a valid URL to the generated image
+                return validParts.join('/');
+        }
+        console.log('**In method**');
+    console.log('**in note**');
+    var pagetitle = "{{ page.title }}";
+    const socialImage = generateSocialImage({
+      title: pagetitle,
+      tagline: 'Writing blog posts is fun when the robots do some of the work!',
+      cloudName: 'nehasaa',
+      imagePublicID: 'portfolio/blog-post-card'
+    });
+    console.log(socialImage);
+    console.log('**out of method**');
+  </script>
   <meta charset="UTF-8">
 
   {% if site.use_html_extension == false %}
@@ -50,7 +136,7 @@
   {% endif %}
 
   {% if page.image %}
-  <meta property="og:image" content="{{ site.url }}{{ page.image }}">
+  <meta property="og:image" content=socialImage>
   <meta property="og:image:width" content="1280" /> 
   <meta property="og:image:height" content="658" /> 
   {% endif %}
@@ -62,7 +148,7 @@
   <meta name="twitter:title" content="{{ site.title }}"> 
   <meta name="twitter:description" content="{{ site.title | strip_html | strip_newlines | truncate: 160 }}"> 
   <meta name=”twitter:url” content="{{ site.url }}"> 
-  <meta name="twitter:image" content="{{ site.url }}{{ page.image }}"> 
+  <meta name="twitter:image" content=socialImage> 
   <meta name="twitter:site" content="@reddy2go"> 
   <meta name="twitter:creator" content="@reddy2go">
 
@@ -74,89 +160,4 @@
     {% endif %}
   </title>
 </head>
-  <script>
-    function generateSocialImage({
-            title,
-            tagline,
-            cloudName,
-            imagePublicID,
-            cloudinaryUrlBase = 'https://res.cloudinary.com',
-            version = null,
-            titleFont = 'arial',
-            titleExtraConfig = '',
-            taglineExtraConfig = '',
-            taglineFont = 'arial',
-            imageWidth = 1280,
-            imageHeight = 669,
-            textAreaWidth = 760,
-            textLeftOffset = 480,
-            titleBottomOffset = 254,
-            taglineTopOffset = 445,
-            textColor = '000000',
-            titleFontSize = 64,
-            taglineFontSize = 48,
-            }) {
-                // configure social media image dimensions, quality, and format
-                const imageConfig = [
-                `w_${imageWidth}`,
-                `h_${imageHeight}`,
-                'c_fill',
-                'q_auto',
-                'f_auto',
-                ].join(',');
-
-                const titleConfig = [
-                `w_${textAreaWidth}`,
-                'c_fit',
-                `co_rgb:${textColor}`,
-                'g_south_west',
-                `x_${textLeftOffset}`,
-                `y_${titleBottomOffset}`,
-                `l_text:${titleFont}_${titleFontSize}${titleExtraConfig}:${encodeURIComponent(
-                title,
-                )}`,
-                ].join(',');
-
-                // configure the tagline text
-                const taglineConfig = [
-                `w_${textAreaWidth}`,
-                'c_fit',
-                `co_rgb:${textColor}`,
-                'g_north_west',
-                `x_${textLeftOffset}`,
-                `y_${taglineTopOffset}`,
-                `l_text:${taglineFont}_${taglineFontSize}${taglineExtraConfig}:${encodeURIComponent(
-                tagline,
-                )}`,
-                ].join(',');
-
-                // combine all the pieces required to generate a Cloudinary URL
-                const urlParts = [
-                cloudinaryUrlBase,
-                cloudName,
-                'image',
-                'upload',
-                imageConfig,
-                titleConfig,
-                taglineConfig,
-                version,
-                imagePublicID,
-                ];
-
-                const validParts = urlParts.filter(Boolean);
-
-                // join all the parts into a valid URL to the generated image
-                return validParts.join('/');
-        }
-        console.log('**In method**');
-    console.log('**in note**');
-    var pagetitle = "{{ page.title }}";
-    const socialImage = generateSocialImage({
-      title: pagetitle,
-      tagline: 'Writing blog posts is fun when the robots do some of the work!',
-      cloudName: 'nehasaa',
-      imagePublicID: 'portfolio/blog-post-card'
-    });
-    console.log(socialImage);
-    console.log('**out of method**');
-  </script>
+  

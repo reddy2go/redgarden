@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 {% include head.html %}
-<script src="/assets/js/integrations.js"></script>
+<script src="/assets/js/d3.min.js" crossorigin="anonymous"></script>
 <body>
   <nav>{% include nav.html %}</nav>
   <main>{{ content }}</main>
@@ -9,7 +9,7 @@
 
   {% include link-previews.html wrapperQuerySelector="content" %}
   <!--{% include color-switcher-js.html %}-->
-  {% include integrations-js.html %}
+  <!--{% include integrations-js.html %}-->
 </body>
 
 </html>

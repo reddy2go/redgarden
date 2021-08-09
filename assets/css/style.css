@@ -345,6 +345,11 @@ a.internal-link:after, a.footnote-backref:after {
   height: auto;
 }
 
+#social-image {
+  background: var(--callout-background);
+  border-radius: 4px;
+  height: auto;
+}
 /* Code blocks */
 code {
   background: var(--callout-background);

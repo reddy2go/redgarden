@@ -19,4 +19,4 @@ this is me, playing with thoughts, words and actions to find delight in uncertai
 
 more of a [burning dervish](/who-the-fuck-is-reddy/), than a guiding light in the darkness, i’m here not to show you the way, but to infect you with the spirit of play. and if you're game, jump right in...
 
-[[enter the playpen]]
+[enter the playpen](/playpen)

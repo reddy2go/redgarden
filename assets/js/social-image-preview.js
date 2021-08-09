@@ -19,6 +19,7 @@ export default function generateSocialImage({
     titleFontSize = 64,
     taglineFontSize = 48,
     }: Config): string {
+        console.log('Hey1');
         // configure social media image dimensions, quality, and format
         const imageConfig = [
         `w_${imageWidth}`,
@@ -84,3 +85,4 @@ export default function generateSocialImage({
     });
   
     console.log(socialImage);
+    console.log('Hey');

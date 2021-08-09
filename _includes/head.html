@@ -89,6 +89,16 @@
     socialImagelink.setAttribute('property', 'twitter:image');
     socialImagelink.content = socialImage;
     document.getElementsByTagName('head')[0].appendChild(socialImagelink);
+
+    var socialImagelink2 = document.createElement('meta');
+    socialImagelink2.setAttribute('property', 'og:image');
+    socialImagelink2.content = socialImage;
+    document.getElementsByTagName('head')[0].appendChild(socialImagelink2);
+
+    var socialImagelink3 = document.createElement('meta');
+    socialImagelink3.setAttribute('property', 'image');
+    socialImagelink3.content = socialImage;
+    document.getElementsByTagName('head')[0].appendChild(socialImagelink3);
   </script>
   <meta charset="UTF-8">
 

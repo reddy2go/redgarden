@@ -8,4 +8,4 @@ id: home
 	Take a look at <a href="/your-first-note.html" class="internal-link">Your First Note</a> to get started on your exploration.
 </section>
 
-<!--{% include_relative README.md %}-->
+{% include_relative about.md %}

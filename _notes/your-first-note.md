@@ -1,6 +1,7 @@
 ---
 title: Your first seed
 category: Getting Started
+social-preview:
 ---
 
 ### Welcome!

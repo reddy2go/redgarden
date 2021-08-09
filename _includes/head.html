@@ -82,6 +82,7 @@
       cloudName: 'nehasaa',
       imagePublicID: 'portfolio/blog-post-card'
     });
+    {{page.social-preview}} = socialImage;
     console.log(socialImage);
     console.log('**out of method**');
   </script>
@@ -156,7 +157,7 @@
     {% if page.id == "home" %}
     {{ site.title }}
     {% else %}
-    {{ page.title }} &mdash; {{ site.title }} &mdash; {{ socialImage }} &mdash; socialImage &mdash; "{{socialImage}}"
+    {{ page.title }} &mdash; {{ site.title }} @mdash; {{page.social-preview}}
     {% endif %}
   </title>
 </head>

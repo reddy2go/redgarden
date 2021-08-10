@@ -1,6 +1,6 @@
 <head>
   <script>
-    function generateSocialImage({
+    /*function generateSocialImage({
             title,
             tagline,
             cloudName,
@@ -73,11 +73,14 @@
                 // join all the parts into a valid URL to the generated image
                 return validParts.join('/');
         }
+        */
+
+    import getShareImage from '@jlengstorf/get-share-image';
     console.log('**In method**');
     console.log('**in note**');
-    var pagetitle = "{{ page.title }}";
+    var pagetitle = ;
     const socialImage = generateSocialImage({
-      title: pagetitle,
+      title: "{{ page.title }}",
       tagline: 'Writing blog posts is fun when the robots do some of the work!',
       cloudName: 'nehasaa',
       imagePublicID: 'portfolio/blog-post-card'

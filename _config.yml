@@ -35,6 +35,7 @@ commonmark:
 
 plugins:
   - jekyll-last-modified-at
+  - jekyll-feed
 
 collections:
   notes:
@@ -54,3 +55,7 @@ defaults:
       path: "_notes/**/*.md"
     values:
       layout: "note"
+
+rssPrompt: "Subscribe to the RSS feed."
+feed:
+  path: "rss.xml"

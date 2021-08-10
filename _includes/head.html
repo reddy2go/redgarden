@@ -159,7 +159,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
   <meta name="HandheldFriendly" content="True" />
   
-  <meta name="twitter:card" content="YOUR SUMMARY HERE" /> 
+  <meta name="twitter:card" content="{{ page.excerpt | strip_html | strip_newlines | strip | truncate: 160 }}" /> 
   <meta name="twitter:title" content="{{ site.title }}"> 
   <meta name="twitter:description" content="{{ site.title | strip_html | strip_newlines | truncate: 160 }}"> 
   <meta name=”twitter:url” content="{{ site.url }}"> 

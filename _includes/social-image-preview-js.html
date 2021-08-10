@@ -1,5 +1,6 @@
-<script>
-    function generateSocialImage({
+
+    <script>
+        function generateSocialImage({
             title,
             tagline,
             cloudName,
@@ -28,7 +29,7 @@
                 'q_auto',
                 'f_auto',
                 ].join(',');
-  
+
                 const titleConfig = [
                 `w_${textAreaWidth}`,
                 'c_fit',
@@ -40,7 +41,7 @@
                 title,
                 )}`,
                 ].join(',');
-  
+
                 // configure the tagline text
                 const taglineConfig = [
                 `w_${textAreaWidth}`,
@@ -53,7 +54,7 @@
                 tagline,
                 )}`,
                 ].join(',');
-  
+
                 // combine all the pieces required to generate a Cloudinary URL
                 const urlParts = [
                 cloudinaryUrlBase,
@@ -66,41 +67,24 @@
                 version,
                 imagePublicID,
                 ];
-  
+
                 const validParts = urlParts.filter(Boolean);
-  
+
                 // join all the parts into a valid URL to the generated image
                 return validParts.join('/');
         }
         console.log('**In method**');
-    console.log('**in note**');
-    var pagetitle = "{{ page.title }}";
-    const socialImage = generateSocialImage({
-      title: pagetitle,
-      tagline: 'Writing blog posts is fun when the robots do some of the work!',
-      cloudName: 'nehasaa',
-      imagePublicID: 'portfolio/blog-post-card'
-    });
-    console.log(socialImage);
-    console.log('**out of method**');
-
-    var socialImagelink = document.createElement('meta');
-    socialImagelink.setAttribute('property', 'twitter:image');
-    socialImagelink.content = socialImage;
-    document.getElementsByTagName('head')[0].appendChild(socialImagelink);
-
-    var socialImagelink2 = document.createElement('meta');
-    socialImagelink2.setAttribute('property', 'og:image');
-    socialImagelink2.content = socialImage;
-    document.getElementsByTagName('head')[0].appendChild(socialImagelink2);
-
-    var socialImagelink3 = document.createElement('meta');
-    socialImagelink3.setAttribute('property', 'image');
-    socialImagelink3.content = socialImage;
-    document.getElementsByTagName('head')[0].appendChild(socialImagelink3);
-
-    var socialImagelink4 = document.createElement('meta');
-    socialImagelink4.setAttribute('property', 'twitter:title');
-    socialImagelink4.content = 'Updated test';
-    document.getElementsByTagName('head')[0].appendChild(socialImagelink4);
-  </script>
+        /*const socialImage = generateSocialImage({
+            title: 'This Is a Post With an Automatically Generated Social Sharing Card',
+            tagline: 'Writing blog posts is fun when the robots do some of the work!',
+            cloudName: 'jlengstorf',
+            imagePublicID: 'lwj/blog-post-card',
+            titleFont: 'lwj-title.otf',
+            titleExtraConfig: '_line_spacing_-10',
+            taglineFont: 'lwj-tagline.otf',
+            textColor: '232129',
+            });
+        
+            console.log(socialImage);
+            console.log('**out of method**');*/
+</script>

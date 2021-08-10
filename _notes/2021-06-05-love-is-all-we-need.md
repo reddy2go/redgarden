@@ -4,6 +4,7 @@ slug: love-is-all-we-need
 date_published: 2021-06-04T19:43:40.000Z
 date_updated: 2021-06-04T19:43:40.000Z
 category: 
+social-link: https://res.cloudinary.com/nehasaa/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_760,c_fit,co_rgb:000000,g_south_west,x_480,y_254,l_text:arial_64:all%20you%20need%20is%20love%20-%20love%20is%20all%20i%20need/w_760,c_fit,co_rgb:000000,g_north_west,x_480,y_445,l_text:arial_48:Writing%20blog%20posts%20is%20fun%20when%20the%20robots%20do%20some%20of%20the%20work!/portfolio/blog-post-card
 ---
 > All you need is love, love
 > Love is all you need

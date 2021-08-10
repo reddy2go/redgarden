@@ -11,5 +11,4 @@ gem "nokogiri"
 group :jekyll_plugins do
   gem 'jekyll-commonmark-ghpages'
   gem "jekyll-last-modified-at"
-  gem 'jekyll-seo-tag'
 end

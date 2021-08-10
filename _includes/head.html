@@ -100,10 +100,6 @@
     socialImagelink3.content = socialImage;
     document.getElementsByTagName('head')[0].appendChild(socialImagelink3);
 
-    var socialImagelink4 = document.createElement('meta');
-    socialImagelink4.setAttribute('property', 'twitter:title');
-    socialImagelink4.content = 'Updated test';
-    document.getElementsByTagName('head')[0].appendChild(socialImagelink4);
   </script>
   <meta charset="UTF-8">
 
@@ -162,7 +158,7 @@
   <meta name="HandheldFriendly" content="True" />
   
   <meta name="twitter:card" content="summary_large_image" /> 
-  <!--<meta name="twitter:title" content="{{ page.title }}"> -->
+  <meta name="twitter:title" content="{{ page.title }}">
   <meta name="twitter:description" content="{{ page.excerpt | strip_html | strip_newlines | strip | truncate: 160 }}"> 
   <meta name=”twitter:url” content="{{ page.url }}">
   <meta name="twitter:site" content="@reddy2go"> 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcomee! 🥬
+title: Welcome! 🥬
 id: home
 ---
 

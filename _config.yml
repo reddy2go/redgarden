@@ -35,7 +35,6 @@ commonmark:
 
 plugins:
   - jekyll-last-modified-at
-  - jekyll-seo-tag
 
 collections:
   notes:

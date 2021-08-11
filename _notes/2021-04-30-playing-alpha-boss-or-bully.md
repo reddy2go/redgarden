@@ -46,7 +46,7 @@ the sun don’t seek to be the moon and the moon doesn’t intend to outshine th
 
 betas are considered lower in the dominant hierarchy but hold equal value when you zoom out and see the big picture. in fact, **all life on earth possesses equal value**.
 
-if you’re an alpha personality, tap into that and express yourself such. if you’re beta, don’t feel less than. remember anyone can win the game. and that’s why **play is important to understand both as a philosophy and as a practice**.  alphas have higher [interaction quotient](/interaction-quotient-learn-to-play-together/) by virtue of their ability to initiate action, but without betas to join in, the game won’t go on.
+if you’re an alpha personality, tap into that and express yourself such. if you’re beta, don’t feel less than. remember anyone can win the game. and that’s why **play is important to understand both as a philosophy and as a practice**.  alphas have higher [interaction quotient](__GHOST_URL__/interaction-quotient-learn-to-play-together/) by virtue of their ability to initiate action, but without betas to join in, the game won’t go on.
 
 if you’ve not guessed by now, i’m an alpha by nature. i have been an arrogant arsehole as a youth, but i’ve since grown into an aggressive but compassionate adult. i’m not ambitious in the least and don’t care about victory, but come into my own in times of crisis, leading those around me effortlessly to safety.
 

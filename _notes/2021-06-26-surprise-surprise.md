@@ -5,8 +5,6 @@ date_published: 2021-06-25T19:14:01.000Z
 date_updated: 2021-06-25T19:48:04.000Z
 ---
 
-![assets/images/IMG_0308.jpeg](assets/images/IMG_0308.jpeg)
-
 you are probably wondering where i’d disappeared and angry about not being kept in the loop about my absence or my change in publishing cadence. i’m apologetic for that. 
 
 what i’m not apologetic for is the actual hibernation from creation. because i believe the magic in my madness was fading and i want us both to be on the bleeding edge of insanity. i wanted to rekindle that fire 🔥 
@@ -23,7 +21,14 @@ so we’re going to invest time, money and effort together in this relationship 
 
 ## let's play!
 
-just hit reply to this mail and type **'let's play!'** if you want to continue receiving mails from me (free or paid). if you don't reply, i'll assume you don't want to continue and will unsubscribe you. i'm using this opportunity to purge this email list before we jump on this new leg of our adventure. it's time for us both to commit to this game if we're going to take this to the next level. here's [more info](/playpals) on what's in store ahead. hope to see you on the other side...
+just hit reply to this mail and type **'let's play!'** if you want to continue receiving mails from me (free or paid). if you don't reply, i'll assume you don't want to continue and will unsubscribe you. i'm using this opportunity to purge this email list before we jump on this new leg of our adventure. it's time for us both to commit to this game if we're going to take this to the next level. here's [more info](__GHOST_URL__/playpen) on what's in store ahead. hope to see you on the other side...
+[
+
+enter the playpen
+
+joy is our default state of mind. period. and play is the way to get there. butwe have forgotten how to enjoy without reason, like children can. that’s why we are creating this kindergarten for adults. to get you startedhere’s a 9 day cohort based course across 3 phases - stop, rewind and play.y…
+
+![](__GHOST_URL__/favicon.png)reddy2Goreddy2Go
 
 ![](__GHOST_URL__/content/images/2021/06/IMG_1427-2.jpg)
 ](__GHOST_URL__/playpen/)

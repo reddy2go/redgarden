@@ -37,4 +37,4 @@ there is a no grand plan or great scheme and an earth shaking climax awaiting us
 
 each time you get to see more of me as i reveal myself. sometimes it’s entertaining, sometimes amusing. sometimes titillating. sometimes unnerving. sometimes annoying.
 
-will you eventually get bored of me? of course that’s most likely. that could be today or years from now. when that happens, bid me farewell. share yourself with me at least once before you walk away. whisper the [three things i love to hear](/thank-you-sorry-fuck-you/), whether or not you choose to walk away. don't forget, emoji replies can often express more than words.
+will you eventually get bored of me? of course that’s most likely. that could be today or years from now. when that happens, bid me farewell. share yourself with me at least once before you walk away. whisper the [three things i love to hear](__GHOST_URL__/thank-you-sorry-fuck-you/), whether or not you choose to walk away. don't forget, emoji replies can often express more than words.

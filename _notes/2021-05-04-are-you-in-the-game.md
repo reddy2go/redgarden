@@ -35,7 +35,7 @@ modern families are largely dysfunctional as there is no space in which to expre
 
 here’s where ODie jumps in to the rescue. use the documentation you’ve collected and craft a letter to your team mates, your family members, colleagues or your partner and express yourself as best as you can. it’s your choice if you wish to play within social norms or colour outside the lines. you’ll soon find your own balance.
 
-if you’re at a loss of where to start, try [the three most important words](/thank-you-sorry-fuck-you/) you can ever say.
+if you’re at a loss of where to start, try [the three most important words](__GHOST_URL__/thank-you-sorry-fuck-you/) you can ever say.
 
 ## do
 

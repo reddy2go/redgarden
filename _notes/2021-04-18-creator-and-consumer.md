@@ -47,7 +47,7 @@ the consumer seeks to devour information and in most cases isn't even processing
 
 the creator on the other hand is the drop of water that starts the series of ripples that will echo across eternity. what you create may not even make a ripple, let alone a splash but the important thing is to keep at it and exercise the ability that distinguishes you as creator from the consumer. 
 
-consider it your duty to feed the consumer. no, actually you only owe it to yourself to share honestly with the world, your own self: ideas, thoughts, plans and action. you don’t owe it to the world to [provide value](/value-of-value/)but you do owe it to yourself to honestly express yourselfinyourinteractions with world.
+consider it your duty to feed the consumer. no, actually you only owe it to yourself to share honestly with the world, your own self: ideas, thoughts, plans and action. you don’t owe it to the world to [provide value](__GHOST_URL__/value-of-value/)but you do owe it to yourself to honestly express yourselfinyourinteractions with world.
 
 > every child is a creator, so what’s stopping you from creating?
 

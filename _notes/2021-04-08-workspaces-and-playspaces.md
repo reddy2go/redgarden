@@ -23,7 +23,7 @@ share that with anyone near you right now. ask them what their playspaces were l
 
 do you remember the X-Men's Danger Room? well, your school or college gym wasn’t as cool but it was a space devoted to training - an activity that begins as play but soon becomes work. that isn’t necessary a negative, but is that what you intended?
 
-a training space is the middle ground between play spaces and work spaces. they offer constantly changing and challenging situations where there are no lasting  consequences for mistakes made. it offers the opportunity to develop new skills without the possibility of [danger or death](/danger-and-death/).
+a training space is the middle ground between play spaces and work spaces. they offer constantly changing and challenging situations where there are no lasting  consequences for mistakes made. it offers the opportunity to develop new skills without the possibility of [danger or death](__GHOST_URL__/danger-and-death/).
 
 ## return to innocence 😇
 
@@ -61,6 +61,6 @@ have a few random objects (toys if you will) strewn around. pick them up, throw 
 
 playmates are vital to the spirit of a playground and gifts are equally important in lighting up the spirit of a playmate. keep candy handy to share with anyone who comes into your playspace. never underestimate the power of food to set the mood. play is hard work after all!
 
-this isn’t a DIY manual on how to build a playspace. but it definitely intends to inspire and instigate a spirit of play in you. one that you can nurture by creating a shrine. a holy place for your inner child. remember as a child we always [played in public](/playing-in-public/) so don’t hesitate to invite others in to play. would love to see what your playspace looks like!
+this isn’t a DIY manual on how to build a playspace. but it definitely intends to inspire and instigate a spirit of play in you. one that you can nurture by creating a shrine. a holy place for your inner child. remember as a child we always [played in public](__GHOST_URL__/playing-in-public/) so don’t hesitate to invite others in to play. would love to see what your playspace looks like!
 
 > It is the child in man that is the source of his uniqueness and creativeness, and the playground is the optimal milieu for the unfolding of his capacities and talents - Eric Hoffer

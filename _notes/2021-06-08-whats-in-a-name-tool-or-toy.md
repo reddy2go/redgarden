@@ -10,7 +10,7 @@ it’s a common practice to name toys as a kid. a teddy bear wasn’t just anoth
 > This is my rifle. There are many like it but this one is mine. My rifle is my best friend. It is my life. I must master it as I must master my life. Without me, my rifle is useless. Without my rifle I am useless. I must fire my rifle true.
 > Rifleman’s Creed
 
-replace [the gun](/guns-and-toys/) with your favorite toy and you’ll feel the same sentiment. i don’t remember what my teddy bear was called but i do remember it having a name.
+replace [the gun](__GHOST_URL__/guns-and-toys/) with your favorite toy and you’ll feel the same sentiment. i don’t remember what my teddy bear was called but i do remember it having a name.
 
 ## tools or toys?
 

@@ -59,7 +59,7 @@ and now we shall also look at the games behind the curtain. uncommon fetishes ar
 
 ## playdate: laughter and/or orgasms
 
-societal limitations are real, but what about the barriers in your own mind, preformed notions that have never been challenged or questioned? not that they have to be. but if laughter is the best medicine, orgasms aren’t far behind so why not enjoy both together? and the simple [litmus test of play](/purpose-of-play/) will act as a trusty friend every single time
+societal limitations are real, but what about the barriers in your own mind, preformed notions that have never been challenged or questioned? not that they have to be. but if laughter is the best medicine, orgasms aren’t far behind so why not enjoy both together? and the simple [litmus test of play](__GHOST_URL__/purpose-of-play/) will act as a trusty friend every single time
 
 > **right here, right now; are you having fun?**
 

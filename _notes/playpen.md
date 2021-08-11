@@ -28,7 +28,7 @@ don't you wonder if there is more to life than work?
 - you will create an environment of serendipity where playmates will join you, and help you devise your own playbooks for a life of adventure. 
 - you will learn to play with uncertainty and change as you navigate time and space as an adult in this strange and dangerous world.
 
-### do i reall
+### do i really need this?
 this trip is what you need to breeze through your mid life crisis, not a sports car or a hot affair!
 
 get on the bus before you're ready, because you'll never be and that's perfecto 🤌🏽

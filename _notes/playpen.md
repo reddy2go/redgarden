@@ -10,7 +10,7 @@ favicon:
 
 that’s why we are creating this kindergarten for adults. to get you started here’s a 9 day cohort based course across 3 phases - stop, rewind and play. you’ll also have access to a knovigator thread for async fun and frolic 🥳
 
-## enter the playpen
+## enter the playpen on Luma
 
 [
 Luma - Host Delightful Online Events

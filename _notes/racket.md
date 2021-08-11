@@ -12,8 +12,6 @@ the conversation is recorded & saved forever like ol' photo albums (audio selfie
 
 ### [how to prepare for your racket?](https://racket.com/reddy2go/rhYhn)
 
-[Racket 🚨 by @reddy2go](https://racket.com/reddy2go/rhYhn)
-
 ### how to record?
 
 -   you can open **[my studio link](https://racket.com/studio/reddy2go)** from desktop or phone (check browser compatibility), with a podcast quality mic or just your regular mobile earphones

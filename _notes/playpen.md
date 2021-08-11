@@ -10,8 +10,6 @@ favicon:
 
 that’s why we are creating this kindergarten community for adults. to get you started we're launching an email based course shortly. sign up or visit back to check for the launch date.
 
-# be a playpal
-
 ## take a walk on the fun side!
 
 find your fun. enjoy your day, not just endure it. life's a trip, so let's jump on the funwagon and create memories together with other play pals. 

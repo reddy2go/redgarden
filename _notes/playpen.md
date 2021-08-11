@@ -21,8 +21,6 @@ our lives revolve around work and even if you enjoy what you do, feel like it's 
 
 don't you wonder if there is more to life than work?
 
-![3-1024x576.png](http://metasprint.net/wp-content/uploads/2021/08/3-1024x576.png)
-
 ---
 play offers a gateway to the infinite through the magic of the moment, beyond a life of mere meaning and purpose. 
 

@@ -47,7 +47,6 @@ this 'p'lay'gram restores the mind, body, and spirit to the state of homeostasis
 
 ---
 ## ⏪ rewind
-
 - rekindle your fondest memories
 - revisit the past you're running from
 - rebuild your happy space

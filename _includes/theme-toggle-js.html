@@ -1,0 +1,16 @@
+<script>
+  
+    function toggleTheme() {
+        var theme = document.getElementsByTagName("theme");
+  
+        // Change the value of href attribute 
+        // to change the css sheet.
+        if (theme.getAttribute('href') == 'assets/css/style.css') {
+            theme.setAttribute('href', 'assets/css/dark-mode.css');
+            document.querySelector("#color-switcher").innerHTML = "💡";
+        } else {
+            theme.setAttribute('href', 'assets/css/style.css');
+            document.querySelector("#color-switcher").innerHTML = "🌙";
+        }
+    }
+  </script> 

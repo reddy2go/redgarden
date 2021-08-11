@@ -323,8 +323,8 @@ a.internal-link:after, a.footnote-backref:after {
 
 .text text {
   cursor: pointer;
-  fill: #333;
-  text-shadow: -1px -1px 0 #fafafabb, 1px -1px 0 #fafafabb, -1px 1px 0 #fafafabb, 1px 1px 0 #fafafabb;
+  fill: var(--text-color);
+  /*text-shadow: -1px -1px 0 #fafafabb, 1px -1px 0 #fafafabb, -1px 1px 0 #fafafabb, 1px 1px 0 #fafafabb;*/
 }
 
 .nodes [active],

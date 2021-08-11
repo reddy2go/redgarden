@@ -38,8 +38,7 @@ get on the bus before you're ready, because you'll never be and that's perfecto 
 this 'p'lay'gram restores the mind, body, and spirit to the state of homeostasis we enjoyed as children.
 
 ---
-## ⏹ stop
-
+### ⏹ stop
 - look at an average day in your life
 - discover what's holding you back
 - decide what you want to let go

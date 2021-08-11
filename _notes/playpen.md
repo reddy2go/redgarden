@@ -18,7 +18,6 @@ that’s why we are creating this kindergarten community for adults. to get you 
 - i’m their guinea pig and they’ve decided if it’s good enough for me, it’s good enough for you. not that they care too much for either of us.
 
 ### got no time to play
-
 each day you’ll have a live 20 min zoom call (_twice daily actually so you can catch either depending on your timezone_). that can’t be too hard to catch, can it
 
 besides the live calls, you’ll have the async discord channel with random audio chatter on what a load of faff adulthood is and how we were better off as kids.

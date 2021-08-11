@@ -8,7 +8,7 @@ favicon:
 
 > joy is our default state of mind. period. and play is the way to get there. but we have forgotten how to enjoy without reason, like children can.
 
-that’s why we are creating this kindergarten community for adults. to get you started we're launching an email based course shortly. sign up t
+that’s why we are creating this kindergarten community for adults. to get you started we're launching an email based course shortly. sign up or visit 
 
 ### [enter the playpen on Luma](https://lu.ma/community/com-bTQQ4bGoEThBj51)
 

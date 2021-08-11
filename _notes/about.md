@@ -1,6 +1,7 @@
 ---
 title: about
 slug: about
+favicon: 
 ---
 
 ![assets/images/reddy-who.jpeg](assets/images/reddy-who.jpeg)

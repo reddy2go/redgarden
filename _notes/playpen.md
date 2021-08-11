@@ -12,8 +12,7 @@ that’s why we are creating this kindergarten for adults. to get you started he
 
 ### enter the playpen on Luma
 
-[
-Luma - Host Delightful Online Events
+[Luma - Host Delightful Online Events
 Host Delightful Online Events
 ](https://lu.ma/community/com-bTQQ4bGoEThBj51)
 

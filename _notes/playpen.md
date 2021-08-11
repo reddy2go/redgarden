@@ -52,7 +52,7 @@ this 'p'lay'gram restores the mind, body, and spirit to the state of homeostasis
 - recreate a toybox to play with
 - identify your favorite playmates
 
-### ▶️ play
+###  play
 - prepare and plan to play
 - say 'yes' when in doubt
 - build playful habits that confound

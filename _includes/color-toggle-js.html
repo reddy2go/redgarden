@@ -1,0 +1,27 @@
+<script>
+    // Upon page load, enable dark mode if flag is set in sessionStorage
+    if (sessionStorage.getItem('night_mode') == "true") {
+      setDarkTheme();
+    }
+  
+    function toggleTheme() {
+      if (hasClass(document.body, 'night-mode')) {
+        setLightTheme();
+      } else {
+        setDarkTheme();
+      }
+    }
+  
+    function setLightTheme() {
+      <link rel="stylesheet" href="assets/css/dark-mode.css">
+      sessionStorage.setItem('night_mode', "false");
+      document.querySelector("#color-switcher").innerHTML = "🌙";
+    }
+  
+    function setDarkTheme() {
+      <link rel="stylesheet" href="assets/css/style.css">
+      sessionStorage.setItem('night_mode', "true");
+      document.querySelector("#color-switcher").innerHTML = "💡";
+    }
+
+  </script> 

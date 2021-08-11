@@ -632,6 +632,8 @@ div.highlight pre {
   color: #009999
 }
 
+}
+
 ul.navElement {
   display: flex;
   list-style-type: none;
@@ -643,5 +645,4 @@ ul.navElement {
 
 .element1{
   flex-grow : 1;
-}
 }

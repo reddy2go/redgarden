@@ -1,6 +1,6 @@
 ---
 title: playpen
-slug: playpen
+slug: playpals
 favicon: 
 ---
 

@@ -11,7 +11,7 @@ favicon:
 ## take a walk on the fun side!
 find your fun. enjoy your day, not just endure it. life's a trip, so let's jump on the fun-wagon and create memories together with other play pals. 
 
-[get on board now!](https://reddy2go.com/playpals)
+[[get on board now!](https://reddy2go.com/playpals)](<## [enter the playpen on Luma](https://lu.ma/community/com-bTQQ4bGoEThBj51)>)
 
 ![enjoy-1024x640.png](http://metasprint.net/wp-content/uploads/2021/07/enjoy-1024x640.png)
 

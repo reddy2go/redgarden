@@ -35,7 +35,6 @@ get on the bus before you're ready, because you'll never be and that's perfecto 
 
 > playpals is an online road trip for people who are looking for that spring in their step they once had as a child 🥳
 
----
 this 'p'lay'gram restores the mind, body, and spirit to the state of homeostasis we enjoyed as children.
 
 ---

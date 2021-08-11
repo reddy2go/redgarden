@@ -26,8 +26,7 @@ play offers a gateway to the infinite through the magic of the moment, beyond a 
 
 ---
 - as playpals, we won't pretend to help you find the answer. actually, we'll leave you with more questions to play with. you'll learn to play with probability instead of work for certainty.
-
-you will create an environment of serendipity where playmates will join you, and help you devise your own playbooks for a life of adventure. 
+- you will create an environment of serendipity where playmates will join you, and help you devise your own playbooks for a life of adventure. 
 
 you will learn to play with uncertainty and change as you navigate time and space as an adult in this strange and dangerous world.
 

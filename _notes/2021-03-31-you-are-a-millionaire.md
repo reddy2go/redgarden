@@ -30,7 +30,7 @@ what if the world doesn’t think what i have to say is worth two million dollar
 
 maybe the world will laugh and throw two cents at you. worse they may ignore you. but… what if they actually believe in you and are willing to bet two million dollars on you? maybe they’ll want to bargain and bring your value down to a million dollars. possibilities are meant to play with. all i ask is that you believe in your worth.
 
-like esteem can be divided into self-esteem and social esteem, so can value. what i’m sharing with you today is my two million dollars. if you care to do the same, write back to me and let’s make each other rich 🤑 if you don’t think it’s worth even two cents, lemme know. your opinion is still worth two million dollars to me (at least) and don't forget what *Ralph Waldo Emerson* said "[Money often costs too much.](__GHOST_URL__/wealth-poverty-playing-with-money/)"
+like esteem can be divided into self-esteem and social esteem, so can value. what i’m sharing with you today is my two million dollars. if you care to do the same, write back to me and let’s make each other rich 🤑 if you don’t think it’s worth even two cents, lemme know. your opinion is still worth two million dollars to me (at least) and don't forget what *Ralph Waldo Emerson* said "[Money often costs too much.](/wealth-poverty-playing-with-money/)"
 
 btw, in case you want to buy this post as an NFT, drop 35 BTC 💎 in my wallet. 
 ![](https://images.unsplash.com/photo-1530037768512-3c9a22715452?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHw3fHxtb25leSUyMGNoaWxkfGVufDB8fHx8MTYxNzIwMTE4NQ&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=1080)

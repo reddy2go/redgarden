@@ -20,8 +20,7 @@ the conversation is recorded & saved forever like ol' photo albums (audio selfie
 
 ### how do we play?
 - post the initial ‘hello, can you hear me’s and ‘hey, how are you’s, we can slide into a cool, casual, and candid conversation. i like to start with a question and riff about it but this isn’t a one-sided interview.
-
-if you pause, i’ll jump in. if i pause, you can dive in. kinda like playing hot potato. i believe in attraction rather than promotion, so let people know where they can reach you online to continue the conversation.
+- if you pause, i’ll jump in. if i pause, you can dive in. kinda like playing hot potato. i believe in attraction rather than promotion, so let people know where they can reach you online to continue the conversation.
 
 remember, there are no edits so you’ll have a link ready to share minutes after we end the session.if you still have any questions, or concerns, please reach out [via email](mailto:reddy2go@hey.com) or [twitter DMs](https://twitter.com/reddy2go).
 

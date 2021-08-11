@@ -24,7 +24,6 @@ the conversation is recorded & saved forever like ol' photo albums (audio selfie
 - remember, there are no edits so you’ll have a link ready to share soon after we end the session. if you still have any questions, or concerns, please reach out [via email](mailto:reddy2go@hey.com) or [twitter DMs](https://twitter.com/reddy2go).
 
 ### why racket?
-
 [A conversation with Austin about Racket and the audio apps category | Racket](https://racket.com/hnshah/rB3tH)
 
 [What is Racket? Chat With Austin Petersmith | Racket](https://racket.com/mailecabral/rYaHa)

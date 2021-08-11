@@ -12,9 +12,6 @@ the conversation is recorded & saved forever like the ol' photo albums of yore. 
 ## where to schedule?
 
 [playtime🕹 - @reddy2Go](https://calendly.com/reddy2go/playtime)
-<div>
-<iframe src="https://calendly.com/reddy2go/playtime" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
-</div>
 
 ## how to prepare for your racket?
 

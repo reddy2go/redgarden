@@ -5,7 +5,7 @@ id: home
 ---
 
 <section class="callout">
-	in this digital garden, https://maggieappleton.com/garden-history you can start anywhere and go everywhere, and this <a href="/square-one" class="internal-link">post</a> is as good as any to start exploring...
+	in this [digital garden](https://maggieappleton.com/garden-history), you can start anywhere and go everywhere, and this <a href="/square-one" class="internal-link">post</a> is as good as any to start exploring...
 </section>
 
 ### welcome to my soul safari! 

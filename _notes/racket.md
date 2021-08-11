@@ -1,5 +1,5 @@
 ---
-title: let's record racket
+title: let's record a racket
 slug: racket
 favicon: 
 ---

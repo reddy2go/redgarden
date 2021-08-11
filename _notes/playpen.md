@@ -14,7 +14,7 @@ that’s why we are creating this kindergarten for adults. to get you started he
 
 [Luma - Host Delightful Online Events
 Host Delightful Online Events
-](https://lu.ma/community/com-bTQQ4bGoEThBj51)
+]()
 
 ## why 9 days?
 

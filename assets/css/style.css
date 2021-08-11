@@ -241,6 +241,16 @@ a {
   text-decoration: none;
 }
 
+a.nav-icons{
+  transition: all 300ms;
+  font-weight: 800;
+  text-decoration: none;
+  border-bottom: none;
+}
+a.nav-icons:after {
+  content: "";
+}
+
 a:hover, a:focus {
   transition: all 300ms;
   background: var(--primary-color);
@@ -635,14 +645,4 @@ ul.navElement {
 
 .element1{
   flex-grow : 1;
-}
-
-a.nav-icons{
-  transition: all 300ms;
-  font-weight: 800;
-  text-decoration: none;
-  border-bottom: none;
-}
-a.nav-icons:after {
-  content: "";
 }

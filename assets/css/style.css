@@ -40,7 +40,7 @@ body {
   margin: 0 auto;
   padding: 4vh 6vw;
   overflow-x: hidden;
-
+}
 
 ::selection {
   color: black;
@@ -643,5 +643,4 @@ ul.navElement {
 
 .element1{
   flex-grow : 1;
-}
 }

@@ -5,7 +5,8 @@ favicon:
 ---
 
 ![assets/images/playpen.jpeg](assets/images/playpen.jpg)
-joy is our default state of mind. period. and play is the way to get there. but we have forgotten how to enjoy without reason, like children can.
+
+> joy is our default state of mind. period. and play is the way to get there. but we have forgotten how to enjoy without reason, like children can.
 
 that’s why we are creating this kindergarten for adults. to get you started here’s a 9 day cohort based course across 3 phases - stop, rewind and play. you’ll also have access to a knovigator thread for async fun and frolic 🥳
 

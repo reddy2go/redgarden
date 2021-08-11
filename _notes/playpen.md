@@ -62,4 +62,4 @@ this 'p'lay'gram restores the mind, body, and spirit to the state of homeostasis
 ---
 this is **NOT** a course but it's the only trip you'll ever need, to turn your life into an adventure like no other. 
 
-[get on board now!](https://reddy2go.com/playpals)
+[[get on board now!](https://reddy2go.com/playpals)](<### [enter the playpen on Luma](https://lu.ma/community/com-bTQQ4bGoEThBj51)%3E)>)

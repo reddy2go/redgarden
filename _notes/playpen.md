@@ -13,6 +13,7 @@ find your fun. enjoy your day, not just endure it. life's a trip, so let's jump 
 
 ### [enter the playpen on Luma](https://lu.ma/community/com-bTQQ4bGoEThBj51)>)
 
+---
 but you're at a standstill and life seems like a chore instead of an adventure
 
 you feel the gravity of life weighing you down, and you're missing the levity of play you enjoyed as a child.

@@ -11,7 +11,7 @@ favicon:
 ## take a walk on the fun side!
 find your fun. enjoy your day, not just endure it. life's a trip, so let's jump on the fun-wagon and create memories together with other play pals.
 
-### you know you want y
+### you know you want to
 but you're at a standstill and life seems like a chore instead of an adventure
 
 you feel the gravity of life weighing you down, and you're missing the levity of play you enjoyed as a child.

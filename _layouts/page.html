@@ -7,7 +7,4 @@ layout: default
   {{ content }}
 </section>
 <section>
-  {%- if site.show_notes_graph -%}
-  <p>i don't write ✍🏼 these nodes grow 🌱 all by themselves, so enjoy swinging through like i do...</p>
-  {% include notes-graph.html %}
-</section>
+  {%- if site.show_notes_graph -%}<p>i don't write ✍🏼 these nodes grow 🌱 all by themselves, so enjoy swinging through like i do...</p>{% include notes-graph.html %}{%- endif -%}</section>

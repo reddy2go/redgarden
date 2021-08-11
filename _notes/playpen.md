@@ -60,6 +60,6 @@ this 'p'lay'gram restores the mind, body, and spirit to the state of homeostasis
 - learn to play nice with others
 
 ---
-this is **NOT* a course but it's the only trip you'll ever need, to turn your life into an adventure like no other. 
+this is **NOT** a course but it's the only trip you'll ever need, to turn your life into an adventure like no other. 
 
 [get on board now!](https://reddy2go.com/playpals)

@@ -15,7 +15,9 @@ that’s why we are creating this kindergarten community for adults. to get you 
 ### why 9 days?
 cats have 9 lives soo... yeah, you get it. i’m just winging it here. there’s no method to my madness and i’m just here to have fun. together.
 
-while nothing here is backed by research papers and institutional curriculum, everything here is with clear intention of enjoying the challenge of chaos and backed by the lives and deaths of my dozen plus cats. i’m their guinea pig and they’ve decided if it’s good enough for me, it’s good enough for you. not that they care too much for either of us.
+while nothing here is backed by research papers and institutional curriculum, everything here is with clear intention of enjoying the challenge of chaos and backed by the lives and deaths of my dozen plus cats.
+
+i’m their guinea pig and they’ve decided if it’s good enough for me, it’s good enough for you. not that they care too much for either of us.
 
 ## got no time to play
 

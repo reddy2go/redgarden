@@ -25,7 +25,7 @@ don't you wonder if there is more to life than work?
 play offers a gateway to the infinite through the magic of the moment, beyond a life of mere meaning and purpose.
 
 ---
-as playpals, we won't pretend to help you find the answer. actually, we'll leave you with more questions to play with. you'll learn to play with probability instead of work for certainty.
+- as playpals, we won't pretend to help you find the answer. actually, we'll leave you with more questions to play with. you'll learn to play with probability instead of work for certainty.
 
 you will create an environment of serendipity where playmates will join you, and help you devise your own playbooks for a life of adventure. 
 

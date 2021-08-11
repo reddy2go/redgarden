@@ -22,9 +22,7 @@ our lives revolve around work and even if you enjoy what you do, feel like it's 
 don't you wonder if there is more to life than work?
 
 ---
-play offers a gateway to the infinite through the magic of the moment, beyond a life of mere meaning and purpose. 
-
-![ms-levels-1024x576.png](http://metasprint.net/wp-content/uploads/2021/08/ms-levels-1024x576.png)
+play offers a gateway to the infinite through the magic of the moment, beyond a life of mere meaning and purpose.
 
 ---
 as playpals, we won't pretend to help you find the answer. actually, we'll leave you with more questions to play with. you'll learn to play with probability instead of work for certainty.

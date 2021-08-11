@@ -12,7 +12,7 @@ that’s why we are creating this kindergarten for adults. to get you started he
 
 ### [enter the playpen on Luma](https://lu.ma/community/com-bTQQ4bGoEThBj51)
 
-## why 9 days?
+### why 9 days?
 
 cats have 9 lives soo... yeah, you get it. i’m just winging it here. there’s no method to my madness and i’m just here to have fun. together.
 

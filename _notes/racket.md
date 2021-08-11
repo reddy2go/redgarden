@@ -1,5 +1,5 @@
 ---
-title: racket
+title: record racket
 slug: racket
 favicon: 
 ---

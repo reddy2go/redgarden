@@ -11,7 +11,7 @@ the conversation is recorded & saved forever like ol' photo albums (audio selfie
 ### where to schedule?
 [playtime🕹 - @reddy2Go](https://calendly.com/reddy2go/playtime)
 
-### [how to prepare for your racket?](https://racket.com/reddy2go/rhYhn))
+### [how to prepare for your racket?](https://racket.com/reddy2go/rhYhn)
 
 [Racket 🚨 by @reddy2go](https://racket.com/reddy2go/rhYhn)
 

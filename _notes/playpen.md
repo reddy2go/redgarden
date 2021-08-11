@@ -10,7 +10,7 @@ favicon:
 
 that’s why we are creating this kindergarten community for adults. to get you started we're launching an email based course shortly. sign up or visit back to check for the launch date.
 
-### [enter the playpen on Luma](https://lu.ma/community/com-bTQQ4bGoEThBj51)
+
 # be a playpal
 
 ## take a walk on the fun side!

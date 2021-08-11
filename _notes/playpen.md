@@ -9,7 +9,6 @@ favicon:
 > joy is our default state of mind. period. and play is the way to get there. but we have forgotten how to enjoy without reason, like children can.
 
 ## take a walk on the fun side!
-
 find your fun. enjoy your day, not just endure it. life's a trip, so let's jump on the funwagon and create memories together with other play pals. 
 
 [get on board now!](https://reddy2go.com/playpals)

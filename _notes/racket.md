@@ -9,7 +9,6 @@ hello there 👋🏽 glad you’re curious about making a racket together. my pr
 the conversation is recorded & saved forever like ol' photo albums (audio selfie?) of yore. a reminder that connecting with strangers can be an experience to cherish and build on till we’re no longer strangers, but playmates.
 
 ### [where to schedule?](https://calendly.com/reddy2go/playtime)
-[playtime🕹 - @reddy2Go](https://calendly.com/reddy2go/playtime)
 
 ### [how to prepare for your racket?](https://racket.com/reddy2go/rhYhn)
 

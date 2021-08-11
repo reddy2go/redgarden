@@ -17,7 +17,7 @@ that’s why we are creating this kindergarten community for adults. to get you 
 - nothing here is backed by research papers and institutional curriculum, everything here is designed in the spirit of my dozen plus cats.
 - i’m their guinea pig and they’ve decided if it’s good enough for me, it’s good enough for you. not that they care too much for either of us.
 
-## got no time to play
+### got no time to play
 
 each day you’ll have a live 20 min zoom call (_twice daily actually so you can catch either depending on your timezone_). that can’t be too hard to catch, can it
 

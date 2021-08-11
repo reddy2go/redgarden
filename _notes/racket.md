@@ -18,7 +18,7 @@ the conversation is recorded & saved forever like ol' photo albums (audio selfie
 
 ![assets/images/groot-gif-20.gif](assets/images/groot-gif-20.gif)
 
-## how do we play?
+### how do we play?
 
 post the initial ‘hello, can you hear me’s and ‘hey, how are you’s, we can slide into a cool, casual, and candid conversation. i like to start with a question and riff about it but this isn’t a one-sided interview.
 

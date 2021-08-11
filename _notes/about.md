@@ -5,6 +5,7 @@ favicon:
 ---
 
 ![assets/images/reddy-who.jpeg](assets/images/reddy-who.jpeg)
+
 we’re born to play together, with infinite possibilities in the quest to reach our maximum potential in this multiplayer game of life.
 
 i envision a world in which play, not study or work is the default. you might say i’m on a mission to make playtime a part of every adult’s life, but that’s on you!

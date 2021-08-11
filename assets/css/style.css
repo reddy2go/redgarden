@@ -5,7 +5,7 @@
 :root {
   --heading-color: #141413;
   --text-color: #141413;
-  --text-color-faded: rgb(29, 31, 32, 0.5);
+  --text-color-faded: #141413;
   --primary-color: #d85649;
   --background-color: #f9eeed;
   --callout-background: #f7e8e1;

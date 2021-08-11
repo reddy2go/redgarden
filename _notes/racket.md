@@ -1,7 +1,7 @@
 ---
 title: let's record a racket
 slug: racket
-favicon: 
+favicon: 🎙
 ---
 
 ![assets/images/racket.jpeg](assets/images/racket.jpeg)

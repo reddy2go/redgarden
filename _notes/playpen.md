@@ -1,5 +1,5 @@
 ---
-title: playpals
+title: be a playpal
 slug: playpals
 favicon: 
 ---

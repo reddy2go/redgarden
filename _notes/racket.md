@@ -14,7 +14,7 @@ the conversation is recorded & saved forever like ol' photo albums (audio selfie
 
 ### how to record?
 - open **[the studio link](https://racket.com/studio/reddy2go)** from desktop or phone (check browser compatibility), with a podcast quality mic or even just your regular mobile earphones
-- post the 9 min recording, ⚠️ **[don’t click](https://twitter.com/DominicZijlstra/status/1404034289671544834)** the ‘**return to racket’ button if you want to stay connected and have a cool-down chat before heading out
+- post the 9 min recording, ⚠️ **[don’t click](https://twitter.com/DominicZijlstra/status/1404034289671544834)** the ‘**return to racket**’ button if you want to stay connected and have a cool-down chat before heading out
 
 ![assets/images/groot-gif-20.gif](assets/images/groot-gif-20.gif)
 

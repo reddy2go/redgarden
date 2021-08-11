@@ -45,7 +45,6 @@ this 'p'lay'gram restores the mind, body, and spirit to the state of homeostasis
 - ask yourself why you want to play
 - stop and smell the roses
 
----
 ## ⏪ rewind
 - rekindle your fondest memories
 - revisit the past you're running from

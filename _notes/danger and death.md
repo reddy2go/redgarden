@@ -20,7 +20,6 @@ it’s often only when confronted by a sense of urgency that we make decisions l
 if you’re a contemplative individual who has premeditated responses to extreme danger and imminent death, you are closer to discovering and exercising agency apart from both internal and external influences.
 
 ### imagination and execution
-
 using these two, we can play to find ways to dance with danger and death, in a way that offers comfort and creativity instead of fear and insecurity.
 
 > **l can't concentrate on golf or**
@@ -30,8 +29,7 @@ games have always relied on the primal need to survive as the motivation to push
 
 > **Difficulty is what wakes up the genius**. - Nassim Taleb
 
-## 🏁 the starting line
-
+## the starting line
 while deadlines scare and stress, they also instigate action from a state of inertia.  however we can’t stay in first gear forever and need to constantly keep shifting gears as per the situation.
 ![](https://images.unsplash.com/photo-1461896836934-ffe607ba8211?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHw5fHxzdGFydGluZyUyMGxpbmV8ZW58MHx8fHwxNjE1Njk4OTMz&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=1080)
 the gunshot fired to kickstart a race is symbolic of the danger that gets us going. but it’s more of a desire to be the fastest and get the gold that drives Usain Bolt to the finish line and fear of being shot in the arse. but how much faster do you think he would run if that were really the case? almost every adult has experienced that spurt of energy when the danger of missing deadlines and facing consequences looms on the horizon.

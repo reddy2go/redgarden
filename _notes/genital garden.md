@@ -3,7 +3,7 @@ title: genital garden
 slug: genital-garden
 ---
 
-everytime i scratch that itch
+everytime i scratch that itch<br/>
 that primal urge to yell and bitch
 making space to share my thoughts
 look closer to find just scary warts

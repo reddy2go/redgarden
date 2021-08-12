@@ -19,8 +19,8 @@ everything i write is a profound penis<br/>
 a snapshot of my raging hard hubris
 
 if you're here admiring this textuality<br/>
-stay awhile, and you will find divinity****
-we're all here to connect & copulate
+stay awhile, and you will find divinity<br/>
+we're all here to connect & copulate<br/>
 scream, shout, express and ejaculate
 
 ---

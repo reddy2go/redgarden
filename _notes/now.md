@@ -9,7 +9,7 @@ if you choose to stay, know that it's a feature not a bug. there might be more s
 
 ### some springboards
 - [[learn to live before you earn to live]]
-- [[]]
+- [[rock-bottom]]
 - [[learn to play]]
 - [[freestyle rapping]]
 

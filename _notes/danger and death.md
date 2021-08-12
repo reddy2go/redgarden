@@ -1,8 +1,6 @@
 ---
 title: vitamin D - danger and death
 slug: danger-and-death
-date_published: 2021-03-25T13:34:42.000Z
-date_updated: 2021-04-02T09:19:30.000Z
 category: 
 ---
 > **A good plan, violently executed now, is better than a perfect plan next week.** George Patton

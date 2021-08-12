@@ -42,7 +42,6 @@ some of us maybe scared to use danger as a tool to initiate action but some othe
 contrast that with the modern jungle aka the workspace where stressors and dangers abound all the time. it is no wonder that performance anxiety and burnouts are expected of individuals today. what is the ratio of relaxation to excitation in your everyday life?
 
 ### good, bad and ugly
-
 while i’m all for the sense of urgency that danger and death bring to our lives, it’s is unsustainable if more than **2%** of the time. let’s call that **ugly** energy. that extreme state of urgency, emergency and stress that your engine can bear and even relish without getting destroyed in the process. this is that ‘pedal to the metal’ and ‘balls to the wall’ kinda energy that every individual experiences whether predators or prey in life’s journey to survive and thrive.
 
 the aftermath of that hyper rush of energy can be managed at approximately **18%** of the time where you use that initial momentum to your advantage while still adding to it with gusto and aggression towards your goal. this state of being still has you breathless but you’re not pumping at maximum. still hovering around the red line though 😅 let’s call this **bad** energy (not a negative connotation).

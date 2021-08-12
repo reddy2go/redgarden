@@ -42,4 +42,4 @@ when we think of all the achievements and accomplishments of all the men and wom
 why aren’t we giving out a Nobel prize for the scientist who’s had the most fun while attempting to discover or invent something (even if he failed at it!). after all, my earliest memories of a scientist was always the stereotypical absent minded scientist, who was always challenging children with curious and mischievous experiments intended to inspire more than educate.
 
 here’s an experiment for you. attempt to quantify the fun quotient in everything you do and tell me how you fare.
-[![](/content/images/2021/04/image.png)](https://twitter.com/reddy2go/status/1381993000612417540?s=21)
+[![](/assets/images/image.png)](https://twitter.com/reddy2go/status/1381993000612417540?s=21)

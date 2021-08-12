@@ -32,7 +32,7 @@ i’d rejoiced in the depths with the magic that only isolation can weave but i 
 
 those precious stones that glinted in the depths now seemed like any other piece of rock. i realised the world wants these stones polished and aimed to perfection, so they may marvel at it’s beauty. this was a process that needed skill, finesse and an understanding of how the masses wanted their wisdom served.
 
-## who da cap fit, let ‘em wear it
+### who da cap fit, let ‘em wear it
 ![14EB52A8-5286-4018-AFEC-7715B6E8BCC8](https://res.craft.do/user/full/aea53ecb-f07e-7684-f954-13f587938a00/57BC1604-4547-42DF-B835-4A22C999F6A6_2)
 i’ve spent the good part of my time on the surface attempting to develop the skills needed to make fine jewellers to adorn you. meanwhile, i stopped going back into the depths. and my playtime with others on the surface was reduced to polishing the previously mined stones.
 

@@ -29,8 +29,6 @@ but what if we are stunting growth by feeding curiosity instead of causing growt
 
 [reddy player one on Twitter](https://twitter.com/reddy2go/status/1345251686902730753?s=21)
 
-https://twitter.com/reddy2go/status/1345251686902730753?s=21
-
 ## write a book before you read it
 
 this seems silly but the next time you want to learn something by reading about it, write everything you know about it first. then write everything you don’t know about it. know what you know. know what you don’t know. and now, spend time wondering about it until you’re generate insights seemingly out of thin air.

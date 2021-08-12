@@ -29,7 +29,7 @@ but what if i were at my worst? financially dependent. lonely. paranoid of the p
 
 i’m not this version of me but every single day i’m visualising how this version of me would survive in the present situation. whatever strategies and tactics i use in my life are designed to be executed by the worst version of myself, not the best version of me.
 
-you don’t have to hit rockbottom and live there like i did to realise you have a worst version too. what’s he or she like? if they are still around (they always are) how would they play through your current life challenges?
+you don’t have to hit rock-bottom and live there like i did to realise you have a worst version too. what’s he or she like? if they are still around (they always are) how would they play through your current life challenges?
 
 i’m living my life gregariously today but i’m keenly aware of how that isolated version of me would feel in this situation and how i could make things easier for him if i were to suddenly find myself back in that state.
 

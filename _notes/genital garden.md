@@ -4,8 +4,8 @@ slug: genital-garden
 ---
 
 everytime i scratch that itch<br/>
-that primal urge to yell and bitch
-making space to share my thoughts
+that primal urge to yell and bitch<br/>
+making space to share my thoughts<br/>
 look closer to find just scary warts
 
 the world may read through and balk

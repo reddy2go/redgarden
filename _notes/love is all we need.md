@@ -35,7 +35,7 @@ if mary jane taught me to love, lady heroin taught me the elite way of indiffere
 
 this mind space was mellow. even yellow. i didn’t feel the desire to fight for what i thought was right. in fact the list of things to care about grew shorter and eventually there was nothing, and no one to care about.
 
-if there ever is a rock bottom, you’ll find it in these barren lands of carelessness. not caring for one self. not caring for others. not caring for the world. not caring for the little dog that lived down the lane. it’s a cold day when you reach these shores. and it was a while before i left these lands.
+if there ever is a rockbottom, you’ll find it in these barren lands of carelessness. not caring for one self. not caring for others. not caring for the world. not caring for the little dog that lived down the lane. it’s a cold day when you reach these shores. and it was a while before i left these lands.
 
 ## where are we today?
 

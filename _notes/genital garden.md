@@ -24,4 +24,5 @@ we're all here to connect & copulate<br/>
 scream, shout, express and ejaculate
 
 ---
-if you want to hear me rap this[dm me](https://twitter.com/reddy2go) or i will just scrap this
+if you want to hear me rap this<br/>
+[dm me](https://twitter.com/reddy2go) or i will just scrap this

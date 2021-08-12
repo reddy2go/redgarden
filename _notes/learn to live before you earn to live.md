@@ -3,7 +3,6 @@ title: learn to live or live to earn
 slug: learn-to-live
 ---
 
-
 if you've been following me on [racket](https://racket.com/reddy2go), you'll know i've been talking a lot about education, learning, teaching, creativity but online and IRL. 
 
 my current series with the profoundly prolific & eternally curious [@mostlynotworkin](https://twitter.com/mostlynotworkin) has my thoughts racing & flowing in the same vein. now that [@tekondeck](https://twitter.com/tekondeck) and i are starting another series together, i'm drawn deeper into the rabbit hole of education, and the future of mankind as a consequence.

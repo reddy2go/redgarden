@@ -30,7 +30,7 @@ games have always relied on the primal need to survive as the motivation to push
 > **Difficulty is what wakes up the genius**. - Nassim Taleb
 
 ## the starting line
-while deadlines scare and stress, they also instigate action from a state of inertia.  however we can’t stay in first gear forever and need to constantly keep shifting gears as per the situation.
+while deadlines scare and stress, they also instigate action from a state of inertia. however we can’t stay in first gear forever and need to constantly keep shifting gears as per the situation.
 
 ![](https://images.unsplash.com/photo-1461896836934-ffe607ba8211?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHw5fHxzdGFydGluZyUyMGxpbmV8ZW58MHx8fHwxNjE1Njk4OTMz&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=1080)
 

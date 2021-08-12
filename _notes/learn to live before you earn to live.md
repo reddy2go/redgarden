@@ -1,5 +1,5 @@
 ---
-title: learn to live or live to earn
+title: learn to live or live to earn?
 slug: learn-to-live
 ---
 

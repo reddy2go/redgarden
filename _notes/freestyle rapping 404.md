@@ -14,7 +14,7 @@ that answered the why. as for the how, i'm starting to document my deep play int
 if you wanna follow me down the rabbit hole, choose your own adventure and tag along, maybe you'll hear a bloodied song.
 
 [[what do i want to rap about?]]
-[[navarasas]] or the nine emotions
+[[navarasa]] or the nine emotions
 
 ### discography
 - [[genital garden]]

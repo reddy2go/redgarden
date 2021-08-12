@@ -13,8 +13,7 @@ but what if danger and death were designed to make us relish and enjoy life to t
 
 think about all the times you’ve felt absolutely alive, animated and excited beyond belief. on a slide, under a waterfall, diving into chilly waters, riding a roller coaster. our greatest experiences in civilisation are on the fringes or edges of it. imagine life beyond the boundaries we’ve drawn ourselves into.
 
-## 🚨 urgency = agency
-
+### 🚨 urgency = agency
 agency is scarce. from the time were born to the time we die we rarely, if ever exercise agency. until our teens, parents dictate all aspects of our life. peers follow suit through the teenage years without making it obvious. as adults, bosses and spouses take the mantle and influence our actions; covertly or overtly. our children then become the compass for life’s actions as we’re now liable for them.
 
 it’s often only when confronted by a sense of urgency that we make decisions less influenced by others and more influenced by ourselves. of course that may just be internal biases, past conditioning and emotional outbursts at play. yet it’s probably the most agency you’ve shown in a long time.

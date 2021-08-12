@@ -18,8 +18,7 @@ none of this bothered me much. in my 40 years on terra firma i’ve seen enough 
 
 was i numb from the shock? not in the least. on the contrary, i was executing strategic moves that would resolve each of my problems and set me on a path towards a new tomorrow. effortlessly if i may add for i’m never more alive than when shit hits the fan! and yet instead of gleefully grinning from ear to ear like a predator at the sight of prey, i was growing aloof.
 
-## into the deep
-
+### into the deep
 there was a place beyond the lust for life and the peace of death. it wasn’t new. i’d been here before. but this time heroin hadn’t brought me here. yet here i was, lounging in limbo. nowhere to go. nothing to do. nobody to be. yet i felt like this is where i needed to be, what i needed to do and who i needed to be.
 ![](https://images.unsplash.com/photo-1598557429123-f50d46fe4987?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHwyNXx8dm9ydGV4fGVufDB8fHx8MTYxNjY2NDI0NA&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=1080)
 in the depths of this delirium, i danced with my thoughts swimming around me. letting them out every morning scribbling voraciously. i knew not what i wrote, yet every word felt like the loving embrace of a long lost friend. everything that sprung out was raw and raucous, yet pure and pristine.

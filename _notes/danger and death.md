@@ -3,7 +3,7 @@ title: vitamin D - danger and death
 slug: danger-and-death
 category: 
 ---
-> **A good plan, violently executed now, is better than a perfect plan next week.** George Patton
+> A good plan, violently executed now, is better than a perfect plan next week. George Patton
 
 in the primal world, danger and death are a constant threat. this is well known and the reason why we’ve been enamoured by the idea of civilisation with its promise to deliver us from danger. technology now lures us deeper into delusion with the promise of eradicating even death.
 

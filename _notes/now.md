@@ -7,7 +7,7 @@ everyone has to start somewhere, be it square one or rock bottom. this space is 
 
 if however you choose to stay, know that it's a feature not a bug. there might be more structure someday that will guide you along maps of content.
 
-### springboards
+### some springboards
 - [[learn to live before you earn to live]]
 - [[learn to play]]
 - [[freestyle rapping 404]]

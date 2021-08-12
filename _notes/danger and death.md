@@ -26,7 +26,7 @@ using these two, we can play to find ways to dance with danger and death, in a w
 
 games have always relied on the primal need to survive as the motivation to push one towards victory. today we’ve replaced the primal rewards of survival and procreation with money and fame. yet intrinsic motivation will always be fear or desire based and that can be transformed through play into fun.
 
-> Difficulty is what wakes up the genius**. - Nassim Taleb
+> Difficulty is what wakes up the genius. - Nassim Taleb
 
 ## the starting line
 while deadlines scare and stress, they also instigate action from a state of inertia. however we can’t stay in first gear forever and need to constantly keep shifting gears as per the situation.

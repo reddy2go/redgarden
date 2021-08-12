@@ -10,6 +10,7 @@ do you know what is more important than intelligence? intelligence is considered
 history may selectively remember only the men at the helm but then stories are always biased towards the hero. so i don’t expect any better. that still don’t change the reality that progress depends on many.
 
 if we’re to change the world, up the game and upgrade our future, we must learn to play together. i therefore propose interaction quotient as the new IQ. collaboration and co-creation are the skills we need and the heroes we deserve must be capable of interaction and not just action.
+
 ![](https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHwyfHx0b2dldGhlcnxlbnwwfHx8fDE2MTg4NjU3MTU&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=1080)
 ## safety is the foundation
 

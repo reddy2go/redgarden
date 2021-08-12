@@ -8,7 +8,7 @@ everyone has to start somewhere, be it square one or [[rock-bottom]]. this space
 if you choose to stay, know that it's a feature not a bug. there might be more structure someday that will guide you along maps of content. for now, here are...
 
 ### some springboards
-- [[learn to live before you earn to live]]
+- [[learn to live or live to earn]]
 - [[rock-bottom]]
 - [[learn to play]]
 - [[freestyle rapping]]

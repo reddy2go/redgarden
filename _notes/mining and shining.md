@@ -13,7 +13,7 @@ yet something inside me told me this was the beginning of the end. the end of th
 ![](https://images.unsplash.com/photo-1596420213465-a4cc2602f4f3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHw4fHxlYXJ0aHF1YWtlfGVufDB8fHx8MTYxNjY2NDEwOQ&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=1080)
 things weren’t much different in my world. the crisis has brought me closer to family and yet taken away loved ones from me overnight. my businesses were suddenly nonexistent. technically handicapped, i hobbled around on crutches to nowhere in particular.
 
-none of this bothered me much. in my 40 years on terra firma i’ve seen enough drama and trauma to think of rock bottom as a vacation. having descended into the depths of the abyss instills a quiet and steely resilience that nothing in the surface world can rattle.
+none of this bothered me much. in my 40 years on terra firma i’ve seen enough drama and trauma to think of [[rock-bottom]] as a vacation. having descended into the depths of the abyss instills a quiet and steely resilience that nothing in the surface world can rattle.
 
 was i numb from the shock? not in the least. on the contrary, i was executing strategic moves that would resolve each of my problems and set me on a path towards a new tomorrow. effortlessly if i may add for i’m never more alive than when shit hits the fan! and yet instead of gleefully grinning from ear to ear like a predator at the sight of prey, i was growing aloof.
 

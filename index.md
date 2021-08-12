@@ -5,7 +5,7 @@ id: home
 ---
 
 <section class="callout">
-	this is what's known as a <a href class="internal-link" src="/digital-garden">digital garden</a>, so you can start anywhere, go everywhere, and <a href class="internal-link" src="/now">'here and now'</a> is as good a time and space as any to start exploring...
+	this is what's known as a <a href class="internal-link" src="https://reddy2go.com/digital-garden">digital garden</a>, so you can start anywhere, go everywhere, and <a href class="internal-link" src="https://reddy2go.com/now">here and now</a> is as good a time and space as any to start exploring...
 </section>
 
 ### welcome to my soul safari! 

@@ -19,8 +19,7 @@ i was in my teens when the hippie haven in the Himalayas was on it’s last legs
 
 [Charles Sobhraj](https://en.wikipedia.org/wiki/Charles_Sobhraj) didn’t kill the merry vibes. the world just decided there’s more to life than the love of love. but what happened to me? i lost all sensation of love or hate and was lost in the limbo of indifference.
 
-## love to hate
-
+### love to hate
 while hate is greatly vilified in the public eye, it’s also generously applied by the same public. so is there really such a [great difference](https://www.independent.co.uk/news/science/scientists-prove-it-really-is-a-thin-line-between-love-and-hate-976901.html) between the two?
 
 hate is a ferocious energy that channels all the passion and channelises it in to destroyed the other. amusingly enough it ends up destroying oneself too in the process.

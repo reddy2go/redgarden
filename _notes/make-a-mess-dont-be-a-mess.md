@@ -7,6 +7,8 @@ category:
 ---
 very often making art turns into an obsession with perfection. that’s the reason i created this very space - where i write half baked thoughts and share without hesitation. *Steven Pressfield* calls this obsession for perfection ‘[the resistance](https://www.youtube.com/watch?v=6ZToRdS2HRc)’. but resistance is futile, which is why as an artist i chose to embrace the mess, instead of being reduced to a mess by resistance. that brings us to the question - how do we explore the difference between being a messy artist and creating messy art?
 
+{% include youtubePlayer.html id=6ZToRdS2HRc %}
+
 ## why not be a messy artist?
 
 creating art requires a fine hand and keen eye. even messy art. especially messy art. but **don’t be a messy artist**. here's what happened to me when i became a messy artist. i didn’t care if i wrote everyday or not. i didn’t care for the process of creating. i didn’t care to revere the ritual that had helped me create. i didn’t worship the obsession that grabbed me by the balls and compelled me to create.

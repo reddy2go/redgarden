@@ -2,7 +2,7 @@
 title: genital garden
 slug: genital-garden
 ---
-after spending a week grappling with
+after spending a week grappling with multiple technologies and issues to build this digital garden, i unleash my
 
 everytime i scratch that itch<br/>
 that primal urge to yell and bitch<br/>

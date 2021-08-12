@@ -1,5 +1,5 @@
 ---
-title: interaction quotientthe new IQ
+title: interaction quotient - the new IQ
 slug: interaction-quotient-learn-to-play-together
 date_published: 2021-04-19T20:57:03.000Z
 date_updated: 2021-04-30T15:46:05.000Z

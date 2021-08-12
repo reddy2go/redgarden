@@ -22,6 +22,7 @@ parents are proud to raise children with safety as the primary priority. society
 think about all the times you’ve felt absolutely alive, animated and excited beyond belief. on a slide, under a waterfall, diving into chilly waters, riding a roller coaster. our greatest experiences within the confines of modern civilisation are on the fringes or edges of it.
 
 it’s always more fun to draw on the walls than in your notebook. to eat the food you’re specifically advised not to. often more titillating to make love in public places. the risk of getting caught or the danger of being found adds a level of excitement that colouring within the lines never offers.
+
 ![](https://images.unsplash.com/photo-1591600473567-19088f039d37?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHwyM3x8Y3JpbWV8ZW58MHx8fHwxNjE2ODM0Njg1&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=1080)
 when we start pushing to the extremes with gambling, betting, extreme adventure, even robbery and crime becomes just ways of playing with danger.  before you dismiss this as unethical and uncivilised, remember we’re obsessed with the darkness as much as we claim you abhor and avoid it. the glorification and celebration of crime based movies reflect our culture more than we like to admit. everyone wants their [dose of vitamin D](/danger-and-death/), one way or another.
 

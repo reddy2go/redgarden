@@ -50,8 +50,7 @@ when i attempt to polish the stones i dig up, it’s more out of fear that peopl
 
 i’m also aware that the value of the stones we seek is in the search for them. maybe you don’t want to dig into the earth and mine. maybe you prefer to polish them and make them shine ✨ if that’s your trip, i welcome you to play with my raw thoughts discovered in the depths of my consciousness. polish them and make pretty necklaces of them for others to wear and share.
 
-## never too late to create
-
+### never too late to create
 everyone of us is a creator. an artist. take what you like and create something of it. make it your own. share it so others can do the same. don’t care if you’re under confident or over the hill. start now. comment on this piece. share it with your unique insights. it’s never too late to create and never too ugly to share.
 
 express your experience of consuming and let the world know. thus the very act of sharing your thoughts becomes an act of creation in itself. can’t wait to hear what you have to say. until then i’ll be digging down in the darkness. when you peep into the abyss and see a spark, wave out 👋🏽

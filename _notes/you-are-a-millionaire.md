@@ -34,13 +34,3 @@ like esteem can be divided into self-esteem and social esteem, so can value. wha
 
 btw, in case you want to buy this post as an NFT, drop 35 BTC 💎 in my wallet. 
 ![](https://images.unsplash.com/photo-1530037768512-3c9a22715452?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHw3fHxtb25leSUyMGNoaWxkfGVufDB8fHx8MTYxNzIwMTE4NQ&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=1080)
-
-<div class="embed-container">
-  <iframe
-      src="https://www.youtube.com/embed/6ZToRdS2HRc"
-      width="700"
-      height="480"
-      frameborder="0"
-      allowfullscreen="">
-  </iframe>
-</div>

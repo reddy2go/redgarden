@@ -28,16 +28,14 @@ every group, every community must be guided by principles that will determine bo
 
 sometimes the force is strong in the individual who leads, sometimes it is strong in those that follow. whatever the truth, let’s lay down a manifesto to guide us when either of us are weak.
 
-## playfully yours
-
+### playfully yours
 the best laid plans can disappear without a trace with the slightest of breeze. in the playground, in the moment, playmates are the only reality. no guiding principles and no strictly enforced rules can really save the day.
 
 which is why the spirit of play must percolate down to the lowest common denominator if we are to succeed in our goal of collaboration over competition. i always like to challenge the common belief that only competition can foster growth.
 
 sharing and caring or collaboration and co-creation can do more for collective growth than pursuits of individual hubris. each one, each one. share your affection and appreciation with just one other playmate in the playground and watch it spread like wildfire.
 
-## improving interaction quotient
-
+### improving interaction quotient
 now that i’ve waxed eloquently for so long, i’ll now share my simple model for understanding and increasing interaction in groups and communities. let’s break everyone into these groups on the basis of their involvement.
 
 **0** - ground zero or the core group

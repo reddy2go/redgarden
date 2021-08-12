@@ -5,7 +5,7 @@ id: home
 ---
 
 <section class="callout">
-	this is what's known as a <a href="https://maggieappleton.com/garden-history" target="_blank">digital garden</a>, so you can start anywhere and go everywhere, and <a href="/square-one" class="internal-link">this post</a> is as good as any to start exploring...
+	this is what's known as a <a href="https://maggieappleton.com/garden-history" target="_blank">digital garden</a>, so you can start anywhere and go everywhere, and <a href="/now" class="internal-link">this post</a> is as good as any to start exploring...
 </section>
 
 ### welcome to my soul safari! 

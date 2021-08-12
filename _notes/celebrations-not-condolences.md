@@ -61,7 +61,7 @@ Death at close quarters, tests the philosophy you choose to live by. Regardless 
 As I sat there mulling philosophically about death, the other cats came to observe her motionless body. The fear, obvious. Their legs trembling, they sniffed furiously trying to make sense of this phenomena. The older cats however stayed far away from the body. Were they ignoring or simply accepting the fact of death? I've laid to rest many of the dogs, cats, squirrels, snakes that live around me.
 
 Every time, I've noticed, adult animals accept death and avoid the dead. The young though are curious and afraid. Is it the instinct of survival that enables them to accept and adapt? What benefits, if at all, do humans gain from a long-drawn period of grieving? Perhaps, we can learn from nature in accepting and adapting to death. Living life after death.
-![Death: The Ultimate Curiosity](/content/images/2020/12/death-celebrations-not-condolences.jpg)Illustrated by [Sumedha Vemuri](https://instagram.com/vemuridraws)
+![Death: The Ultimate Curiosity](/assets/images/death-celebrations-not-condolences.jpg)Illustrated by [Sumedha Vemuri](https://instagram.com/vemuridraws)
 ## YOLO
 
 The very next day, the adult cats are back to caring for the younger kittens. The younger siblings, who gazed fearfully at her dead body are playing again, after a brief period of intense contemplation. They appear to be even more full of life now, as if reinforced by the death of their sister.

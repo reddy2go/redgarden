@@ -10,11 +10,11 @@ look closer to find just scary warts
 
 the world may read through and balk<br/>
 couldn't care if you scoff or mock <br/>
-there is a sense within that sighs
+there is a sense within that sighs<br/>
 as i write, towards the skies it flies
 
-they call this space a digital garden
-but out here there be no guarding
+they call this space a digital garden<br/>
+but out here there be no guarding<br/>
 everything i write is a profound penis
 a snapshot of my raging hard hubris
 

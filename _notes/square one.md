@@ -1,5 +1,5 @@
 ---
-title: square one
+title: 
 slug: now
 ---
 

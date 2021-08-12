@@ -22,11 +22,11 @@ if you’re a contemplative individual who has premeditated responses to extreme
 ### imagination and execution
 using these two, we can play to find ways to dance with danger and death, in a way that offers comfort and creativity instead of fear and insecurity.
 
-> l can't concentrate on golf or bowling. Those bowling pins aren't going to hurt me. I can concentrate in the ring because someone is trying to kill me.** - Carmen Basilo
+> l can't concentrate on golf or bowling. Those bowling pins aren't going to hurt me. I can concentrate in the ring because someone is trying to kill me. - Carmen Basilo
 
 games have always relied on the primal need to survive as the motivation to push one towards victory. today we’ve replaced the primal rewards of survival and procreation with money and fame. yet intrinsic motivation will always be fear or desire based and that can be transformed through play into fun.
 
-> **Difficulty is what wakes up the genius**. - Nassim Taleb
+> Difficulty is what wakes up the genius**. - Nassim Taleb
 
 ## the starting line
 while deadlines scare and stress, they also instigate action from a state of inertia. however we can’t stay in first gear forever and need to constantly keep shifting gears as per the situation.

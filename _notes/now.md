@@ -5,7 +5,7 @@ slug: now
 
 everyone has to start somewhere, be it square one or rock bottom. this space is messy, confusing and you might wonder why, or just turn around and fly.
 
-if you choose to stay, know that it's a feature not a bug. there might be more structure someday that will guide you along maps of content.
+if you choose to stay, know that it's a feature not a bug. there might be more structure someday that will guide you along maps of content. for now
 
 ### some springboards
 - [[learn to live before you earn to live]]

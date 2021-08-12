@@ -29,7 +29,7 @@ not a pretty picture, my life. but i want you to know that there’s plenty of g
 
 but that’s not the intention i want to base my actions upon. i don’t want to act with guilt. i’ve accepted my errors. i’ve accepted that some actions might have been warranted, but blame will not take me far. regardless of who wears the blame, responsibility is always mine to bear.
 
-thinking of all the harm i’ve caused is an epic undertaking in itself. so you can imagine how difficult it would be to make amends. but at some point you will realise that [accepting errors, apologising and making amends](__GHOST_URL__/art-of-apology/) is still not enough.
+thinking of all the harm i’ve caused is an epic undertaking in itself. so you can imagine how difficult it would be to make amends. but at some point you will realise that [accepting errors, apologising and making amends](/art-of-apology/) is still not enough.
 
 that’s when the magic of gratitude comes to play. this was even harder than all the humble pie i’ve eaten to get this far. for gratitude to stick, i’ve dived deep into my drug addled memories to find that feeling. for all that i've blamed and hated my family, what do i love them for? i want to find that feeling of love and gratitude which will fuel my actions today.
 

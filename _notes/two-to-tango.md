@@ -30,4 +30,4 @@ in their purring drone.
 Purged and exhausted they cradle in a huddle,
 and glow invitingly like a pair of fireflies in heat;
 savoring the bitter-sweet aftertaste of love.
-![](__GHOST_URL__/content/images/2020/12/poetry-jugalbandhi.jpg)
+![](/content/images/2020/12/poetry-jugalbandhi.jpg)

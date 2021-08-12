@@ -16,7 +16,7 @@ let's go back in time, 300000 years ago. an infant then would have to hang on to
 ### baby's way out
 
 babies suspended in the amniotic fluid of the womb experience a sense of gyroscopic freedom in all planes and angles. post birth however, the spatial freedom is now limited by gravity, structural integrity and front facing binocular vision. their first challenge to learn to support their own weight by holding on is not allowed. so they proceed to moving the neck and limbs from a supine position. this is where the baby turns her head left and right while lying on her back. her arms and legs are flailing in the air as if riding an imaginary upside down peloton. skill mastered, she attempts to roll over, so she can now switch between being supine and prone.
-![Baby Exploring Movement](__GHOST_URL__/content/images/2020/12/baby-crawling-on-all-fours.jpg)Photo by [Jordan Rowland](https://unsplash.com/photos/lfEX-fEN3zY)
+![Baby Exploring Movement](/content/images/2020/12/baby-crawling-on-all-fours.jpg)Photo by [Jordan Rowland](https://unsplash.com/photos/lfEX-fEN3zY)
 rather excited about this new prone perspective, she now has a new challenge to hold her head up as she surveys her kingdom. the previously developed limb-flailing skills now come in handy. she now attempts to move her arms and legs to propel herself forward. voila! she can now move. this landmark is however unappreciated in the human realm. we save the applause for when she finally lifts her hands off the ground and stands up on her feet. "her first steps!" we say, tears of joy welling up.
 
 ### the young child
@@ -36,7 +36,7 @@ today, there's a divide in development as young adults choose to focus on either
 # man vs animal
 
 if you were expecting some sort of circus freakshow, sorry to disappoint you. this is just a comparison between the average human adult and an animal in the wild. as ageing adults, physical activity is usually relegated to household chores or a weekend game. some may imbibe a regular workout habit but most are ritualistic and restrictive unlike the playful experience of non-competitive sport. either way, most humans never experience a sense of deep connection to their physical self. tune into nat geo wildlife documentaries and you'll notice all wild animals use their bodies expertly, keenly aware of their capabilities. why is it in the human kingdom, only a small percentage of adults develop their bodies to an elite level?
-![Baby Playing with Dog](__GHOST_URL__/content/images/2020/12/baby-playing-with-dog.jpg)Photo by [Picsea](https://unsplash.com/photos/EScCHx_ZR8Y)
+![Baby Playing with Dog](/content/images/2020/12/baby-playing-with-dog.jpg)Photo by [Picsea](https://unsplash.com/photos/EScCHx_ZR8Y)
 the answer is obvious really. expert or elite athleticism is a result of totalitarian training regimes and the mental drive to endure the journey. a healthy sprinkling of good genetics wouldn't hurt. but even then, preparation is an elaborate affair with years of training and weeks or months notice for professional competition. there is an elaborate warm up prior and an extended cool down ritual after. but in the wild, we can see an animal sprint after it's prey from a state of complete rest. how do animals oscillate between a state of repose and heightened action with such ease?
 
 more importantly, how are all animals expertly capable of physical prowess, till the very end of their lives? what is it that makes an average animal better than an elite human?
@@ -77,7 +77,7 @@ animals are ready to explode into intense action from a state of supple rest and
 ### do try this at home
 
 if you've read this far, make time to engage your body in a simple, yet effective way. remember, we're not just physical beings with a mind or mental beings with a body. rediscover the mind-body connection that every other animal on earth enjoys. explore your body for the sake of unity, not just as a vehicle for vanity. make movement a part of your daily activity, independent of your specific workout or training regime. keep it light and easy, but frequent and you'll rock the habit effortlessly.
-![Anandabalasana - Happy Baby Yoga Pose](__GHOST_URL__/content/images/2020/12/happy-baby-yoga-pose.jpg)
+![Anandabalasana - Happy Baby Yoga Pose](/content/images/2020/12/happy-baby-yoga-pose.jpg)
 ---
 
 **disclaimer**: the views expressed here are for contemplative purposes only. do not rely on this information as a substitute for, nor does it replace, professional medical advice, diagnosis, or treatment. do not disregard, avoid or delay obtaining medical or health related advice from your health-care professional because of something you may have read here. the use of any information provided is solely at your own risk.

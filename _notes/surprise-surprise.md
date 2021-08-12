@@ -21,16 +21,16 @@ so we’re going to invest time, money and effort together in this relationship 
 
 ## let's play!
 
-just hit reply to this mail and type **'let's play!'** if you want to continue receiving mails from me (free or paid). if you don't reply, i'll assume you don't want to continue and will unsubscribe you. i'm using this opportunity to purge this email list before we jump on this new leg of our adventure. it's time for us both to commit to this game if we're going to take this to the next level. here's [more info](__GHOST_URL__/playpen) on what's in store ahead. hope to see you on the other side...
+just hit reply to this mail and type **'let's play!'** if you want to continue receiving mails from me (free or paid). if you don't reply, i'll assume you don't want to continue and will unsubscribe you. i'm using this opportunity to purge this email list before we jump on this new leg of our adventure. it's time for us both to commit to this game if we're going to take this to the next level. here's [more info](/playpen) on what's in store ahead. hope to see you on the other side...
 [
 
 enter the playpen
 
 joy is our default state of mind. period. and play is the way to get there. butwe have forgotten how to enjoy without reason, like children can. that’s why we are creating this kindergarten for adults. to get you startedhere’s a 9 day cohort based course across 3 phases - stop, rewind and play.y…
 
-![](__GHOST_URL__/favicon.png)reddy2Goreddy2Go
+![](/favicon.png)reddy2Goreddy2Go
 
-![](__GHOST_URL__/content/images/2021/06/IMG_1427-2.jpg)
-](__GHOST_URL__/playpen/)
+![](/content/images/2021/06/IMG_1427-2.jpg)
+](/playpen/)
 > would you join my 9 day cohort based kindergarten course?
 > &mdash; reddy 🧸 bear (@reddy2go) [June 24, 2021](https://twitter.com/reddy2go/status/1408093947050610691?ref_src=twsrc%5Etfw)

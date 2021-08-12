@@ -35,7 +35,7 @@ whether it’s watching the most sexually intimate acts baring every orifice on 
 
 youtubers are as popular if not more than movie stars today. why is casual creation going viral and indie production trumping hollywood’s high quality production? it’s the crowds cheering on the courage of the independent creator who’s daring the odds and baring the soul.
 ![](https://images.unsplash.com/photo-1576016770956-debb63d92058?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHw2fHxzaXN0aW5lJTIwY2hhcGVsfGVufDB8fHx8MTYxNzExNTM4Mg&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=1080)
-this vulnerability is fueling the creator economy. remember the courage to create is something you were born with. as a child you created effortlessly. you, a box of crayons and an empty wall would put to shame Michelangelo and the Sistine Chapel. you weren’t shy to [make messy art.](__GHOST_URL__/make-a-mess-dont-be-a-mess/)
+this vulnerability is fueling the creator economy. remember the courage to create is something you were born with. as a child you created effortlessly. you, a box of crayons and an empty wall would put to shame Michelangelo and the Sistine Chapel. you weren’t shy to [make messy art.](/make-a-mess-dont-be-a-mess/)
 
 ## play like the past
 

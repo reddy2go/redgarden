@@ -9,7 +9,7 @@ the rosy picture that welcomes you into a relationship is not what it is once yo
 
 it’s strange that love is assumed to be pretty and pious when the best love stories are all gory and result in one or both dying (often a macabre affair).
 
-coitus and combat are never far apart. [animals mating can appear violent](__GHOST_URL__/two-to-tango/) and traumatic to the onlooker. but hey, if you’re a voyeur, you asked for it. even the courting rituals can be quite confusing to humans bred in the modern ways.
+coitus and combat are never far apart. [animals mating can appear violent](/two-to-tango/) and traumatic to the onlooker. but hey, if you’re a voyeur, you asked for it. even the courting rituals can be quite confusing to humans bred in the modern ways.
 
 we’re never far from our primal nature, no matter how we cocoon ourselves in civilisation. love, lust, aggression, violence are innate and they demand to be expressed passionately; your social graces be damned.
 

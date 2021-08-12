@@ -3,7 +3,7 @@ title: now is all we have
 slug: now
 ---
 
-everyone has to start somewhere, be it square one or rock bottom. this space is messy and confusing and you might. wonder why, or just turn around and fly.
+everyone has to start somewhere, be it square one or rock bottom. this space is messy, confusing and you might. wonder why, or just turn around and fly.
 
 if however you choose to stay, know that it's a feature not a bug. there might be more structure someday that will guide you along maps of content.
 

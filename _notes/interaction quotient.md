@@ -19,8 +19,7 @@ now that the baseline is catered to, let the games begin. the lesser the interfe
 
 most conflicts are actually challenges in disguise, designed to initiate a deeper level of intimacy in interaction. however for it to be recognised thus, a wiser energy most preside over the playground. such a spirit encourages aggression without letting it spill into violence.
 
-## principles above personality
-
+### principles above personality
 we humans love to worship. no other species on the planet has gods, religions and places of worship. and ironically enough they live in harmony while we struggle to relate without being torn apart by constant conflict.
 
 so while we can adore and worship our heroes, let’s stand together for the principles that guide us.

@@ -13,6 +13,7 @@ i believe the presence of danger and the possibility of death were designed to m
 as a child growing up, the idea of safety sucks. because it’s the excuse used by parents, teachers and society at large to prevent you from having fun. most grow up toeing the line and learning to play it safe.
 
 ![](https://images.unsplash.com/photo-1591443062806-2045c656b0d6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHw1MHx8c2FmZXR5fGVufDB8fHx8MTYxNjgzNDU2OA&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=1080)
+
 physical games are created by negating the element of danger. interactions are chaperoned. explorations into the underbelly of society are cordoned off. education offers the illusion of a rosy future for those adhering to it’s system.
 
 parents are proud to raise children with safety as the primary priority. society depends on safety (and comfort) as the selling point to convince humans (inherently primal savages) to adopt civilisation. and we bite the bait without a thought.

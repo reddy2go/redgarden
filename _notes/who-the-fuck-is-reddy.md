@@ -22,8 +22,7 @@ eventually, as all things do, my quixotic adventures came to a crashing end. i l
 
 was lucky to find good people who taught me the ways of the world i had scorned and how to grow strong and lead. to my own and other’s betterment. i began building myself back. and soon i was helping others do the same.
 
-## the present
-
+### the present
 in most cases today, one’s profession is his/her occupation and vice versa. i was never satisfied with that equation. i’ve been a music historian, an artist’s assistant, website designer, graphic artist, cultural chronicler, animation producer, self-defence instructor, counsellor, teacher, small business owner, design thinking & sprint facilitator, agency owner. while all have satisfied me, some deeply, some casually, none of them struck me as the sole purpose of my existence.
 
 so today when Covid-19 gave me the opportunity (yes, i saw opportunity  where others saw crisis), i chose to retire and ‘waste’ my life away without a purpose.

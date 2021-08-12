@@ -29,7 +29,6 @@ we don’t have to return to the wilderness to reclaim our experience of ubiquit
 start with a level you’re comfortable with and constantly challenge yourself to get better and level up. but don’t stop there. dive into the multi player experience and pit your wits against others who will challenge you beyond your comfort zone. but always remember the difference between the playground and battleground of life.
 
 ### game over! play again?
-
 in the virtual world of experiential games, we can re-spawn without much ado. in the real world, a few may have resurrected themselves but i don’t think it’s as effortless as pressing a button. so embrace the spirit of play and experiment boldly. yet tread softly whether you win or lose and respect the game of life. we play not to win, but to learn to lose; graceful in one’s own defeat and gleeful of the other’s victory. because either way, the game just got better.
 
 more than the strategies and tactics you use to gamify your life; professional or personal, it’s the **infusion of fun** that invigorates the spirit of play you were born with. let’s roll the dice and discover our true selves.

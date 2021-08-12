@@ -55,5 +55,6 @@ everyone of us is a creator. an artist. take what you like and create something 
 
 express your experience of consuming and let the world know. thus the very act of sharing your thoughts becomes an act of creation in itself. can’t wait to hear what you have to say. until then i’ll be digging down in the darkness. when you peep into the abyss and see a spark, wave out 👋🏽
 
-when i come back to the surface maybe i’ll have diamonds, maybe rubies. maybe gold, maybe sapphires. stay subscribed if you want to be surprised. but they’ll always be raw and rough. play with them as you will. shape them to your hearts fill. and pass them on in your dying will. 
+when i come back to the surface maybe i’ll have diamonds, maybe rubies. maybe gold, maybe sapphires. stay subscribed if you want to be surprised. but they’ll always be raw and rough. play with them as you will. shape them to your hearts fill. and pass them on in your dying will.
+
 ![](https://images.unsplash.com/photo-1601121141461-920cb1993441?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHwxMTh8fG5lY2tsYWNlfGVufDB8fHx8MTYxNjY2NDc4NQ&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=1080)

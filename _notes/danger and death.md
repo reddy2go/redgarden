@@ -31,16 +31,17 @@ games have always relied on the primal need to survive as the motivation to push
 
 ## the starting line
 while deadlines scare and stress, they also instigate action from a state of inertia.  however we can’t stay in first gear forever and need to constantly keep shifting gears as per the situation.
+
 ![](https://images.unsplash.com/photo-1461896836934-ffe607ba8211?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHw5fHxzdGFydGluZyUyMGxpbmV8ZW58MHx8fHwxNjE1Njk4OTMz&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=1080)
+
 the gunshot fired to kickstart a race is symbolic of the danger that gets us going. but it’s more of a desire to be the fastest and get the gold that drives Usain Bolt to the finish line and fear of being shot in the arse. but how much faster do you think he would run if that were really the case? almost every adult has experienced that spurt of energy when the danger of missing deadlines and facing consequences looms on the horizon.
 
-## 💉 addiction to action
-
+### addiction to action
 some of us maybe scared to use danger as a tool to initiate action but some others depend on it every single time. are you addicted to that rush of Nitrous oxide (N₂O) to get you across the finish line? in the wild, animals face the possibility of entering the fight or flight mode at any instant but are rarely in the state of being. and even then it’s not on a regular basis or for long durations at a time.
 
 contrast that with the modern jungle aka the workspace where stressors and dangers abound all the time. it is no wonder that performance anxiety and burnouts are expected of individuals today. what is the ratio of relaxation to excitation in your everyday life?
 
-## 🚦good, bad and ugly
+### good, bad and ugly
 
 while i’m all for the sense of urgency that danger and death bring to our lives, it’s is unsustainable if more than **2%** of the time. let’s call that **ugly** energy. that extreme state of urgency, emergency and stress that your engine can bear and even relish without getting destroyed in the process. this is that ‘pedal to the metal’ and ‘balls to the wall’ kinda energy that every individual experiences whether predators or prey in life’s journey to survive and thrive.
 

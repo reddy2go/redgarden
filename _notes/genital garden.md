@@ -8,8 +8,8 @@ that primal urge to yell and bitch<br/>
 making space to share my thoughts<br/>
 look closer to find just scary warts
 
-the world may read through and balk
-couldn't care if you scoff or mock 
+the world may read through and balk<br/>
+couldn't care if you scoff or mock <br/>
 there is a sense within that sighs
 as i write, towards the skies it flies
 

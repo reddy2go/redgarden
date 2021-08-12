@@ -1,5 +1,5 @@
 ---
-title: 
+title: now is all we have
 slug: now
 ---
 

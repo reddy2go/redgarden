@@ -9,7 +9,7 @@ category:
 
 in the primal world, danger and death are a constant threat. this is well known and the reason why we’ve been enamoured by the idea of civilisation with its promise to deliver us from danger. technology now lures us deeper into delusion with the promise of eradicating even death.
 
-## 🪄 feature, not a bug
+### 🪄 feature, not a bug
 
 but what if danger and death were designed to make us relish and enjoy life to the hilt? then by attempting to rid ourselves of them, we’re actually ridding ourselves of the richness of life.
 

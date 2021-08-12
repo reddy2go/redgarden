@@ -1,6 +1,6 @@
 ---
 title: square one
-slug: square-one
+slug: now
 ---
 
 everyone has to start somewhere, be it square one or rock bottom. this space is messy and confusing and you might [[2021-05-29-do-you-wonder]] why, or just turn around and fly.

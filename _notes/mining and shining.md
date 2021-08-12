@@ -27,7 +27,9 @@ in the depths of this delirium, i danced with my thoughts swimming around me. le
 
 ### back to the surface
 i’d rejoiced in the depths with the magic that only isolation can weave but i wanted to surface and share what i’d found. as i climbed to the surface however, i found the joy slowly diminish. in the light of the day away from the blinding darkness, what i saw in my hands filled me with shame instead of joy.
+
 ![](https://images.unsplash.com/photo-1516652695352-6118f7cc1a07?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHwxfHxqZXdlbGxlcnxlbnwwfHx8fDE2MTY2NjQ0MTQ&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=1080)
+
 those precious stones that glinted in the depths now seemed like any other piece of rock. i realised the world wants these stones polished and aimed to perfection, so they may marvel at it’s beauty. this was a process that needed skill, finesse and an understanding of how the masses wanted their wisdom served.
 
 ## who da cap fit, let ‘em wear it

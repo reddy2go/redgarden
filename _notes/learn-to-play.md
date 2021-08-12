@@ -17,7 +17,6 @@ physical games are created by negating the element of danger. interactions are c
 parents are proud to raise children with safety as the primary priority. society depends on safety (and comfort) as the selling point to convince humans (inherently primal savages) to adopt civilisation. and we bite the bait without a thought.
 
 ### danger delights
-
 think about all the times you’ve felt absolutely alive, animated and excited beyond belief. on a slide, under a waterfall, diving into chilly waters, riding a roller coaster. our greatest experiences within the confines of modern civilisation are on the fringes or edges of it.
 
 it’s always more fun to draw on the walls than in your notebook. to eat the food you’re specifically advised not to. often more titillating to make love in public places. the risk of getting caught or the danger of being found adds a level of excitement that colouring within the lines never offers.

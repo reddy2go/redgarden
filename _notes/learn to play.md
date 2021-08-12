@@ -27,7 +27,7 @@ it’s always more fun to draw on the walls than in your notebook. to eat the fo
 
 ![](https://images.unsplash.com/photo-1591600473567-19088f039d37?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHwyM3x8Y3JpbWV8ZW58MHx8fHwxNjE2ODM0Njg1&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=1080)
 
-when we start pushing to the extremes with gambling, betting, extreme adventure, even robbery and crime becomes just ways of playing with danger.  before you dismiss this as unethical and uncivilised, remember we’re obsessed with the darkness as much as we claim you abhor and avoid it. the glorification and celebration of crime based movies reflect our culture more than we like to admit. everyone wants their dose of vitamin D, one way or another.
+when we start pushing to the extremes with gambling, betting, extreme adventure, even robbery and crime becomes just ways of playing with danger.  before you dismiss this as unethical and uncivilised, remember we’re obsessed with the darkness as much as we claim you abhor and avoid it. the glorification and celebration of crime based movies reflect our culture more than we like to admit. everyone wants their dose of **vitamin D**, one way or another.
 
 ### let’s play!
 we don’t have to return to the wilderness to reclaim our experience of ubiquitous danger. neither do we need to hide beneath the veneer of civilisation from the dangers that still lurk. let’s play with possibilities of either extreme just like we do with video games. in the playground, everyone plays by the rules. in the battleground, rules are meant to be broken. but don’t let life bring you down. in fact, learning to play dirty can teach you to play nice.

@@ -16,7 +16,7 @@ let's go back in time, 300000 years ago. an infant then would have to hang on to
 ### baby's way out
 
 babies suspended in the amniotic fluid of the womb experience a sense of gyroscopic freedom in all planes and angles. post birth however, the spatial freedom is now limited by gravity, structural integrity and front facing binocular vision. their first challenge to learn to support their own weight by holding on is not allowed. so they proceed to moving the neck and limbs from a supine position. this is where the baby turns her head left and right while lying on her back. her arms and legs are flailing in the air as if riding an imaginary upside down peloton. skill mastered, she attempts to roll over, so she can now switch between being supine and prone.
-![Baby Exploring Movement](/content/images/2020/12/baby-crawling-on-all-fours.jpg)Photo by [Jordan Rowland](https://unsplash.com/photos/lfEX-fEN3zY)
+![Baby Exploring Movement](/assets/images/baby-crawling-on-all-fours.jpg)Photo by [Jordan Rowland](https://unsplash.com/photos/lfEX-fEN3zY)
 rather excited about this new prone perspective, she now has a new challenge to hold her head up as she surveys her kingdom. the previously developed limb-flailing skills now come in handy. she now attempts to move her arms and legs to propel herself forward. voila! she can now move. this landmark is however unappreciated in the human realm. we save the applause for when she finally lifts her hands off the ground and stands up on her feet. "her first steps!" we say, tears of joy welling up.
 
 ### the young child

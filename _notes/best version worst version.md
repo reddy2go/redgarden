@@ -13,8 +13,7 @@ if you were one of then you’d have done the same. this was me at my worst. roc
 
 seeing that i’ve only ever been addicted to one of those three, i’m probably better off than most of the world’s population. but i’m not here to talk about addiction. it’s my worst version that i’m here to proudly parade.
 
-## the best ever
-
+### the best ever
 but you might rather want to meet this version of me. the best ever. strong. capable. powerful. charismatic. compassionate. generous. affable. assertive.
 
 people are strange. nobody likes a leader. but when the chips are down, everyone runs towards one. i fit the type A stereotype easily and effortlessly worn the crown with élan.

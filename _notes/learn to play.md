@@ -34,7 +34,7 @@ we don’t have to return to the wilderness to reclaim our experience of ubiquit
 
 ![](https://images.unsplash.com/photo-1422207049116-cfaf69531072?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHwxNXx8eWluJTIweWFuZ3xlbnwwfHx8fDE2MTY4MzQ4NDA&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=1080)
 
-start with a level you’re comfortable with and constantly challenge yourself to get better and level up. but don’t stop there. dive into the multi player experience and pit your wits against others who will challenge you beyond your comfort zone. but always remember the difference between the [ ]]playgrounds and battlegrounds of life.
+start with a level you’re comfortable with and constantly challenge yourself to get better and level up. but don’t stop there. dive into the multi player experience and pit your wits against others who will challenge you beyond your comfort zone. but always remember the difference between the playgrounds and battlegrounds of life.
 
 ### game over! play again?
 in the virtual world of experiential games, we can re-spawn without much ado. in the real world, a few may have resurrected themselves but i don’t think it’s as effortless as pressing a button. so embrace the spirit of play and experiment boldly. yet tread softly whether you win or lose and respect the game of life. we play not to win, but to learn to lose; graceful in one’s own defeat and gleeful of the other’s victory. because either way, the game just got better.

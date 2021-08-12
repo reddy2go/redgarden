@@ -3,7 +3,7 @@ title: digital garden
 slug: digital-garden
 ---
 
-this Jekyll template publishes my thoughts from [Obsidian](https://obsidian.md/) with backlinks, notes graph, and wikilink support. i'm using the template modified by [Megumi Tanaka](https://github.com/meewgumi/green-web-template).
+this Jekyll template publishes my thoughts from [Obsidian](https://obsidian.md/) with backlinks, notes graph, and wikilink support. i'm using the template modified by [Megumi Tanaka](https://github.com/meewgumi/green-web-template)
 
 the original [Jekyll digital garden template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) is by Maxime Vaillancourt.
 

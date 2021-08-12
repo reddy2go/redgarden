@@ -57,7 +57,6 @@ the obligatory members are rarely involved in the game but sit in the stands and
 voyeurs who don’t offer feedback are actually non contributory to the community. note that even haters are actually offering feedback even if detrimental. these members must bring gifts to the group if they wish to move into the closer orbits.
 
 ---
-
 people can move in and out of these concentric circles of community based on many factors. work burdens, personal difficulties, social anxiety and pandemic induced circumstances can make interaction difficult. besides that, ignorance of these above outline circles of energy, involvement and influence can leave most people lost within communities. so someone from the outermost orbit may become a core group member. just as the most active member might be the naughtiest and unlikely to be an asset to the community. let us not discount or disregard anyone at anytime but simply seek to gently nudge everyone to play. 
 
 people are driven by purpose and the community or playground acts as a magnet that not only attracts but holds playmates together. we’re here in this world to play. and play is best with playmates. but we mustn’t forget to play nice. for we’re all in this together.

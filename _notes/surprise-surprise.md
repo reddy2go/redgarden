@@ -30,7 +30,7 @@ joy is our default state of mind. period. and play is the way to get there. butw
 
 ![](/favicon.png)reddy2Goreddy2Go
 
-![](/content/images/2021/06/IMG_1427-2.jpg)
+![](/assets/images/IMG_1427-2.jpg)
 ](/playpen/)
 > would you join my 9 day cohort based kindergarten course?
 > &mdash; reddy 🧸 bear (@reddy2go) [June 24, 2021](https://twitter.com/reddy2go/status/1408093947050610691?ref_src=twsrc%5Etfw)

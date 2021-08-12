@@ -1,5 +1,6 @@
 ---
-title
+title:
+slug
 Navarasa means Nava means nine, Rasa means emotional state or emotions.
 
 ![[A6BFE7BB-3541-4FF9-A325-8FF2DFBBAEEB.png]]

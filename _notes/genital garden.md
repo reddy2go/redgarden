@@ -2,7 +2,7 @@
 title: genital garden
 slug: genital-garden
 ---
-
+after spending a week
 
 everytime i scratch that itch<br/>
 that primal urge to yell and bitch<br/>

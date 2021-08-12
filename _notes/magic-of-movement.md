@@ -77,7 +77,7 @@ animals are ready to explode into intense action from a state of supple rest and
 ### do try this at home
 
 if you've read this far, make time to engage your body in a simple, yet effective way. remember, we're not just physical beings with a mind or mental beings with a body. rediscover the mind-body connection that every other animal on earth enjoys. explore your body for the sake of unity, not just as a vehicle for vanity. make movement a part of your daily activity, independent of your specific workout or training regime. keep it light and easy, but frequent and you'll rock the habit effortlessly.
-![Anandabalasana - Happy Baby Yoga Pose](/content/images/2020/12/happy-baby-yoga-pose.jpg)
+![Anandabalasana - Happy Baby Yoga Pose](/assets/images/happy-baby-yoga-pose.jpg)
 ---
 
 **disclaimer**: the views expressed here are for contemplative purposes only. do not rely on this information as a substitute for, nor does it replace, professional medical advice, diagnosis, or treatment. do not disregard, avoid or delay obtaining medical or health related advice from your health-care professional because of something you may have read here. the use of any information provided is solely at your own risk.

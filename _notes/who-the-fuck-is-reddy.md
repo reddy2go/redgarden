@@ -31,8 +31,7 @@ so i’m here now, playing with my thoughts, my words, my actions with the inten
 
 there is no guiding light here. i am just a burning dervish spinning away in ecstasy. if you gather around, you can warm yourself around my fire. maybe you’ll find entertainment in my delirious dancing. maybe you’ll find the answers you seek in the questions i throw at you. maybe i’ll terrorise your saner social sensibilities.
 
-## the future
-
+### the future
 i don’t look far beyond the present. i satiate my lust for life in the moment. i’ve no intent to secure a single partner and raise offspring with her. i practise polyamory and that will continue to be the way i roll.
 
 from being a multiple substance  addict to helping others wean away from their addictions, i’ve come full circle. i’ve been clean now for over 15 years but who’s counting? will remain that way though because i don’t want to lose the friends i’ve made along the way. addiction is a lonely path to destruction and isolation.

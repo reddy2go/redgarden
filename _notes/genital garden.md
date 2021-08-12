@@ -18,8 +18,8 @@ but out here there be no guarding<br/>
 everything i write is a profound penis<br/>
 a snapshot of my raging hard hubris
 
-if you're here admiring this textuality
-stay awhile, and you will find divinity
+if you're here admiring this textuality<br/>
+stay awhile, and you will find divinity****
 we're all here to connect & copulate
 scream, shout, express and ejaculate
 

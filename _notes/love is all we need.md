@@ -30,8 +30,7 @@ or maybe it was my body’s way of recovering from the heavy dose of barbiturate
 
 regardless, all that hate eventually met it’s comeuppance with good ol’ mary jane. and all was well in the universe again as i hopped to the hills to dance with the angels (both earthly and heavenly). it’s actually quite improbable to tell the difference between the two.
 
-## then there was indifference
-
+### then there was indifference
 if mary jane taught me to love, lady heroin taught me the elite way of indifference. it’s another thing completely to experience the rarified air of indifference from the fiery pits of passionate fire.
 
 this mind space was mellow. even yellow. i didn’t feel the desire to fight for what i thought was right. in fact the list of things to care about grew shorter and eventually there was nothing, and no one to care about.

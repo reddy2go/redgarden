@@ -7,4 +7,4 @@ this Jekyll template publishes my thoughts from [Obsidian](https://obsidian.md/)
 
 ### Credit
 - [Original Jekyll template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) by Maxime Vaillancourt is available under the [MIT license](https://garden.megu.space/LICENSE.md). [Buy Maxime a coffee](https://ko-fi.com/maximevaillancourt)! ☕️
-- The “Green” version by Megumi Tanaka is [publicly available on Github](https://github.com/meewgumi/green-web-template) and you are free to edit as you wish! [Buy Megumi a tea](https://www.buymeacoffee.com/megumi)! 🍵
+- The modified “Green” version by Megumi Tanaka is [publicly available on Github](https://github.com/meewgumi/green-web-template) and you are free to edit as you wish! [Buy Megumi a tea](https://www.buymeacoffee.com/megumi)! 🍵

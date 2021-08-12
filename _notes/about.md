@@ -13,4 +13,4 @@ envision a world in which play, not study or work is the default. you might say 
 ### who am i?
 the usefulness of the bowl is in the emptiness. so in the emptiness of a life without profession and purpose, shines my light of play, in the moment.
 
-if you're wondering [[who the fuck is Reddy?]],this is me, playing with thoughts, words and actions to find delight in uncertainty and having the time of my life! more of a burning dervish than a guiding light in the darkness, i’m here not to show you the way, but to infect you with the spirit of play. and if you're game, join the [[playpals]]!
+if you're wondering [[who the fuck is Reddy?]], this is me, playing with thoughts, words and actions to find delight in uncertainty and having the time of my life! more of a burning dervish than a guiding light in the darkness, i’m here not to show you the way, but to infect you with the spirit of play. and if you're game, join the [[playpals]]!

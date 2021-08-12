@@ -1,6 +1,6 @@
 ---
 title: now is all we have
-slug: now
+slug: here-annow
 ---
 
 everyone has to start somewhere, be it square one or rock bottom. this space is messy, confusing and you might wonder why, or just turn around and fly.

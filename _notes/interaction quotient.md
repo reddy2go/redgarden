@@ -12,8 +12,7 @@ history may selectively remember only the men at the helm but then stories are a
 if we’re to change the world, up the game and upgrade our future, we must learn to play together. i therefore propose interaction quotient as the new IQ. collaboration and co-creation are the skills we need and the heroes we deserve must be capable of interaction and not just action.
 
 ![](https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHwyfHx0b2dldGhlcnxlbnwwfHx8fDE2MTg4NjU3MTU&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=1080)
-## safety is the foundation
-
+### safety is the foundation
 first we need to build playgrounds where people can gather safely to play and become playmates. the key factor here is safety, which is what differentiates a playground from a battleground. such spaces must provide physical (if offline) and psychological safety (both offline and online).
 
 now that the baseline is catered to, let the games begin. the lesser the interference, the better the interaction and lesser the friction. more often than not, the collective wisdom will prevail and the conflicts will be resolved automatically.

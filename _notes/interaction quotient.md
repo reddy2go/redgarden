@@ -35,7 +35,7 @@ which is why the spirit of play must percolate down to the lowest common denomin
 
 sharing and caring or collaboration and co-creation can do more for collective growth than pursuits of individual hubris. each one, each one. share your affection and appreciation with just one other playmate in the playground and watch it spread like wildfire.
 
-	### improving interaction quotient
+### improving interaction quotient
 now that i’ve waxed eloquently for so long, i’ll now share my simple model for understanding and increasing interaction in groups and communities. let’s break everyone into these groups on the basis of their involvement.
 
 **0** - ground zero or the core group

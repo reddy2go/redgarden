@@ -29,7 +29,9 @@ when we start pushing to the extremes with gambling, betting, extreme adventure,
 
 ### let’s play!
 we don’t have to return to the wilderness to reclaim our experience of ubiquitous danger. neither do we need to hide beneath the veneer of civilisation from the dangers that still lurk. let’s play with possibilities of either extreme just like we do with video games. in the playground, everyone plays by the rules. in the battleground, rules are meant to be broken. but don’t let life bring you down. in fact, learning to play dirty can teach you to play nice.
+
 ![](https://images.unsplash.com/photo-1422207049116-cfaf69531072?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHwxNXx8eWluJTIweWFuZ3xlbnwwfHx8fDE2MTY4MzQ4NDA&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=1080)
+
 start with a level you’re comfortable with and constantly challenge yourself to get better and level up. but don’t stop there. dive into the multi player experience and pit your wits against others who will challenge you beyond your comfort zone. but always remember the difference between the playground and battleground of life.
 
 ### game over! play again?

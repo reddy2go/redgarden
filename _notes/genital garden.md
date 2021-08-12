@@ -2,7 +2,7 @@
 title: genital garden
 slug: genital-garden
 ---
-after spending a week grappling with multiple technologies and issues to build this digital garden, i unleash my frustrations through this freestyle rap
+after spending a week grappling with multiple technologies and issues to build this [[digital garden]], i unleash my frustrations through this freestyle rap
 
 ---
 everytime i scratch that itch<br/>

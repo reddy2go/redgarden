@@ -34,6 +34,7 @@ those precious stones that glinted in the depths now seemed like any other piece
 
 ### who da cap fit, let ‘em wear it
 ![14EB52A8-5286-4018-AFEC-7715B6E8BCC8](https://res.craft.do/user/full/aea53ecb-f07e-7684-f954-13f587938a00/57BC1604-4547-42DF-B835-4A22C999F6A6_2)
+
 i’ve spent the good part of my time on the surface attempting to develop the skills needed to make fine jewellers to adorn you. meanwhile, i stopped going back into the depths. and my playtime with others on the surface was reduced to polishing the previously mined stones.
 
 but i don’t want to struggle. i want to do what i do best. effortlessly. i want to dig into the depths and come back to the surface to celebrate. to share my joy of discovery. the stones aren’t precious. what’s precious is the spirit of enquiry, the joy of discovery and the sharing of it all with you.

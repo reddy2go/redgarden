@@ -7,7 +7,7 @@ category:
 ---
 all of 36 kilos, i walked stealthily and furtively across the streets always in the shadows. i didn’t know what or who i was hiding from, but it just felt natural to stay far from the madding crowd. i wasn’t afraid of anyone. on the contrary people crossed the road, in fear and revulsion at the sight of me.
 
-if you were one of then you’d have done the same. this was me at my worst. rock bottom isn’t pretty and heroin does quite the number on you. in the words of Taleb
+if you were one of then you’d have done the same. this was me at my worst. rockbottom isn’t pretty and heroin does quite the number on you. in the words of Taleb
 
 > The three most harmful addictions are heroin, carbohydrates, and a monthly salary.
 

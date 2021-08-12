@@ -9,4 +9,5 @@ if however you choose to stay, know that it's a feature not a bug. there might b
 
 ### springboards
 
+
 until then rejoice with visual graph or map of context that you will find on the [home page](https://reddy2go.com). 

@@ -18,3 +18,5 @@ Alice: I don’t know.<br/>
 Cat: Then it doesn’t matter which way you go.
 
 this quintessential conservation between the Cheshire Cat and Alice will help you embrace the spirit of this digital ~~garden~~ jungle.
+
+[[_notes/playground-not-library]]

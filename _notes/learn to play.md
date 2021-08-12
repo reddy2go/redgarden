@@ -1,8 +1,6 @@
 ---
 title: play to learn 🕹 learn to play
 slug: learn-to-play
-date_published: 2021-03-27T10:42:01.000Z
-date_updated: 2021-04-02T09:24:28.000Z
 category: 
 ---
 professor Charles Xavier of X-men fame has a danger room in which to train new recruits and also to keep the veterans on their toes. i haven’t been in there but i have seen my cats play joyously with each other and the environment, while teasing and taunting danger. play not only bridges the gap between safety and danger but also between theory and practise.

@@ -15,7 +15,7 @@ as i write, towards the skies it flies
 
 they call this space a digital garden<br/>
 but out here there be no guarding<br/>
-everything i write is a profound penis
+everything i write is a profound penis<br/>
 a snapshot of my raging hard hubris
 
 if you're here admiring this textuality

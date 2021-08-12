@@ -44,4 +44,4 @@ professionally, i see no need to earn. i’ve no liabilities and loans. i owe no
 > I’m doing all right, getting good grades
 > The future's so bright, I gotta wear shades
 
-so there you have it. i’ve pissed my life away. i’ve put it back together. i’ve helped others hold theirs together. and now i’m doing absolutely fucking nothing with my life. still here? great, you’ll be hearing from me again soon ♥
+so there you have it. i’ve pissed my life away. i’ve put it back together. i’ve helped others hold theirs together. and now i’m doing absolutely fucking nothing with my life. still here? great, you’ll be hearing from me again soon ♥ maybe

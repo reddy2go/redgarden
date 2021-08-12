@@ -8,7 +8,7 @@ category:
 when i watched this poignant movie, it reminded me of all the people i’ve seen die through my life. the most vivid memory is that of an uncle who was instrumental in exposing me to all the cultures of the world at a young and impressionable age. we now take it for granted in a world connected by the interwebs, but it wasn’t so a few decades ago.
 
 i lived through his amazing adventures across the globe. everywhere he went, he brought me back a souvenir. the postcards and pictures he sent me made me feel like i was right along side him on his journey. just like the bike rides he took me on whenever he was in town.
-![](/content/images/2021/04/BEFDFCF2-6493-4605-ACFC-210D715A1F00.jpeg)
+![](/assets/images/BEFDFCF2-6493-4605-ACFC-210D715A1F00.jpeg)
 he brought me books, comics, encyclopedias and Nat Geo subscriptions. my earliest computer with a dialup modem and an internet connection when even my school didn’t have any of it. despite financially in the middle strata of society, i had access to cutting edge technology almost nobody else had.
 
 but our life choices led us apart. he forged his own path and i made my own way into a dark land less traveled. i survived my own adventures and made my way back to the world, yet years passed and time only led us further apart. until his end.

@@ -10,7 +10,7 @@ look closer to find just scary warts
 
 the world may read through and balk<br/>
 couldn't care if you scoff or mock <br/>
-there is a sense within that sighs<br/>
+there is a sense within those sighs<br/>
 as i write, towards the skies it flies
 
 they call this space a digital garden<br/>

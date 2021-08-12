@@ -9,7 +9,7 @@ professor Charles Xavier of X-men fame has a danger room in which to train new r
 ![IMG_6637](https://res.craft.do/user/full/aea53ecb-f07e-7684-f954-13f587938a00/E2D0937F-FA67-4E85-9D82-3B3CA583018F_2)
 i believe the presence of danger and the possibility of death were designed to make us relish and enjoy life to the hilt. and the dance between danger and safety is the game we inherently love to play. but we chose to spend our time and effort studying instead. just because it's the safer bet?
 
-## safety sucks
+### safety sucks
 as a child growing up, the idea of safety sucks. because it’s the excuse used by parents, teachers and society at large to prevent you from having fun. most grow up toeing the line and learning to play it safe.
 ![](https://images.unsplash.com/photo-1591443062806-2045c656b0d6?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHw1MHx8c2FmZXR5fGVufDB8fHx8MTYxNjgzNDU2OA&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=1080)
 physical games are created by negating the element of danger. interactions are chaperoned. explorations into the underbelly of society are cordoned off. education offers the illusion of a rosy future for those adhering to it’s system.

@@ -10,6 +10,6 @@ if you choose to stay, know that it's a feature not a bug. there might be more s
 ### some springboards
 - [[learn to live before you earn to live]]
 - [[learn to play]]
-- [[freestyle rapping 404]]
+- [[freestyle rapping]]
 
 or browse the visual graph (map of context) that you find on the [home page](/).

@@ -43,7 +43,9 @@ some of us are miners, some are shiners. some can handle both with aplomb. well,
 
 ### fun not fear
 playing in the mud is fun. digging in the dark is fun. searching in solitude is fun. so i’m going to continue mining because it’s fun. because it’s what i do best. what i can do effortlessly. every time i’m doing something, the fun quotient offers the feedback i need to decide, if it is indeed what i should be doing.
+
 ![](https://images.unsplash.com/photo-1473417132238-196c16462837?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHwxNDZ8fG11ZCUyMHBsYXl8ZW58MHx8fHwxNjE2NjY1MDU0&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=1080)
+
 when i attempt to polish the stones i dig up, it’s more out of fear that people won’t understand it’s value if presented raw. and i don’t want to engage in an activity fuelled by fear. nor do i want to use desire as the fuel. desire to be understood. desire to be appreciated. desire to be exalted. all i want to do is play. and i’m ever so eager to share that spirit, that energy, that vibe.
 
 i’m also aware that the value of the stones we seek is in the search for them. maybe you don’t want to dig into the earth and mine. maybe you prefer to polish them and make them shine ✨ if that’s your trip, i welcome you to play with my raw thoughts discovered in the depths of my consciousness. polish them and make pretty necklaces of them for others to wear and share.

@@ -35,7 +35,7 @@ which is why the spirit of play must percolate down to the lowest common denomin
 
 sharing and caring or collaboration and co-creation can do more for collective growth than pursuits of individual hubris. each one, each one. share your affection and appreciation with just one other playmate in the playground and watch it spread like wildfire.
 
-### improving interaction quotient
+	### improving interaction quotient
 now that i’ve waxed eloquently for so long, i’ll now share my simple model for understanding and increasing interaction in groups and communities. let’s break everyone into these groups on the basis of their involvement.
 
 **0** - ground zero or the core group
@@ -43,7 +43,9 @@ now that i’ve waxed eloquently for so long, i’ll now share my simple model f
 **2 **- peer pressure passive involvement
 **3 **- obligatory activity only when initiated
 **4 **- voyeurs without active feedback
+
 ![Untitled_Artwork.jpeg](https://res.craft.do/user/full/aea53ecb-f07e-7684-f954-13f587938a00/CAFC0DD8-D042-4D0D-8B0C-E774EFF89334_2/Untitled_Artwork.jpeg)
+
 the core inner circle comprises founders, teachers, instructors and community managers. should anyone be bold enough to experiment with a spiritual guide, they would fit in there too.
 
 the active members in the first circle are the fire starters. who will create their own games and even drag others to play. they are not dependent on others but will need to learn to support others. note that traditional deviants are best suited for this role. so back benchers in the classroom get first class seats.

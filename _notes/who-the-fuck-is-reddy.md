@@ -9,8 +9,7 @@ why am i writing to you every single day, and who is this ‘i’ that i’m ref
 
 there are so many questions here that have been unanswered and today i’m gonna tell you why they will remain so. yup, no answers here. but let’s play with that curiosity a while longer.
 
-## the past
-
+### the past
 i’ve always been the precocious kid in the classroom who despite his talents, refused to use it for the betterment of self  or society. learning came easy to me, as did the visual arts. won prizes aplenty but derived no joy from the experience.
 
 didn’t care to be número uno, so decided to be a back bencher instead. the classroom didn’t challenge me so played truant and got busy with being street smart. discovered early that playing people was as easy as playing with them. shamelessly used my intellect to instigate instead of inspire, to manipulate instead of lead.

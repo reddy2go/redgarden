@@ -24,4 +24,4 @@ when we come face to face with the darkness, with our own darkness, we faced wit
 ### back to square one
 befriend the darkness. return to innocence. cuddle into the space you came from. get comfortable being loved by the embrace of the universe. close your eyes to the world and return the embrace. for the darkness includes you, you are a part of it, not apart from it. 
 
-rock-bottom will forever remain my home. and whenever i'm home sick, all i need to do is close my eyes and listen, to the silent sound of infinite souls singing for me in celebration of this life i live. 
+rock-bottom will forever remain my home. and whenever i'm home sick, all i need to do is close my eyes and listen, to the silent sound of infinite souls singing for me in celebration of this life i live.

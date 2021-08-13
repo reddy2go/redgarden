@@ -39,18 +39,15 @@ a playspace unlike a workspace or a training space should be absolutely safe and
 ### colour
 take a look at a kindergarten space and an office space. the most stark difference is the lack of colour in an adult’s world. let’s flip that. funk up your space with your favorite colours and even your not so favorite colours. personal choice is not as important as you may believe.
 
-## emptiness
-
+### emptiness
 more important than the objects in your play space is the emptiness of the space itself. ensure there’s enough room to crawl on all fours and roll around when you feel like it. the same holds true for mental space. leave a bunch of empty whiteboards hanging on the wall to inspire you to explore.
 
-## 3-dimensional 🎢
-
+### 3-dimensional
 have a few random objects (toys if you will) strewn around. pick them up, throw them around, jump around them and explore the tactile and spatial experience. what can you do with a chair besides sit on it? Elvis would have to your dance with it.
 
 > If you can't find a partner use a wooden chair…
 
-## gifts 🎁
-
+### gifts
 playmates are vital to the spirit of a playground and gifts are equally important in lighting up the spirit of a playmate. keep candy handy to share with anyone who comes into your playspace. never underestimate the power of food to set the mood. play is hard work after all!
 
 this isn’t a DIY manual on how to build a playspace. but it definitely intends to inspire and instigate a spirit of play in you. one that you can nurture by creating a shrine. a holy place for your inner child. remember as a child we always [played in public](/playing-in-public/) so don’t hesitate to invite others in to play. would love to see what your playspace looks like!

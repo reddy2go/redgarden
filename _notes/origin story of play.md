@@ -35,7 +35,6 @@ the dark side is not a bad place & i still regard [[rock-bottom]] as my hometown
 
 it is the social isolation of mistrust & disconnection.
 
----
 like Obelix who fell into a cauldron of magic potion and it's effects lasted forever, i'm also barred from partaking of anymore magic potion.
 
 the effects may not be permanent, but i'd still say i'm high as a fucking kite, most fucking days. when i fall, i bounce back almost immediately.

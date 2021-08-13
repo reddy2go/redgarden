@@ -30,15 +30,13 @@ let’s attempt to return to that state of innocence where the outcome is not th
 ### outdoor
 an outdoor space is always ideal when choosing to create a playspace. you can’t go wrong even if there are bugs aplenty and street sounds all around. embracing the natural environment is both grounding as well as inspiring.
 
-## indoor
-
+### indoor
 if it isn’t possible to be outdoors, create a space that while indoors still has plenty of light and air coming in. find a way to allow nature to enter and entertain. like a window which allows you to see the sunset every evening.
 
-## safety 🚸
-
+### safety
 a playspace unlike a workspace or a training space should be absolutely safe and reassuring. emotional safety is as important as physical safety, so don’t surround yourself with anything even remotely stressful or disturbing.
 
-## colour 🌈
+## colour
 
 take a look at a kindergarten space and an office space. the most stark difference is the lack of colour in an adult’s world. let’s flip that. funk up your space with your favorite colours and even your not so favorite colours. personal choice is not as important as you may believe.
 

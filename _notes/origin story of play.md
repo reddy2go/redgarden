@@ -40,7 +40,7 @@ like Obelix who fell into a cauldron of magic potion and it's effects lasted for
 
 in my case, the effects may not be permanent, but i'd still say i'm high as a fucking kite, most fucking days. when i fall, i bounce back almost immediately, thanks to a little help from my friends. 
 
-at this point it's vital to note that friends can be flora and fauna too. i've loved most of the lock down with the love and connection experienced from cats, insects, birds, trees and plants in whose company i sought refuge
+at this point it's vital to note that friends can be flora and fauna too. i've loved most of the lock down with the love and connection experienced from cats, insects, birds, trees and plants in whose company i sought refuge. 
 
 ---
 everyone from Buddha to Nietzsche agrees that life sucks. but of course we want life to rock! and drugs are the quickest fix available, and ubiquitously at that for the first time in history. 

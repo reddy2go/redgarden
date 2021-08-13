@@ -54,7 +54,7 @@ that's actually two things in that statement there:
 - drugs aren't enough
 - neither am i
 
-this is perhaps why community is trending. we all need to find our tribe, that shares the same vibe. and that connection not only brings us closer together, but also makes us feel higher. 
+this is perhaps why [[community is trending]]. we all need to find our tribe, that shares the same vibe. and that connection not only brings us closer together, but also makes us feel higher. 
 
 thus i conclude that the antidote to addiction is not de-addiction, but connection.
 

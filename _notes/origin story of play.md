@@ -6,7 +6,7 @@ it's been over a year since this unfolding of play as a project (if you have to 
 
 but not in the traditional sense of the word, in fact i never played any sport as growing up. just played with my life.
 
-## in the beginning there was darkness
+### in the beginning there was darkness
 
 the dark side of play is where my journey begins. rebellion against the traditional structures and hierarchies of social norms was my game. 
 

@@ -29,7 +29,6 @@ the highs are no longer highs but mere sighs of relief, that i'm not suffering t
 
 it's also amazing how powerful placebo effects are & how potent perception can be against what we deem as reality.
 
----
 even as this rollercoaster ride kept oscillating between peaks of incredible ecstasy and pits of morbid despair, it was all still a game for me. the game of life where the stakes were my life. 
 
 i wasn't playing to win, but to dance between victory and defeat, without falling over either edge.

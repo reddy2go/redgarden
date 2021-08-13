@@ -50,7 +50,7 @@ in fact we're in a state of high calorie malnutrition, ingesting more than we ca
 ### tldr
 yeah, this should probably have gone to the top of the post but i'm never one for protocol. because even if everything has changed since i got clean, nothing's really changed. i still want to get high and i still want life to rock. but if there's one thing i've learnt is that, i can't sustain that high with drugs alone. 
 
-that's actually two things there:
+that's actually two things in that state r:
 - drugs are unsustainable
 - as is being alone
 

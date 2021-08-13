@@ -62,7 +62,7 @@ now this is where the connection with play falls in place. for an adult, the ins
 
 but can adults still engage and relate outside of the traditional means of community, in the pure spirit of play as we did as kids?
 
-i believe so and have embodied this philosophy as my own, in my body and mind. i'm ready to share it will all that desire. come [[embrace my ideology]], not absorb my identity. my past brings me no regret and much joy, because who i am today is because of the path i walked, hopped, jumped, crawled and flew. if i'm uncommonly upbeat today even in the face of abject adversity, it's because of a phenomenon Jung aptly observed...
+i believe so and have embodied this philosophy as my own, in my body and mind. i'm ready to share it will all that desire. come [[embrace my ideology]], not absorb my identity. my past brings me no regret and much joy, because who i am today is because of the path i walked, hopped, jumped, crawled and flew. if i'm uncommonly upbeat today even in the face of abject adversity, it's because as Jung aptly observed...
 
 No tree, it is said, can grow to heaven unless its roots reach down to hell.
 

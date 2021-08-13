@@ -34,13 +34,15 @@ i wasn't playing to win, but to dance between victory and defeat, without fallin
 the dark side is not a bad place & i still regard [[rock-bottom]] as my hometown, the place i grew up in. it's the place i came of age, as i realised that the worst outcome of a life of addiction is not the physical, mental and spiritual decay. 
 
 ### connection is salvation
-the worst effect of is the social isolation of mistrust & disconnection.
+the worst effect of addiction is the social isolation, personal paranoia, mistrust & disconnection.
 
 like Obelix who fell into a cauldron of magic potion and it's effects lasted forever, i'm also barred from partaking of anymore magic potion.
 
-the effects may not be permanent, but i'd still say i'm high as a fucking kite, most fucking days. when i fall, i bounce back almost immediately.
+in my case, the effects may not be permanent, but i'd still say i'm high as a fucking kite, most fucking days. when i fall, i bounce back almost immediately, thanks to a little help from my friends. 
 
----
+at this point it's vital to note that friends can be flora and fauna too. i've loved most of the lock down with the love and connection experienced from cats, insects, birds, trees and plants in whose company i sought refuge. 
+
+### life sucks, you rock!
 everyone from Buddha to Nietzsche agrees that life sucks. but of course we want life to rock! and drugs are the quickest fix available, and ubiquitously at that for the first time in history. 
 
 mass production and manufacturing ensures that everyone can get high with least effort in the least possible time.

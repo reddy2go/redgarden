@@ -67,6 +67,6 @@ i believe so and have embodied this philosophy as my own, in my body and mind. i
 > No tree, it is said, can grow to heaven unless its roots reach down to hell.
 
 ---
-if you liked this thread, fuck following, liking and all that jazz. instead go take a good hard look in the mirror and smile at yourself, lovingly 🥰
+now get go take a good hard look in the mirror and smile at yourself, lovingly 🥰
 
 your happiness means everything to the world, for we are groot 🌱

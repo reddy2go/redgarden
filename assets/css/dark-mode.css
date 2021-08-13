@@ -316,7 +316,7 @@ a.internal-link:after, a.footnote-backref:after {
 /* Graph */
 .links line {
   stroke: #615555;
-  opacity: 0.5;
+  opacity: 0.8;
 }
 
 .nodes circle {
@@ -328,6 +328,7 @@ a.internal-link:after, a.footnote-backref:after {
 .text text {
   cursor: pointer;
   fill: var(--text-color);
+  opacity: 0.8;
   /*text-shadow: -1px -1px 0 #fafafabb, 1px -1px 0 #fafafabb, -1px 1px 0 #fafafabb, 1px 1px 0 #fafafabb;*/
 }
 

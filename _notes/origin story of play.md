@@ -1,6 +1,6 @@
 it's been over a year since this unfolding of play as a project (if you have to call it something) began in my life. and i'll talk later on how death is the springboard for this obsession with play in my life. for now, i'll dive into the obsession with play being a part of me for as long as i can remember.
 
-
+but not in the traditional sense of the word, in fact i never played any sport as growing up. just played with my life.
 
 ### in the beginning there was darkness 
 the dark side of play is where my journey begins. rebellion against the traditional structures and hierarchies of social norms was my game. 

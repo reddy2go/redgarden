@@ -650,3 +650,7 @@ ul.navElement {
 .element1{
   flex-grow : 1;
 }
+
+.copyright{
+  font-size: 0.5em;
+}

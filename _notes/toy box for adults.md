@@ -16,7 +16,6 @@ in different phases of your life you’ll find you played with different toys. t
 
 ![IMG_7206.jpeg](https://res.craft.do/user/full/aea53ecb-f07e-7684-f954-13f587938a00/8A4AD33E-5D39-4E0B-AFCE-091F66FA924E_2)
 ## the motley crew
-
 if those memories bring our thoughts of those you played with, the people you shared your toys with. the playmates who made the game worth playing. after all what fun is adventuring alone when you can adventure together?
 
 call them, reconnect with them and ask them out to play with you once again. for old time’s sake. for fun’s sake. for the sake of rediscovering the treasure - the fountain of youth that bestows immorality to all that drink deep of it.

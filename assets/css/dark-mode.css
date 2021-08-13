@@ -330,7 +330,7 @@ a.internal-link:after, a.footnote-backref:after {
 .nodes [active],
 .text [active] {
   cursor: pointer;
-  fill: black;
+  fill: #c55d53;
 }
 
 .inactive {

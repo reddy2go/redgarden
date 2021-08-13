@@ -23,12 +23,11 @@ do you remember the X-Men's Danger Room? well, your school or college gym wasn�
 a training space is the middle ground between play spaces and work spaces. they offer constantly changing and challenging situations where there are no lasting  consequences for mistakes made. it offers the opportunity to develop new skills without the possibility of [danger or death](/danger-and-death/).
 
 ### return to innocence 
-
 play focuses on the experience of the present moment while work focuses on the outcome of the current experience. both are different states of being, and thus require different physical spaces to be in.
 
 let’s attempt to return to that state of innocence where the outcome is not the impetus for action. let’s create a space that invites one to play - for the sake of play and nothing* else.
 
-## outdoor 🏕
+### outdoor
 
 an outdoor space is always ideal when choosing to create a playspace. you can’t go wrong even if there are bugs aplenty and street sounds all around. embracing the natural environment is both grounding as well as inspiring.
 

@@ -16,24 +16,21 @@ and before i knew it, i was like a kid in a candy store running amok, sampling e
 
 in fact, if anything, the drugs softened me up over the years into the opposite end of the spectrum; lost and lonely, waiting for my turn to die.
 
-at one time, i harboured the hubris that i was in control of the drugs. like a druid mixing concoctions to remedy every morbid mood, i'd play just the right doses to stay high and feel fine. but... anything that goes up must come down, and the fall is never something you can prepare for.
+at one time, i harboured the hubris that i was in control of the drugs. like a druid mixing concoctions to remedy every morbid mood, i'd play just the right doses to stay high and feel fine. but...
 
----
+> anything that goes up must come down, and the fall is never something you can prepare for.
+
+### dreams are drugs too
 i'd covered many miles, danced across borders and dabbled in every adventure i could find, nefarious or not. the people i'd meet didn't really matter, and those that mattered i'd run away from in a heartbeat.
 
 it didn't matter where i went, what i did or who i was with. i was on the run and i didn't know from what or whom.
 
----
-the highs are no longer highs but mere sighs. of relief, that i'm not suffering the withdrawals reminiscent of a reality i once inhabited.
+the highs are no longer highs but mere sighs of relief, that i'm not suffering the withdrawals reminiscent of a reality i once inhabited. it's amazing how powerful placebo effects are & how potent perception can be against what we deem as reality.
 
-it's also amazing how powerful placebo effects are & how potent perception can be against what we deem as reality.
-
----
 even as this rollercoaster ride kept oscillating between peaks of incredible ecstasy and pits of morbid despair, it was all still a game for me. the game of life where the stakes were my life. 
 
 i wasn't playing to win, but to dance between victory and defeat, without falling over either edge.
 
----
 the dark side is not a bad place & i still regard [[rock-bottom]] as my hometown, the place i grew up in. it's the place i came of age, as i realised that the worst outcome of a life of addiction is not the physical, mental and spiritual decay. 
 
 it is the social isolation of mistrust & disconnection.

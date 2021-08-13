@@ -64,7 +64,7 @@ but can adults still engage and relate outside of the traditional means of commu
 
 i believe so and have embodied this philosophy as my own, in my body and mind. i'm ready to share it will all that desire. come [[embrace my ideology]], not absorb my identity. my past brings me no regret and much joy, because who i am today is because of the path i walked, hopped, jumped, crawled and flew. if i'm uncommonly upbeat today even in the face of abject adversity, it's because as Jung aptly observed...
 
-No tree, it is said, can grow to heaven unless its roots reach down to hell.
+> No tree, it is said, can grow to heaven unless its roots reach down to hell.
 
 ---
 if you liked this thread, fuck following, liking and all that jazz. instead go take a good hard look in the mirror and smile at yourself, lovingly 🥰

@@ -73,6 +73,6 @@ i believe so and have embodied this philosophy as my own, in my body and mind. i
 ---
 now turn off your phone, go take a good hard look in the mirror and smile at yourself, lovingly 🥰 spend 10 minutes admiring yourself, your physical, mental and spiritual traits that identify you.
 
-done? now find someone to hug 🤗 and share that love with. could be a friend, lover, family member, pet or tree. you needn't be a drug addict to feel disconnected from others, we're all addicted in different ways and thanks to the instead of chasing fame and
+done? now find someone to hug 🤗 and share that love with. could be a friend, lover, family member, pet or tree. you needn't be a drug addict to feel disconnected from others, we're all addicted in different ways and thanks to the social media proliferation,  instead of chasing fame and
 
 **remember**: your happiness means everything to the world, for we are groot 🌱

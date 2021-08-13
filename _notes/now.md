@@ -11,7 +11,7 @@ if you choose to stay, know that it's a feature not a bug. there might be more s
 - [[learn to live or live to earn]]
 - [[rock-bottom]]
 - [[learn to play]]
-- [[]]
+- [[origin story of play]]
 - [[freestyle rapping]]
 
 or browse the visual graph (map of context) that you find on the [home page](/).

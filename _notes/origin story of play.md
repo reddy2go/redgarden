@@ -43,7 +43,7 @@ in my case, the effects may not be permanent, but i'd still say i'm high as a fu
 at this point it's vital to note that friends can be flora and fauna too. i've loved most of the lock down with the love and connection experienced from cats, insects, birds, trees and plants in whose company i sought refuge. 
 
 ### life sucks, you rock!
-everyone from Buddha to Nietzsche agrees that life sucks. but of course we want life to rock! and drugs are the quickest fix available, and for the first time in human history, it's ubiquitously available. in fact we're in a high
+everyone from Buddha to Nietzsche agrees that life sucks. but of course we want life to rock! and drugs are the quickest fix available, and for the first time in human history, it's ubiquitously available. in fact we're in a high calorie malnutrition
 
 mass production and manufacturing ensures that everyone can get high with least effort in the least possible time.
 

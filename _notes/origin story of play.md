@@ -12,7 +12,7 @@ having spent the first 5 years under strong medication for seizures, it appears 
 ### then came the drugs
 got lucky soon after puberty with  the accidental discovery that huffing petrol can get me high. seemed like an easy enough method, but i wanted to play with every possibility.
 
-and before i knew it, i was like a kid in a candy store running amok, sampling every drug i could find. unlike drugs didn't turn me into a jerk. i've always been an extrovert, albeit abrasive and arrogant fella whose super power was a superiority complex that couldn't be crushed. 
+and before i knew it, i was like a kid in a candy store running amok, sampling every drug i could find. unlike common belief, i don't believe drugs turned me into a jerk. i've always been an extrovert, albeit abrasive and arrogant fella whose super power was a superiority complex that couldn't be crushed. 
 
 if anything, the drugs softened me up over the years into the opposite end of the spectrum; lost and lonely, waiting for my turn to die.
 

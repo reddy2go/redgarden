@@ -52,7 +52,7 @@ yeah, this should probably have gone to the top of the post but i'm never one fo
 
 that's actually two things in that statement there:
 - drugs aren't enough
-- as is being alone
+- neither am 
 
 ---
 this is perhaps why community is trending. we all need to find our tribe, that shares the same vibe. and that connection not only brings us closer together, but also makes us feel higher. 

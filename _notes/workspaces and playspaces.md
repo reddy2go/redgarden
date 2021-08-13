@@ -36,11 +36,10 @@ if it isn’t possible to be outdoors, create a space that while indoors still h
 ### safety
 a playspace unlike a workspace or a training space should be absolutely safe and reassuring. emotional safety is as important as physical safety, so don’t surround yourself with anything even remotely stressful or disturbing.
 
-## colour
-
+### colour
 take a look at a kindergarten space and an office space. the most stark difference is the lack of colour in an adult’s world. let’s flip that. funk up your space with your favorite colours and even your not so favorite colours. personal choice is not as important as you may believe.
 
-## emptiness ⭕️
+## emptiness
 
 more important than the objects in your play space is the emptiness of the space itself. ensure there’s enough room to crawl on all fours and roll around when you feel like it. the same holds true for mental space. leave a bunch of empty whiteboards hanging on the wall to inspire you to explore.
 

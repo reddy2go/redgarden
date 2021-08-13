@@ -1,6 +1,6 @@
 ---
 title: what's in your toy box?
-slug: toy-box-for-adults
+slug: matoy-box-for-adults
 date_published: 2021-04-16T19:31:45.000Z
 date_updated: 2021-04-16T19:31:45.000Z
 category: 

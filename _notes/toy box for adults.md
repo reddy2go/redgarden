@@ -23,7 +23,6 @@ call them, reconnect with them and ask them out to play with you once again. for
 maybe they’ll ignore you, maybe they’ll laugh at you. but eventually they’ll play with you and laugh with you. and if they don’t, well there are plenty of fish in the sea. when you’re so busy having fun, everyone wants a piece of that pie 🥧
 
 ## simple. silly. shareable
-
 i’m more confused about the metaphors i’m using than you are so i’ll just get back to stocking our toybox without further ado.
 ![IMG_7197.jpeg](https://res.craft.do/user/full/aea53ecb-f07e-7684-f954-13f587938a00/FF1BBEAA-071F-49BE-9369-8DA91E8498F8_2)
 keep it simple and get the most basic toys you can find. something that makes noise. something you can draw and color on. something you can throw around. something you can spin in the air.

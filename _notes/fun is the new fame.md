@@ -14,7 +14,7 @@ case in point, getting high was born of the desire to explore but soon it was th
 
 since they’re two sides of the same coin, i’m always oscillating between my fears and my desires. there seems to be no escaping this contrasting yet constant interplay of these two forces. detachment from the avarice associated with ambition always felt sterile and impotent to me. and i was always hunting for a way that reached out to me without engulfing me like my hedonic past.
 
-### fun 🤩 playing on the edge
+### playing on the edge
 ![](https://images.unsplash.com/photo-1584111679018-5c24cbd563cd?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHwxNHx8Y29pbiUyMGVkZ2V8ZW58MHx8fHwxNjE4MzMwNTQ4&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=1080)
 fun on the other hand is beyond both fear and desire. remember fear is based on that which is behind us while desire is based on that which is ahead of us. only fun is obsessed on where we are right here.
 

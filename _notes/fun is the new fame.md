@@ -16,22 +16,21 @@ since they’re two sides of the same coin, i’m always oscillating between my 
 
 ### playing on the edge
 ![](https://images.unsplash.com/photo-1584111679018-5c24cbd563cd?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHwxNHx8Y29pbiUyMGVkZ2V8ZW58MHx8fHwxNjE4MzMwNTQ4&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=1080)
+
 fun on the other hand is beyond both fear and desire. remember fear is based on that which is behind us while desire is based on that which is ahead of us. only fun is obsessed on where we are right here.
 
 what are the odds that a flipped coin will land on it’s edge? well, as slim as it is, fun is that edge that we seek - that unlikely chance that we can dance on the edge instead of falling on either face. why, you ask? because the edge is where the magic lies.
 
 fun is that active state of detachment to the outcome and the result. but it still feels playful and exciting rather than insipid and uninspiring. there’s the constant challenge of staying on that edge that is tantalisingly effective at focusing one’s attention in the moment and not away from it, either on the future or in the past.
 
-## two heads are better than one
-
+### two heads are better than one
 i’m not talking about heads or tails of the coin in question. i’m referring to the people or playmates involved in the game. when driven by fear or desire, competition makes me self obsessed and more likely to only think of my own fear and desire, not the group’s or the team.
 
 when fun is the focus, the spirit of competition is replaced by that of celebration. how can i maximise my fun by involving and engaging more playmates in the game i play? we don’t need to win in order to celebrate with others. fun is a celebration of the process of play.
 
 the game is challenging and is designed to test one’s limits, to stretch those limits and take one beyond them as well. in the  midst of such a journey of growth and development, the presence of playmates can make this not just effortless but also enjoyable.
 
-## are you having fun today?
-
+### are you having fun today?
 we have all embraced the obsession to measure and quantify everything we do. money is certainly quantifiable but even fame is no longer just ‘world famous’. you have to count your followers before you’ve hatched. in such a world, i ask you again…
 
 > are you having fun; right here, right now?

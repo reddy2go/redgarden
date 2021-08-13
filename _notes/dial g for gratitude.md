@@ -13,8 +13,7 @@ instead of centrifugal energy, i’m channelling centripetal energy. so i’ve b
 
 i present to you my tight rope challenge of oscillating between intention and action as i walk from guilt to gratitude. i’m a believer that right action with wrong intention and wrong action with right intention are equally fucked up, so i’m always looking to ensure that my actions and intentions are in sync.
 
-## guilt
-
+### guilt
 charity begins at home, so let’s start there. i hate my fucking parents. Sigmund Freud would smile knowingly. but really, i’ve grown up feeling like they never understood me. even at the age of 5, i thought they were imbeciles and that i ought to be in charge, not them.
 
 post puberty, as i began to feel the virility and vitality of youth coursing through my veins, i began to assert my independence with arrogance and aggression. i used my energy not only to chart my own course but to first destroy what good they had made of me.
@@ -25,11 +24,10 @@ purposefully demeaning and aggravating envy in my sibling as i trounced around t
 
 not a pretty picture, my life. but i want you to know that there’s plenty of guilt to fuel my actions to help them today.
 
-## gratitude
-
+### gratitude
 but that’s not the intention i want to base my actions upon. i don’t want to act with guilt. i’ve accepted my errors. i’ve accepted that some actions might have been warranted, but blame will not take me far. regardless of who wears the blame, responsibility is always mine to bear.
 
-thinking of all the harm i’ve caused is an epic undertaking in itself. so you can imagine how difficult it would be to make amends. but at some point you will realise that [accepting errors, apologising and making amends](/art-of-apology/) is still not enough.
+thinking of all the harm i’ve caused is an epic undertaking in itself. so you can imagine how difficult it would be to make amends. but at some point you will realise that accepting errors, apologising and making amends is still not enough. what you need is the [[art of apology]].
 
 that’s when the magic of gratitude comes to play. this was even harder than all the humble pie i’ve eaten to get this far. for gratitude to stick, i’ve dived deep into my drug addled memories to find that feeling. for all that i've blamed and hated my family, what do i love them for? i want to find that feeling of love and gratitude which will fuel my actions today.
 

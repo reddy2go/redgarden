@@ -327,10 +327,13 @@ a.internal-link:after, a.footnote-backref:after {
   /*text-shadow: -1px -1px 0 #fafafabb, 1px -1px 0 #fafafabb, -1px 1px 0 #fafafabb, 1px 1px 0 #fafafabb;*/
 }
 
-.nodes [active],
-.text [active] {
+.nodes [active]{
   cursor: pointer;
   fill: #c55d53;
+}
+
+.text [active] {
+  fill: #ffffff;
 }
 
 .inactive {

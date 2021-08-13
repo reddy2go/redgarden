@@ -13,6 +13,7 @@ so it makes perfect sense that you gotta have toys if you wanna play! which is s
 what i want us to map is the territory of our memories. let’s chart out the times in our lives when we felt absolute bliss, joy, excitement, curiosity and more. using this chronological outline, identify the toys you associated with those feelings.
 
 in different phases of your life you’ll find you played with different toys. though you will also discover the ones which are universally playful and enjoyable at any age. collect all the memories and the associated toys and complete your treasure map.
+
 ![IMG_7206.jpeg](https://res.craft.do/user/full/aea53ecb-f07e-7684-f954-13f587938a00/8A4AD33E-5D39-4E0B-AFCE-091F66FA924E_2)
 ## the motley crew
 

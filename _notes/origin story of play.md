@@ -20,7 +20,7 @@ at one time, i harboured the hubris that i was in control of the drugs. like a d
 
 > anything that goes up must come down, and the fall is never something you can prepare for.
 
-### people are a drug too
+### dreams are drug too
 i'd covered many miles, danced across borders and dabbled in every adventure i could find, nefarious or not. the people i'd meet didn't really matter, and those that mattered i'd run away from in a heartbeat.
 
 it didn't matter where i went, what i did or who i was with. i was on the run and i didn't know from what or whom.

@@ -71,7 +71,7 @@ i believe so and have embodied this philosophy as my own, in my body and mind. i
 
 > No tree, it is said, can grow to heaven unless its roots reach down to hell.
 
----
+
 now turn off your phone, go take a good hard look in the mirror and smile at yourself, lovingly 🥰 spend 10 minutes admiring yourself, your physical, mental and spiritual traits that identify you.
 
 done? now find someone to hug 🤗 and share that love with. could be a friend, lover, family member, pet or tree.

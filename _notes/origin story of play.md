@@ -69,4 +69,4 @@ i believe so and have embodied this philosophy as my own, in my body and mind. i
 ---
 now turn off your phone, go take a good hard look in the mirror and smile at yourself, lovingly 🥰 spend 10 minutes admiring yourself, your physical, mental and spiritual traits that identify you. 
 
-your happiness means everything to the world, for we are groot 🌱
+remember: your happiness means everything to the world, for we are groot 🌱

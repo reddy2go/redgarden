@@ -28,7 +28,6 @@ play focuses on the experience of the present moment while work focuses on the o
 let’s attempt to return to that state of innocence where the outcome is not the impetus for action. let’s create a space that invites one to play - for the sake of play and nothing* else.
 
 ### outdoor
-
 an outdoor space is always ideal when choosing to create a playspace. you can’t go wrong even if there are bugs aplenty and street sounds all around. embracing the natural environment is both grounding as well as inspiring.
 
 ## indoor 🏰

@@ -24,6 +24,7 @@ maybe they’ll ignore you, maybe they’ll laugh at you. but eventually they’
 
 ## simple. silly. shareable
 i’m more confused about the metaphors i’m using than you are so i’ll just get back to stocking our toybox without further ado.
+
 ![IMG_7197.jpeg](https://res.craft.do/user/full/aea53ecb-f07e-7684-f954-13f587938a00/FF1BBEAA-071F-49BE-9369-8DA91E8498F8_2)
 keep it simple and get the most basic toys you can find. something that makes noise. something you can draw and color on. something you can throw around. something you can spin in the air.
 

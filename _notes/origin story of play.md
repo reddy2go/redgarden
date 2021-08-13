@@ -25,9 +25,7 @@ i'd covered many miles, danced across borders and dabbled in every adventure i c
 
 it didn't matter where i went, what i did or who i was with. i was on the run and i didn't know from what or whom.
 
-the highs are no longer highs but mere sighs of relief, that i'm not suffering the withdrawals reminiscent of a reality i once inhabited.
-
-it's also amazing how powerful placebo effects are & how potent perception can be against what we deem as reality.
+the highs are no longer highs but mere sighs of relief, that i'm not suffering the withdrawals reminiscent of a reality i once inhabited. it's also amazing how powerful placebo effects are & how potent perception can be against what we deem as reality.
 
 even as this rollercoaster ride kept oscillating between peaks of incredible ecstasy and pits of morbid despair, it was all still a game for me. the game of life where the stakes were my life. 
 

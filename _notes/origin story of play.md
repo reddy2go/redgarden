@@ -60,7 +60,7 @@ this is perhaps why [[community is trending]]. we all need to find our tribe, th
 
 now this is where the connection with play falls in place. for an adult, the institutions of work and marriage are the major means to engage with society at large. 
 
-can adults still engage and relate outside of the traditional means of community, in the pure spirit of play as we did as kids?
+but can adults still engage and relate outside of the traditional means of community, in the pure spirit of play as we did as kids?
 
 ---
 as for me, my past brings me no regret and much joy, because who i am today is thanks to the path i walked, hopped, jumped, crawled and flew. if i'm uncommonly upbeat today even in the face of abject adversity, it's because of a phenomenon Jung aptly observed...

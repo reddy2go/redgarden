@@ -10,7 +10,6 @@ every day you go to work, you carry a briefcase, backpack or a bag with all the 
 so it makes perfect sense that you gotta have toys if you wanna play! which is something we’ve all thrown away or handed down to the kids to play with. time to reclaim that lost treasure. let the hunt begin!
 
 ## start with a treasure map
-
 what i want us to map is the territory of our memories. let’s chart out the times in our lives when we felt absolute bliss, joy, excitement, curiosity and more. using this chronological outline, identify the toys you associated with those feelings.
 
 in different phases of your life you’ll find you played with different toys. though you will also discover the ones which are universally playful and enjoyable at any age. collect all the memories and the associated toys and complete your treasure map.

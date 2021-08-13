@@ -4,7 +4,7 @@ slug: racket
 favicon: 🎙
 ---
 
-hello there 👋🏽 glad you’re curious about making a racket together. my primary purpose is to use audio as a medium to transform the cold email/DM into a warm hello! and i would love for the world to hear about your passions and what makes you feel like a little child again.
+hello there!🏽 glad you’re curious about making a racket together. my primary purpose is to use audio as a medium to transform the cold email/DM into a warm hello! and i would love for the world to hear about your passions and what makes you feel like a little child again.
 
 the conversation is recorded & saved forever like ol' photo albums (audio selfie?) of yore. a reminder that connecting with strangers can be an experience to cherish and build on till we’re no longer strangers, but playmates.
 

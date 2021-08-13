@@ -38,7 +38,7 @@ the worst effect of addiction is the social isolation, personal paranoia, mistru
 
 like Obelix who fell into a cauldron of magic potion and it's effects lasted forever, i'm also barred from partaking of anymore magic potion.
 
-in my case, the effects may not be permanent, but i'd still say i'm high as a fucking kite, most fucking days. when i fall, i bounce back almost immediately.
+in my case, the effects may not be permanent, but i'd still say i'm high as a fucking kite, most fucking days. when i fall, i bounce back almost immediately, thanks to a
 
 ---
 everyone from Buddha to Nietzsche agrees that life sucks. but of course we want life to rock! and drugs are the quickest fix available, and ubiquitously at that for the first time in history. 

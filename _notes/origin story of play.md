@@ -9,7 +9,6 @@ i didn't want to play within demarcated boundaries. breaking the rules was more 
 
 having spent the first 5 years under strong medication for seizures, it appears i was constantly on the lookout for a similar high after i was taken off it.
 
----
 got lucky soon after puberty with  the accidental discovery that huffing petrol can get me high. seemed like an easy enough method, but i wanted to play with every possibility.
 
 and before i knew it, i was like a kid in a candy store running amok, sampling every drug i could find.

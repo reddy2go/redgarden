@@ -56,7 +56,7 @@ that's actually two things in that statement there:
 
 this is perhaps why [[community is trending]]. we all need to find our tribe, that shares the same vibe. and remember that connection not only brings us closer together, but also makes us feel higher. 
 
-thus i conclude that the antidote to addiction is not de-addiction, but connection.
+> thus i conclude that the antidote to addiction is not de-addiction, but connection.
 
 ---
 how does all this connect with play? for an adult, the institutions of work and marriage are the major means to engage with society at large. 

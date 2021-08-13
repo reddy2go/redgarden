@@ -1,5 +1,5 @@
 ---
-title: playing with drugs
+title: playing with drugs and hugs
 slug:
 ----
 

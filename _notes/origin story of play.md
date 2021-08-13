@@ -1,5 +1,5 @@
 ---
-title:
+title: playing with drugs
 slug:
 ----
 

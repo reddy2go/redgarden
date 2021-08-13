@@ -1,5 +1,5 @@
 ---
-title: is your workspace a playspace?
+title:workspace a playspace?
 slug: workspaces-and-playspaces
 date_published: 2021-04-07T20:15:07.000Z
 date_updated: 2021-04-07T20:15:07.000Z

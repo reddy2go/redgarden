@@ -240,6 +240,9 @@ a {
   text-decoration: none;
 }
 
+a.footer-link{
+  font-size: 90%;
+}
 a.nav-icons{
   transition: all 300ms;
   font-weight: 800;

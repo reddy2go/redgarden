@@ -13,18 +13,16 @@ that would be an inspiring line to throw at you. but this post is more about mak
 why do you need a workspace? well, the answer is obvious - to work of course. a space that offers you maximum output for your input. in other words a space which increases your productivity. that brings you into a magical state of being where you feel you’ve accomplished something of worth. the result is often decided and judged by others.
 
 ## playspaces
-
 whether it’s a sandpit in your backyard or your crib as an infant, your earliest inhabited space is a playspace. take a minute before you read any further. close your eyes and imagine all the places in which you played as an adult. any space you’d define as conducive to play.
 
 share that with anyone near you right now. ask them what their playspaces were like growing up. compare notes and you’ll find that such spaces are often similar.
 
 ## training spaces
-
 do you remember the X-Men's Danger Room? well, your school or college gym wasn’t as cool but it was a space devoted to training - an activity that begins as play but soon becomes work. that isn’t necessary a negative, but is that what you intended?
 
 a training space is the middle ground between play spaces and work spaces. they offer constantly changing and challenging situations where there are no lasting  consequences for mistakes made. it offers the opportunity to develop new skills without the possibility of [danger or death](/danger-and-death/).
 
-## return to innocence 😇
+### return to innocence 
 
 play focuses on the experience of the present moment while work focuses on the outcome of the current experience. both are different states of being, and thus require different physical spaces to be in.
 

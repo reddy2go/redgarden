@@ -9,7 +9,7 @@ category:
 
 that would be an inspiring line to throw at you. but this post is more about making a playground your world. we spend most of our time as children in playgrounds and playpens. as adults, however, we’re obsessed with workplaces, even when we’re working from home!
 
-### workspaces
+## workspaces
 why do you need a workspace? well, the answer is obvious - to work of course. a space that offers you maximum output for your input. in other words a space which increases your productivity. that brings you into a magical state of being where you feel you’ve accomplished something of worth. the result is often decided and judged by others.
 
 ## playspaces

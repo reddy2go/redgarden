@@ -33,7 +33,7 @@ i wasn't playing to win, but to dance between victory and defeat, without fallin
 
 the dark side is not a bad place & i still regard [[rock-bottom]] as my hometown, the place i grew up in. it's the place i came of age, as i realised that the worst outcome of a life of addiction is not the physical, mental and spiritual decay. 
 
-### connection is the cure
+### connection is salvation
 it is the social isolation of mistrust & disconnection.
 
 like Obelix who fell into a cauldron of magic potion and it's effects lasted forever, i'm also barred from partaking of anymore magic potion.

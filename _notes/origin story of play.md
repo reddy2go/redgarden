@@ -33,7 +33,6 @@ even as this rollercoaster ride kept oscillating between peaks of incredible ecs
 
 i wasn't playing to win, but to dance between victory and defeat, without falling over either edge.
 
----
 the dark side is not a bad place & i still regard [[rock-bottom]] as my hometown, the place i grew up in. it's the place i came of age, as i realised that the worst outcome of a life of addiction is not the physical, mental and spiritual decay. 
 
 it is the social isolation of mistrust & disconnection.

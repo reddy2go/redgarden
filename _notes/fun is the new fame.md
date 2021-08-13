@@ -7,7 +7,7 @@ category:
 ---
 in recent times, the resurgence of young people playing with the idea of fun and creating for the sake of creating has made me very happy. ever since the obsession of play grabbed me by the balls, i’ve been in a state of fun beyond desire or fear.
 
-## two sides of the coin 🪙
+### two sides of the coin 🪙
 
 whenever i get down to doing something, i’m driven by either fear or desire. when i was younger, desire was more likely to drive my decisions and actions. as i got older even if the decisions and actions were the same it would more likely be driven by fear.
 

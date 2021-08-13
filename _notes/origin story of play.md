@@ -18,7 +18,7 @@ in fact, if anything, the drugs softened me up over the years into the opposite 
 
 at one time, i harboured the hubris that i was in control of the drugs. like a druid mixing concoctions to remedy every morbid mood, i'd play just the right doses to stay high and feel fine. 
 
-entering that goes up must come down, and the fall is never something you can prepare for.
+anything that goes up must come down, and the fall is never something you can prepare for.
 
 ---
 i'd covered many miles, danced across borders and dabbled in every adventure i could find, nefarious or not. the people i'd meet didn't really matter, and those that mattered i'd run away from in a heartbeat.

@@ -47,7 +47,7 @@ everyone from Buddha to Nietzsche agrees that life sucks. but of course we want 
 
 in fact we're in a state of high calorie malnutrition, ingesting more than we can digest. and unable to absorb what we do digest. mass production and manufacturing ensures that everyone can get high with least effort in the least possible time. but we're failing as a society, not rising. 
 
-### 
+### tldr
 everything has changed since i got clean and yet nothing's changed. i still want to get high and i still want life to rock. but if there's one thing i've learnt is that, i can't sustain that high with drugs alone. 
 
 that's actually two things there:

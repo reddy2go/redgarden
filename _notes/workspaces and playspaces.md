@@ -30,7 +30,7 @@ let’s attempt to return to that state of innocence where the outcome is not th
 ### outdoor
 an outdoor space is always ideal when choosing to create a playspace. you can’t go wrong even if there are bugs aplenty and street sounds all around. embracing the natural environment is both grounding as well as inspiring.
 
-## indoor 🏰
+## indoor
 
 if it isn’t possible to be outdoors, create a space that while indoors still has plenty of light and air coming in. find a way to allow nature to enter and entertain. like a window which allows you to see the sunset every evening.
 

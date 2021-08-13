@@ -45,7 +45,7 @@ at this point it's vital to note that friends can be flora and fauna too. i've l
 ### life sucks, you rock!
 everyone from Buddha to Nietzsche agrees that life sucks. but of course we want life to rock! and drugs are the quickest fix available, and for the first time in human history, it's ubiquitously available. 
 
-in fact we're in a state of high calorie malnutrition, ingesting more than we can digest. and unable to absorb what we do
+in fact we're in a state of high calorie malnutrition, ingesting more than we can digest. and unable to absorb what we do digest. 
 
 mass production and manufacturing ensures that everyone can get high with least effort in the least possible time.
 

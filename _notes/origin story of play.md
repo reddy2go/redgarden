@@ -58,7 +58,7 @@ this is perhaps why [[community is trending]]. we all need to find our tribe, th
 
 > thus i conclude that the antidote to addiction is not de-addiction, but connection.
 
----
+
 how does all this connect with play? for an adult, the institutions of work and marriage are the major means to engage with society at large. 
 
 can adults still engage and relate outside of the traditional means of community, in the pure spirit of play as we did as kids?

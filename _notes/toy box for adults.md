@@ -29,7 +29,7 @@ i’m more confused about the metaphors i’m using than you are so i’ll just 
 
 keep it simple and get the most basic toys you can find. something that makes noise. something you can draw and color on. something you can throw around. something you can spin in the air.
 
-no, i’m not going to give you a list. i want you to make your own list of toys you want in your toy box. dig into your memories. rediscover your playmates. recreate your toys.
+> no, i’m not going to give you a list. i want you to make your own list of toys you want in your toy box. dig into your memories. rediscover your playmates. recreate your toys.
 
 the toy-box is a time machine that will take you back to blissful times, when the world was simpler, sillier and shareable. let me know if you want some ideas, happy to help you build your own toy box 📦
 

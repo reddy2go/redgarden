@@ -669,6 +669,6 @@ ul.navElement {
   background-color: var(--background-color);
 }
 
-/*#myBtn:hover {
+#myBtn:hover {
   background-color: #555;
-}*/
+}

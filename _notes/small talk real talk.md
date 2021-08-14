@@ -41,7 +41,7 @@ it takes intense life experiences to remind us that frivolous desires can be mos
 
 ## so what now?
 
-i tend to simplify both desires and fears as falling under the primal buckets of feeding, fucking and fighting. excuse my proclivity for the profane, maybe i just like being crass or maybe i have no class.
+i tend to simplify both desires and fears as falling under the primal buckets of [[feeding, fucking and fighting]]. excuse my proclivity for the profane, maybe i just like being crass or maybe i have no class.
 
 regardless, we will find that culinary desires and fears rank feature often in our lists. tasting that rare single malt whiskey that you can’t yet afford to buy. savouring that exotic chilli that you have to travel to the Himalayas for.
 

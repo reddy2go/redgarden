@@ -33,4 +33,4 @@ no, i’m **not** going to give you a list. i want you to make your own list of 
 
 the toy-box is a time machine that will take you back to blissful times, when the world was simpler, sillier and shareable. let me know if you want some ideas, happy to help you build your own toy box 📦
 
-<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">in my quest to create a kindergarten for adults, i’m playing with the idea of a toybox for adults. what would you like in yours? <a href="https://t.co/4o2rgMkvXi">pic.twitter.com/4o2rgMkvXi</a></p>&mdash; reddy2shit 💩 (@reddy2go) <a href="https://twitter.com/reddy2go/status/1376579423437082626?ref_src=twsrc%5Etfw">March 29, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+https://twitter.com/reddy2go/status/1376579423437082626?s=20

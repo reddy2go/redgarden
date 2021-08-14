@@ -666,6 +666,8 @@ ul.navElement {
   border: none; /* Remove borders */
   outline: none; /* Remove outline */
   cursor: pointer; /* Add a mouse pointer on hover */
+  height:50px;
+  width:50px;
   background-color: var(--background-color);
 }
 

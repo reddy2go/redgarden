@@ -5,7 +5,9 @@
 <body>
   <nav>{% include nav.html %}</nav>
   <main>{{ content }}</main>
-  <footer>{% include footer.html %}</footer>
+  <footer>{% include footer.html %}
+    <button onclick="topFunction()" id="myBtn" title="Go to top"><img src="/assets/images/arrow.png" style="height:50px;width:50px;"></button>
+  </footer>
 
   {% include link-previews.html wrapperQuerySelector="content" %}
   <!--{% include color-switcher-js.html %}-->

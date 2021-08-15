@@ -38,11 +38,11 @@ sharing and caring or collaboration and co-creation can do more for collective g
 ### improving interaction quotient
 now that i’ve waxed eloquently for so long, i’ll now share my simple model for understanding and increasing interaction in groups and communities. let’s break everyone into these groups on the basis of their involvement.
 
-**0** - ground zero or the core group
-**1 **- self initiated active involvement
-**2 **- peer pressure passive involvement
-**3 **- obligatory activity only when initiated
-**4 **- voyeurs without active feedback
+> 0 - ground zero or the core group 
+> 1 - self initiated active involvement 
+> 2 - peer pressure induced passive involvement 
+> 3 - obligatory activity only when pushed/pulled
+> 4 - voyeurs without active interaction
 
 ![Untitled_Artwork.jpeg](https://res.craft.do/user/full/aea53ecb-f07e-7684-f954-13f587938a00/CAFC0DD8-D042-4D0D-8B0C-E774EFF89334_2/Untitled_Artwork.jpeg)
 

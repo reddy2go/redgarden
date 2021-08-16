@@ -6,6 +6,7 @@ date_updated: 2021-04-13T18:44:09.000Z
 category: 
 ---
 a recent tweet by [Craig Burgess](https://www.getdoingthings.com) hastened this article, which was in the making for a while. and i believe the urgency with which it was written has raised it's value manifold. but you won’t know till you’ve read it, will you?
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">Does the words “providing value” trigger you?<br><br>A few follow-up comments<br><br>1. Value should be obvious and not need to be said (like when a designer calls themselves creative)<br>2. I’ve often said these two words in the past and now I don’t know what they mean</p>&mdash; A Wild Craig Appears! (@craigburgess) <a href="https://twitter.com/craigburgess/status/1380537011522650118?ref_src=twsrc%5Etfw">April 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 > Does the words “providing value” trigger you?
 > 

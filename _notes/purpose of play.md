@@ -34,8 +34,4 @@ but what i’m clear about is this: when you ask me that same question, my reply
 
 join me in my games or drag me into yours. either way, **let’s play!** this world is my playground and i’m game to play with any and every subject. i’m happy to play with you, with or without rules. just play nice 😇 …or not 😈 either way, be dead serious about play. because purpose or no purpose, it’s hella fun 🤩 believe you me!
 
-> Q. why are you always playing? 🤨 
-> A. because things didn’t work out 😆 [pic.twitter.com/rEXoN8jdrE](https://t.co/rEXoN8jdrE)
-> &mdash; reddy2Go (@reddy2go) [April 4, 2021](https://twitter.com/reddy2go/status/1378656380928684034?ref_src=twsrc%5Etfw)
-
 <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">Q. why are you always playing? 🤨 <br>A. because things didn’t work out 😆 <a href="https://t.co/rEXoN8jdrE">pic.twitter.com/rEXoN8jdrE</a></p>&mdash; reddy2play❓ (@reddy2go) <a href="https://twitter.com/reddy2go/status/1378656380928684034?ref_src=twsrc%5Etfw">April 4, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -24,5 +24,4 @@ the conversation is recorded & saved forever like ol' photo albums (audio selfie
 - remember, there are no edits so you’ll have a link ready to share soon after we end the session. if you still have any questions, or concerns, please reach out [via email](mailto:reddy2go@hey.com) or [twitter DMs](https://twitter.com/reddy2go).
 
 ### why racket?
-- [A conversation with Austin about Racket and the audio apps category | Racket](https://racket.com/hnshah/rB3tH)
-- [What is Racket? Chat With Austin Petersmith | Racket](https://racket.com/mailecabral/rYaHa)
+<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">why do i consistently use <a href="https://twitter.com/racket100?ref_src=twsrc%5Etfw">@racket100</a>?<br><br>- unsettling pace<br>- tight time constraint<br>- no time to think and talk<br>- high intensity<br>- sudden intimacy<br>- unnerving experience<br>- abrupt awkward ending<br><br>🚨 all features, not bugs!<br>come experience the magic 🪄 <a href="https://t.co/NUZD0CLjlv">https://t.co/NUZD0CLjlv</a></p>&mdash; reddy2play❓ (@reddy2go) <a href="https://twitter.com/reddy2go/status/1427105434192683013?ref_src=twsrc%5Etfw">August 16, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

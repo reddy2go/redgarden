@@ -41,4 +41,4 @@ why aren’t we giving out a Nobel prize for the scientist who’s had the most 
 
 here’s an experiment for you. attempt to quantify the fun quotient in everything you do and tell me how you fare.
 
-> https://twitter.com/reddy2go/status/1381993000612417540?s=21
+[> https://twitter.com/reddy2go/status/1381993000612417540?s=21](<%3Cblockquote class="twitter-tweet" data-theme="dark"%3E<p lang="en" dir="ltr">Yep. My thoughts exactly... <a href="https://t.co/6oYqYZwpop">https://t.co/6oYqYZwpop</a></p>&mdash; Jan Gondol 🚢 (@jangondol) <a href="https://twitter.com/jangondol/status/1381990482100822016?ref_src=twsrc%5Etfw">April 13, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>>)

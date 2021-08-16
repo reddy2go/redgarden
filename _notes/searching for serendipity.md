@@ -42,6 +42,8 @@ i find it so amusing that we’ve built civilisation to hide from the jungles of
 ![](https://images.unsplash.com/photo-1542995719-e5c11316a88e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHwxNnx8Y2hhbmNlfGVufDB8fHx8MTYyMjczODA2Nw&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=1080)
 so am i still searching for serendipity? for many years of my life, i traveled constantly, met so many different people, played so many differing roles, spoke various languages, hopped between the lowest and the highest strata of society. every minute was magical. every moment was ripe with opportunity and filled with danger. if you want the good, you gotta be open to the bad. then again, who knows which is which. what if what you think is a bug, is actually a feature?
 
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">what’s something everyone believes to be a bug, but you think is actually a feature? <br><br>via <a href="https://twitter.com/racket100?ref_src=twsrc%5Etfw">@racket100</a> <a href="https://t.co/I3lbuWfIse">https://t.co/I3lbuWfIse</a></p>&mdash; reddy2play❓ (@reddy2go) <a href="https://twitter.com/reddy2go/status/1400314131740192768?ref_src=twsrc%5Etfw">June 3, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 > what’s something everyone believes to be a bug, but you think is actually a feature? 
 > 
 > via [@racket100](https://twitter.com/racket100?ref_src=twsrc%5Etfw)[https://t.co/I3lbuWfIse](https://t.co/I3lbuWfIse)

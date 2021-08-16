@@ -25,9 +25,7 @@ The games are designed to be silly, even inane and irreverent at times, but be w
 
 I'll be adding games to [this thread](https://twitter.com/reddy2go/status/1338901196409434112) as I make them up. Welcome to the party and BYOG (Bring Your Own Game). The sillier the better.
 
-> 5/💯 rollercoaster ride
-> everyone has to imagine they’re on a rollercoaster and yell, scream, close eyes tight in fear, look away, throw hands up in the air… imagine every bend, twist, drop and feel the adrenaline spike [pic.twitter.com/t0W7qvrSid](https://t.co/t0W7qvrSid)
-> &mdash; reddy2Go (@reddy2go) [December 15, 2020](https://twitter.com/reddy2go/status/1338901275132379141?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">5/💯 rollercoaster ride<br>everyone has to imagine they’re on a rollercoaster and yell, scream, close eyes tight in fear, look away, throw hands up in the air… imagine every bend, twist, drop and feel the adrenaline spike <a href="https://t.co/t0W7qvrSid">pic.twitter.com/t0W7qvrSid</a></p>&mdash; reddy2play❓ (@reddy2go) <a href="https://twitter.com/reddy2go/status/1338901275132379141?ref_src=twsrc%5Etfw">December 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 It's been awhile since I've written but there's plenty in store for you all. Stay tuned. This holiday season is going to be lit!
 

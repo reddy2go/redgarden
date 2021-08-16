@@ -19,7 +19,6 @@ the phrase ‘providing value’ totally gets my goat for quite a few reasons. i
 
 > i’m here to put a smile on your face, laugh in your belly, tickle through your brain or scare down your gut 🙂🤣🧠😱
 
-
 ## value signaling
 
 providing value isn’t virtue signaling but i don’t want to feel like i’m trolling the streets of twitter with a big neon sign above my head that says ‘i’m providing value’. yeah, i have a vivid visualisation. it’s quite a riot really.

@@ -6,7 +6,7 @@ date_updated: 2021-04-02T09:19:10.000Z
 category: 
 ---
 very often making art turns into an obsession with perfection. that’s the reason i created this very space - where i write half baked thoughts and share without hesitation. *Steven Pressfield* calls this obsession for perfection the resistance.
-{% include youtubePlayer.html id="rbRieFzbZXA" %}
+{% include youtubePlayer.html id="6ZToRdS2HRc" %}
 
 but resistance is futile, which is why as an artist i chose to embrace the mess, instead of being reduced to a mess by resistance. that brings us to the question - how do we explore the difference between being a messy artist and creating messy art?
 

@@ -45,5 +45,4 @@ If you've made it this far, you should know that carrying the feeling of hurt is
 However all you can do is ask and wait... Someday maybe 🤞🏽 While you're waiting, here's some reading material on [forgiveness](https://playtime.reddy2go.com/p/fun-and-forgiveness).
 
 If you want to play that back on Twitter 👇🏽
-
 <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">apologies to those I couldn&#39;t connect with despite prior commitments since the last 24 hours. chaos reigned supreme. but i&#39;m back now! also apologies aren&#39;t as simple as saying sorry, so a thread...<br><br>p.s. i&#39;m not sure if apologies in public are less or more embarrassing <a href="https://t.co/tAo1g7igs1">pic.twitter.com/tAo1g7igs1</a></p>&mdash; reddy2play❓ (@reddy2go) <a href="https://twitter.com/reddy2go/status/1316385067040559104?ref_src=twsrc%5Etfw">October 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

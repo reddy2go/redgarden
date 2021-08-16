@@ -10,8 +10,6 @@ I've been known to make drunken boasts and tall claims without thought. An excel
 
 More on that later. Today's talk is on the twitter thread that has me in knots. I made a decision to gift a subscription to an [online community](https://nesslabs.com/) run by the effervescent [Anne-Laure](https://twitter.com/anthilemoon). 
 
-> in the spirit of play and joy, i&#39;m gifting a [@ness_labs](https://twitter.com/ness_labs?ref_src=twsrc%5Etfw) annual subscription to anyone you think would be desirous (yes, desirous not deserving) of it [https://t.co/34GN3R7bHI](https://t.co/34GN3R7bHI)
-> &mdash; reddy2Go (@reddy2go) [December 15, 2020](https://twitter.com/reddy2go/status/1338856135747506181?ref_src=twsrc%5Etfw)
 
 <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">in the spirit of play and joy, i&#39;m gifting a <a href="https://twitter.com/ness_labs?ref_src=twsrc%5Etfw">@ness_labs</a> annual subscription to anyone you think would be desirous (yes, desirous not deserving) of it <a href="https://t.co/34GN3R7bHI">https://t.co/34GN3R7bHI</a></p>&mdash; reddy2play❓ (@reddy2go) <a href="https://twitter.com/reddy2go/status/1338856135747506181?ref_src=twsrc%5Etfw">December 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

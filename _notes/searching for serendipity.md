@@ -44,9 +44,4 @@ so am i still searching for serendipity? for many years of my life, i traveled c
 
 <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">what’s something everyone believes to be a bug, but you think is actually a feature? <br><br>via <a href="https://twitter.com/racket100?ref_src=twsrc%5Etfw">@racket100</a> <a href="https://t.co/I3lbuWfIse">https://t.co/I3lbuWfIse</a></p>&mdash; reddy2play❓ (@reddy2go) <a href="https://twitter.com/reddy2go/status/1400314131740192768?ref_src=twsrc%5Etfw">June 3, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-> what’s something everyone believes to be a bug, but you think is actually a feature? 
-> 
-> via [@racket100](https://twitter.com/racket100?ref_src=twsrc%5Etfw)[https://t.co/I3lbuWfIse](https://t.co/I3lbuWfIse)
-> &mdash; reddy player one (@reddy2go) [June 3, 2021](https://twitter.com/reddy2go/status/1400314131740192768?ref_src=twsrc%5Etfw)
-
 and it’s a miracle i’m alive today, who knows if that’s good or bad?  

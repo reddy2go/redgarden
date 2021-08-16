@@ -44,10 +44,6 @@ in a civilisation where sex is glorified and vilified, the domestic shackles of 
 
 <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">Kingdoms and a bottle of water. <a href="https://t.co/MfhzCdjKFI">pic.twitter.com/MfhzCdjKFI</a></p>&mdash; Andrew Ruiz (@then_there_was) <a href="https://twitter.com/then_there_was/status/1349152209565409280?ref_src=twsrc%5Etfw">January 13, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
-> Kingdoms and a bottle of water. [pic.twitter.com/MfhzCdjKFI](https://t.co/MfhzCdjKFI)
-> &mdash; Andrew Ruiz (@then_there_was) [January 13, 2021](https://twitter.com/then_there_was/status/1349152209565409280?ref_src=twsrc%5Etfw)
-
 who says a mind blowing orgasm is not a more glorious goal than earning your first million? breaking into the 1% isn't a matter of counting pennies or penises, but a playful and joyous interaction might get you closer to enlightenment than your carefully conspired plans for world domination.
 
 > **"**Money often costs too much." - Ralph Waldo Emerson

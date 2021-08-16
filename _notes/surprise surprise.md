@@ -34,3 +34,5 @@ joy is our default state of mind. period. and play is the way to get there. butw
 ](/playpen/)
 > would you join my 9 day cohort based kindergarten course?
 > &mdash; reddy 🧸 bear (@reddy2go) [June 24, 2021](https://twitter.com/reddy2go/status/1408093947050610691?ref_src=twsrc%5Etfw)
+
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">joy is our default state of mind and play is the easiest way to get you there. but do you remember how to play without purpose &amp; enjoy without reason, like children do?<br><br>if the answer is no, you may want to join this 9 day cohort based course on playing like you’re 5 🥳 <a href="https://t.co/q0ADUIvLLK">pic.twitter.com/q0ADUIvLLK</a></p>&mdash; reddy2play❓ (@reddy2go) <a href="https://twitter.com/reddy2go/status/1408093391292821507?ref_src=twsrc%5Etfw">June 24, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

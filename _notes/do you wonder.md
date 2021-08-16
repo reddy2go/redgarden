@@ -28,6 +28,8 @@ reading is the easiest way to use the understanding gained by other thinkers fro
 but what if we are stunting growth by feeding curiosity instead of causing growth by starving one of knowledge? Steve Jobs wanted us to ‘stay hungry, stay foolish’ and i wonder if that’s what made him the man he was. his capacity for wonder. what else set him apart in an environment where probably everyone was smarter and better read than him?
 
 [reddy player one on Twitter](https://twitter.com/reddy2go/status/1345251686902730753?s=21)
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">we’ve taken the ‘standing on the shoulder of giants’ to extremes, failing to dig into our own insights, observe nature &amp; play (experiment) with live playmates. books can be intellectual springboards but can also become crutches preventing us from strenuous cognitive exploration <a href="https://t.co/tCpGqBWhOO">pic.twitter.com/tCpGqBWhOO</a></p>&mdash; reddy2play❓ (@reddy2go) <a href="https://twitter.com/reddy2go/status/1345251686902730753?ref_src=twsrc%5Etfw">January 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 ## write a book before you read it
 

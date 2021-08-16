@@ -16,7 +16,7 @@ I grew up using this maxim in my defense every time I was expected to study. It 
 
 In the quest for a model society, we have created a monstrous system that devours playful children and spits out passive adults. What I have in mind isn't going to upend that system and revolutionize the world. Well, maybe tomorrow.
 
-Today, I just want to make your Zoom room a fun, not fatiguing experience. In the spirit of [@Threadapalooza](https://twitter.com/threadapalooza), get ready for [100 games to play in your next Zoom](https://twitter.com/reddy2go/status/1338901196409434112) meeting.
+Today, I just want to make your Zoom room a fun, not fatiguing experience. 
 
 <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">in the spirit of <a href="https://twitter.com/threadapalooza?ref_src=twsrc%5Etfw">@Threadapalooza</a> get ready for 100 games designed to make your Zoom room a fun, not fatiguing experience. they can be played in as little as 2 minutes before or after your meeting, between two playmates or more. what are you waiting for? it’s playtime! 🏁</p>&mdash; reddy2play❓ (@reddy2go) <a href="https://twitter.com/reddy2go/status/1338901196409434112?ref_src=twsrc%5Etfw">December 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

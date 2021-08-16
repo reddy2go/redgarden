@@ -42,6 +42,9 @@ yes, i'm referring to money. the overwhelming drive for money and wealth creatio
 
 in a civilisation where sex is glorified and vilified, the domestic shackles of society and culture have diverted that primal desire into ambition. so, get rich, but don't waste your breath trying hard. money and wealth in your life is not really worth dying for.
 
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">Kingdoms and a bottle of water. <a href="https://t.co/MfhzCdjKFI">pic.twitter.com/MfhzCdjKFI</a></p>&mdash; Andrew Ruiz (@then_there_was) <a href="https://twitter.com/then_there_was/status/1349152209565409280?ref_src=twsrc%5Etfw">January 13, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 > Kingdoms and a bottle of water. [pic.twitter.com/MfhzCdjKFI](https://t.co/MfhzCdjKFI)
 > &mdash; Andrew Ruiz (@then_there_was) [January 13, 2021](https://twitter.com/then_there_was/status/1349152209565409280?ref_src=twsrc%5Etfw)
 

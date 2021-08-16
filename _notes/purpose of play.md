@@ -14,6 +14,7 @@ neither do i have any lofty mission to uplift mankind and benefit humanity. i do
 > right here, right now; are you having fun?
 
 if yes, carry on playing through life. if not, wake the fuck up and wonder why… and the moment you do that - bingo! you’re playing already! i don’t care what you’re chasing - profits or peace of mind. if you’re not playing on the way, what’s the point really? here's a wonderful find by long time playtime reader: [*Dr. Shiva Birdi*](https://twitter.com/shivabirdi?s=21)
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">The certainties and uncertainties of play. <br>&quot;Play is fun, and fun is good&quot; <a href="https://twitter.com/reddy2go?ref_src=twsrc%5Etfw">@reddy2go</a> <a href="https://t.co/h62jKFI409">https://t.co/h62jKFI409</a></p>&mdash; Shiva Birdi (@shivabirdi) <a href="https://twitter.com/shivabirdi/status/1378488262029795331?ref_src=twsrc%5Etfw">April 3, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 > The certainties and uncertainties of play. 
 > "Play is fun, and fun is good" [@reddy2go](https://twitter.com/reddy2go?ref_src=twsrc%5Etfw)[https://t.co/h62jKFI409](https://t.co/h62jKFI409)

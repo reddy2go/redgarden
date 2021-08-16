@@ -7,7 +7,6 @@ category:
 ---
 when i chanced upon [Chiara Cokieng](https://chiaracokieng.com/)’s tweet on her [job-hunting cohort based course](https://twitter.com/chiaracokieng/status/1363428702760108034?s=21) 
 curiosity took over. pretty soon we jumped on a call and here’s some thoughts and insights that sprung forth ⛲️
-<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">Job hunting in a new country? I&#39;m starting a cohort-based course w <a href="https://twitter.com/jezzejao?ref_src=twsrc%5Etfw">@jezzejao</a> 👀 <a href="https://t.co/2cDUJJhejd">https://t.co/2cDUJJhejd</a></p>&mdash; Chiara Cokieng (@chiaracokieng) <a href="https://twitter.com/chiaracokieng/status/1363428702760108034?ref_src=twsrc%5Etfw">February 21, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 > There comes a time in every rightly-constructed boy’s life when he has a raging desire to go somewhere and dig for hidden treasure. - The Adventures of Tom Sawyer, Mark Twain
 

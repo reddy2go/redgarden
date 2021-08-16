@@ -9,14 +9,6 @@ a recent tweet by [Craig Burgess](https://www.getdoingthings.com) hastened this 
 
 <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">Does the words “providing value” trigger you?<br><br>A few follow-up comments<br><br>1. Value should be obvious and not need to be said (like when a designer calls themselves creative)<br>2. I’ve often said these two words in the past and now I don’t know what they mean</p>&mdash; A Wild Craig Appears! (@craigburgess) <a href="https://twitter.com/craigburgess/status/1380537011522650118?ref_src=twsrc%5Etfw">April 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-> Does the words “providing value” trigger you?
-> 
-> A few follow-up comments
-> 
-> 1. Value should be obvious and not need to be said (like when a designer calls themselves creative)
-> 2. I’ve often said these two words in the past and now I don’t know what they mean
-> &mdash; Craig • Professional-lific (@craigburgess) [April 9, 2021](https://twitter.com/craigburgess/status/1380537011522650118?ref_src=twsrc%5Etfw)
-
 the phrase ‘providing value’ totally gets my goat for quite a few reasons. if you’re a long time reader of my daily letter you’ll recognise these words below. i want you to read them carefully because we're gonna talk about them at the end.
 
 > i’m here to put a smile on your face, laugh in your belly, tickle through your brain or scare down your gut 🙂🤣🧠😱

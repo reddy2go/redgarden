@@ -339,6 +339,7 @@ a.internal-link:after, a.footnote-backref:after {
 
 .text [active] {
   fill: #ffffff;
+  opacity: 1;
 }
 
 .inactive {

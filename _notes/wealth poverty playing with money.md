@@ -6,7 +6,8 @@ date_updated: 2021-03-31T14:57:02.000Z
 category: 
 ---
 recently, someone i know said
-fuck poverty! i want to be rich!**"
+
+>fuck poverty! i want to be rich!**"
 
 the words echoed in my head and haunted me. what is more real, i thought - the perception of wealth or that of poverty? are they different? these questions swirled around in my head as i grappled for answers.
 

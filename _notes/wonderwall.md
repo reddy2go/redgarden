@@ -24,4 +24,4 @@ thus the finite walls of my castle are now infinite horizons of endless possibil
 > You're my wonderwall..."
 
 ---
-*this literary and imaginary adventure was prompted by *[*Zoe Palmer*](https://twitter.com/palmerish)*'s discovery of *[*Xavier de Maistre's 42-day lockdown*](https://www.laphamsquarterly.org/travel/small-world)* in 1790. if you want to be a part of this adventure, [reach out](https://twitter.com/reddy2go). let's join hands and play! nations maybe closing borders, but your imagination has none.*
+*this literary and imaginary adventure was prompted by *[Zoe Palmer](https://twitter.com/palmerish)*'s discovery of *[Xavier de Maistre's 42-day lockdown](https://www.laphamsquarterly.org/travel/small-world)* in 1790. if you want to be a part of this adventure, [reach out](https://twitter.com/reddy2go). let's join hands and play! nations maybe closing borders, but your imagination has none.*

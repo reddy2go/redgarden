@@ -18,9 +18,9 @@ while all these objects are magical in their own right, the real magic lies in t
 
 thus the finite walls of my castle are now infinite horizons of endless possibilities. the walls that once felt claustrophobic have now transformed me from a prisoner of the finite to an explorer of the infinite. as a wise man once sang...
 
-> "I said maybe,
-> You're gonna be the one that saves me...
-> And after all,
+> "I said maybe,<br>
+> You're gonna be the one that saves me...<br>
+> And after all,<br>
 > You're my wonderwall..."
 
 this literary and imaginary adventure was prompted by [Zoe Palmer](https://twitter.com/palmerish)'s discovery of [Xavier de Maistre's 42-day lockdown](https://www.laphamsquarterly.org/travel/small-world) in 1790. if you want to be a part of this adventure, [reach out](https://twitter.com/reddy2go). let's join hands and play! nations maybe closing borders, but your imagination has none.

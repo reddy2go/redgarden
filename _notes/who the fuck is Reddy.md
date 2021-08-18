@@ -1,5 +1,5 @@
 ---
-title: reddy🦉who?
+title: reddy who?
 slug: who-the-fuck-is-reddy
 date_published: 2021-05-03T14:27:30.000Z
 date_updated: 2021-05-03T14:27:30.000Z

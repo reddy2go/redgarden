@@ -1,9 +1,6 @@
 ---
 title: wealth & poverty
 slug: wealth-poverty
-date_published: 2021-01-13T12:22:35.000Z
-date_updated: 2021-03-31T14:57:02.000Z
-category: 
 ---
 recently, someone i know said
 

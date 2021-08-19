@@ -49,9 +49,13 @@
   <meta property="og:url" content="{{ site.url }}{{ page.url }}{%- if site.use_html_extension -%}.html{%- endif -%}">
   {% endif %}
 
-  <meta property="og:image" content="https://mugshotbot.com/m/HPfOwq1X">
+  {% if page.excerpt %}
+  <meta property="og:image" content="https://res.cloudinary.com/nehasaa/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_760,c_fit,co_rgb:000000,g_south_west,x_480,y_354,l_text:arial_64_bold:{{ page.title | strip_html | strip | url_encode | replace: '+', '%20' | replace: '%2C', '' }}/w_760,c_fit,co_rgb:000000,g_north_west,x_480,y_345,l_text:arial_48:{{ page.excerpt | strip_html | strip_newlines | strip | truncate: 120 | url_encode | replace: '+', '%20' | replace: '%2C', '' }}/portfolio/blog-post-card">
+  {% else %}
+  <meta property="og:image" content="https://res.cloudinary.com/nehasaa/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_760,c_fit,co_rgb:000000,g_south_west,x_480,y_354,l_text:arial_64_bold:{{ page.title | strip_html | strip | url_encode | replace: '+', '%20' | replace: '%2C', '' }}/portfolio/blog-post-card">
+  {% endif %}
   <meta property="og:image:width" content="1280" /> 
-  <meta property="og:image:height" content="658" />
+  <meta property="og:image:height" content="669" />
 
   <meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
   <meta name="HandheldFriendly" content="True" />

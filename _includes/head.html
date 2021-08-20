@@ -49,7 +49,9 @@
   <meta property="og:url" content="{{ site.url }}{{ page.url }}{%- if site.use_html_extension -%}.html{%- endif -%}">
   {% endif %}
 
-  {% if page.excerpt %}
+  {% if page.metadata %}
+  <meta property="og:image" content="https://res.cloudinary.com/reddy2go/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_760,c_fit,co_rgb:ffffff,g_south_west,x_480,y_354,l_text:InterExtraBold.woff2_70_bold:{{ page.title | strip_html | strip | truncate: 68 | url_encode | replace: '+', '%20' | replace: '%2C', '' }}/w_760,c_fit,co_rgb:ffffff,g_north_west,x_480,y_345,l_text:InterRegular.woff2_40:{{ page.metadata | strip_html | strip_newlines | strip | truncate: 120 | url_encode | replace: '+', '%20' | replace: '%2C', '' }}/reddy2go-scard">
+  {% elsif page.excerpt %}
   <meta property="og:image" content="https://res.cloudinary.com/reddy2go/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_760,c_fit,co_rgb:ffffff,g_south_west,x_480,y_354,l_text:InterExtraBold.woff2_70_bold:{{ page.title | strip_html | strip | truncate: 68 | url_encode | replace: '+', '%20' | replace: '%2C', '' }}/w_760,c_fit,co_rgb:ffffff,g_north_west,x_480,y_345,l_text:InterRegular.woff2_40:{{ page.excerpt | strip_html | strip_newlines | strip | truncate: 120 | url_encode | replace: '+', '%20' | replace: '%2C', '' }}/reddy2go-scard">
   {% else %}
   <meta property="og:image" content="https://res.cloudinary.com/reddy2go/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_760,c_fit,co_rgb:ffffff,g_south_west,x_480,y_354,l_text:InterExtraBold.woff2_70_bold:{{ page.title | strip_html | strip | truncate: 68 | url_encode | replace: '+', '%20' | replace: '%2C', '' }}/reddy2go-scard">

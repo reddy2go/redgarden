@@ -23,7 +23,7 @@ what i am here for is fun. truckloads of it. everyday. every time. time after ti
 i want to dance in the streets of twitter, singing along and wishing everyone good day as i pass. sometimes i’ll share a story or two. maybe you’ll like what i’m singing. i might even drag you into an impromptu gig. a battle of rhymes. a dance of mimes. a swap of memes. this is what i do.
 
 i’m not the ice cream man doling out ice creams aka providing value to parched souls. i will however share my ice cream if you’d like🍦or if i don’t have one, a story sandwiched in a smile for sure. i’ve always got a truckload of those!
-![](https://images.unsplash.com/photo-1560864605-a54544918cb8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHwxNXx8aWNlJTIwY3JlYW0lMjB0cnVja3xlbnwwfHx8fDE2MTc5ODcxMzc&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=1080)
+
 ### providing value is a lie
 i come from the land of gurus where we (cl)aim to provide the ultimate value to impoverished souls - liberation. and you want to tell me how to build my twitter following? thanks, but no thanks 🙏🏽 oh! but don’t get offended. this isn’t a dissing. on the contrary, i respect you more than you believe i do. probably more than most ever will. a little more patience, we're almost there...
 
@@ -41,4 +41,3 @@ remember this promise i made to you?
 > i’m here to put a smile on your face, laugh in your belly, tickle through your brain or scare down your gut 🙂🤣🧠😱
 
 if you think any of the above is valuable, great! if you think it’s barely worth a dime, keep the change. if you think it’s priceless, you’re probably right! now read those words again carefully. it just says that’s what i’m here for. that’s my purpose, sure. but i’m not giving any of that to you, not even for a million bucks. if you really want it, come get some! let’s play 🕹
-![](https://images.unsplash.com/photo-1500114434493-7cf32027f4fe?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHwxNHx8Y2hhbGxlbmdlfGVufDB8fHx8MTYxNzk4NDY5OA&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=1080)

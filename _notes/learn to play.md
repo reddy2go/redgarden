@@ -1,5 +1,5 @@
 ---
-title: play to learn <> learn to play
+title: play to learn or learn to play
 slug: learn-to-play
 category: 
 ---

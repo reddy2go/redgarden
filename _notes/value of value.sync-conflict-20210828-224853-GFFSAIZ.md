@@ -13,7 +13,8 @@ the phrase ‘providing value’ totally gets my goat for quite a few reasons. i
 
 > i’m here to put a smile on your face, laugh in your belly, tickle through your brain or scare down your gut 🙂🤣🧠😱
 
-### value signaling
+## value signaling
+
 providing value isn’t virtue signaling but i don’t want to feel like i’m trolling the streets of twitter with a big neon sign above my head that says ‘i’m providing value’. yeah, i have a vivid visualisation. it’s quite a riot really.
 
 i’m not here to build a brand. i’m not here to raise funds. i’m not here to save the world. i’m not here to save my own soul. and no, i’m not here to save yours either. i’m certainly not here to provide value.
@@ -24,18 +25,18 @@ i want to dance in the streets of twitter, singing along and wishing everyone go
 
 i’m not the ice cream man doling out ice creams aka providing value to parched souls. i will however share my ice cream if you’d like🍦or if i don’t have one, a story sandwiched in a smile for sure. i’ve always got a truckload of those!
 ![](https://images.unsplash.com/photo-1560864605-a54544918cb8?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHwxNXx8aWNlJTIwY3JlYW0lMjB0cnVja3xlbnwwfHx8fDE2MTc5ODcxMzc&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=1080)
-### providing value is a lie
+## providing value is a lie
+
 i come from the land of gurus where we (cl)aim to provide the ultimate value to impoverished souls - liberation. and you want to tell me how to build my twitter following? thanks, but no thanks 🙏🏽 oh! but don’t get offended. this isn’t a dissing. on the contrary, i respect you more than you believe i do. probably more than most ever will. a little more patience, we're almost there...
 
-> value, like power is never given. 
+***value, like power is never given***. only seized. grabbed. derived. distilled. wrenched. from experience. from interaction. by extraction. you gotta fight tooth and nail for it. you gotta give it all you have for it. you gotta be willing to die to find value worth living for.
 
-only seized. grabbed. derived. distilled. wrenched. from experience. from interaction. by extraction. you gotta fight tooth and nail for it. you gotta give it all you have for it. you gotta be willing to die to find value worth living for.
-
-by **providing value**, i’m diminishing your experience. if anything i’m going to make it harder for you to get what i got. like hell i’m gonna make it easier. the easier i make it, the lesser the value of what you eventually get from me. and by the time you distill what you got into what you can actually use, it’s barely of any value.
+by *providing value*, i’m diminishing your experience. if anything i’m going to make it harder for you to get what i got. like hell i’m gonna make it easier. the easier i make it, the lesser the value of what you eventually get from me. and by the time you distill what you got into what you can actually use, it’s barely of any value.
 
 you don’t have to agree with my point of view. you don’t have to even argue with my point of view. you see my perspective and raise me yours. we can cross swords or die on other’s hills never exchanging words. but if we do engage, we open each other up to the possibility of seizing value. not from each other, but from the shared experience of interaction.
 
-### come get some
+## come get some
+
 remember this promise i made to you?
 
 > i’m here to put a smile on your face, laugh in your belly, tickle through your brain or scare down your gut 🙂🤣🧠😱

@@ -1,5 +1,5 @@
 ---
-title: surprise surprise 🎁
+title: surprise surprise
 slug: surprise-surprise
 date_published: 2021-06-25T19:14:01.000Z
 date_updated: 2021-06-25T19:48:04.000Z

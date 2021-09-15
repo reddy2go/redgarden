@@ -20,7 +20,6 @@ this film by Jim Jarmusch is about a modern day assassin following the ancient w
 - It is said that what is called "the spirit of an age" is something to which one cannot return. That this spirit gradually dissipates is due to the world's coming to an end. For this reason, although one would like to change today's world back to the spirit of one hundred years or more ago, it cannot be done. Thus it is important to make the best out of every generation. (01:33:15)
 
 ---
-
 **Ghost Dog**: You know, in ancient cultures, bears were considered equal with men.
 **Shane**: This ain't no ancient culture here, mister.
 **Ghost Dog**: Sometimes it is.

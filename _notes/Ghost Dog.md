@@ -22,8 +22,6 @@ this film by Jim Jarmusch is about a modern day assassin following the ancient w
 ---
 
 **Ghost Dog**: You know, in ancient cultures, bears were considered equal with men.
-
 **Shane**: This ain't no ancient culture here, mister.
-
 **Ghost Dog**: Sometimes it is.
 

@@ -3,7 +3,7 @@ title: play the game of life
 slug: play-the-game-of-life
 ---
 
-> how do i want to play the game of life? 
+how do i want to play the game of life? 
 
 do i want to go on the all out offensive or do i want to just play defensively? what if i was passive and didn't play at all?
 

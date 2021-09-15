@@ -3,6 +3,10 @@ title: Ghost Dog - Way of the Samurai
 slug: ghost-dog
 ---
 this film by Jim Jarmusch is about a modern day assassin following the ancient ways of the Samurai, explores themes from the Hagakure.
+
+**Ghost Dog**: You know, in ancient cultures, bears were considered equal with men.
+**Shane**: This ain't no ancient culture here, mister.
+**Ghost Dog**: Sometimes it is.
 ## quotes
 - The Way of the Samurai is found in death. Meditation on inevitable death should be performed daily. Every day when one's body and mind are at peace, one should meditate upon being ripped apart by arrows, rifles, spears and swords, being carried away by surging waves, being thrown into the midst of a great fire, being struck by lightning, being shaken to death by a great earthquake, falling from thousand-foot cliffs, dying of disease or committing seppuku at the death of one's master. And [[every day without fail one should consider himself as dead]]. This is the substance of the way of the samurai. (00:03:05)
 - It is bad when one thing becomes two. One should not look for anything else in the Way of the Samurai. It is the same for anything else that is called a Way. If one understands things in this manner, he should be able to hear about all Ways and be more and more in accord with his own. (00:09:42)

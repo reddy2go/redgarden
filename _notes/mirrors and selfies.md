@@ -4,7 +4,7 @@ slug: mirrors-and-selfies
 ---
 while i once scoffed at the selfie generation, it's silly not to see the value of constantly peeking into a perception of self that we can then manipulate into public acceptance, appreciation and even applause. but are we really looking within at who we truly are?
 
-the world around us is full of illusions, some drawn by us, some scribbled hastily by others, some painstakingly developed by what we believe others want to see. and these are all illusions, regardless of the truth in them. what we believe is the truth is but a part of the whole. an ever changing, ever evolving malleable mess of me-ness that i can't barely fathom, let alone embrace as myself.
+the world around us is full of illusions, some drawn by us, some scribbled hastily by others, some painstakingly developed by what we believe others want to see. and these are all illusions, regardless of the truth in them. 
 
 so which version of me is me and which isn't? i'm simply not splitting hairs here so i'm embracing every single fucking version of myself that i can muster or you may allege. there's a freedom that arises from the abandon of illusion.
 

@@ -10,7 +10,7 @@ so which version of me is me and which isn't? i'm simply not splitting hairs her
 
 yes! the identity you bestow or that which i claim, are both illusions for i'm beyond the game of roles and rules. i'm the player, the opponent, the game, the exultation of victory and the crushing misery of defeat.
 
-yes! the identity you bestow or that which i claim, are both illusions for i'm beyond the game of roles and rules. i'm the player, the opponent, the game, the exultation of victory and the crushing misery of defeat.discovery, of hide n seek with your own serendipitous self.
+so when you look into the screen again to see your face, know that what you see is a mere fragment of who you are. if you want to truly see that which is, close your eyes and look within for there lie answers guarded by monsters and moats. there is the game you crave to play. the game of discovery, of hide n seek with your own serendipitous self.
 
 > Remember, the enemy has only images and illusions, behind which he hates his true motives. Destroy the image, and you will break the enemy. 
 > 

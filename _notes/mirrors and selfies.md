@@ -6,7 +6,7 @@ while i once scoffed at the selfie generation, it's silly not to see the value o
 
 the world around us is full of illusions, some drawn by us, some scribbled hastily by others, some painstakingly developed by what we believe others want to see. and these are all illusions, regardless of the truth in them. what we believe is the truth is but a part of the whole. an ever changing, ever evolving malleable mess of me-ness that i can't barely fathom, let alone embrace as myself.
 
-so which version of me is me and which isn't? i'm simply not splitting hairs here so i'm embracing every single fucking version of myself that i can muster or you may allege. there's a freedom that arises from the abandonment of illusion.
+so which version of me is me and which isn't? i'm simply not splitting hairs here so i'm embracing every single fucking version of myself that i can muster or you may allege. there's a freedom that arises from the [[abandonment of illusion]].
 
 yes! the identity you bestow or that which i claim, are both illusions for i'm beyond the game of roles and rules. i'm the player, the opponent, the game, the exultation of victory and the crushing misery of defeat.
 

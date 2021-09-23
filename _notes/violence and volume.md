@@ -22,4 +22,4 @@ as i grew older i added physical violence to my repertoire of expression and the
 
 so if silence is equivalent to violence than what's the alternative? grappling with this question, i discovered a simple truth; the whisper that echoes. the reason that silence is violent is because it refuses to engage and interact. the reason loud volume is violent is because it does not allow the others to engage.
 
-the whisper then breaks the silence and yet does not silence the other from expressing. i'm yet to master this form of expression but that's my current obsession. playing with the whisper to express emotion while being open to the same from others. and this isn't only an act of speech but can be used in all three aspects of [[thought, speech and deed]]
+the whisper then breaks the silence and yet does not silence the other from expressing. i'm yet to master this form of expression but that's my current obsession. playing with the whisper to express emotion while being open to the same from others. for the [[softness and sweetness]] i speak of isn't only an act of speech but to be used in all three aspects of [[thought, speech and deed]]

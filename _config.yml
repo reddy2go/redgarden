@@ -32,6 +32,7 @@ embed_tweets: true
 plugins:
   - jekyll-last-modified-at
   - jekyll-seo-tag
+  - jekyll-twitter-plugin
 
 collections:
   notes:

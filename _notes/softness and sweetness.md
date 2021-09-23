@@ -5,7 +5,7 @@ slug: softness-is-not-weakness
 we're all zombie creatures born of the wasteland of a ruined childhood. dystopian it may sound but that's how most children's futures are. after all adulthood is not child's play, and the games we play as adults are not for fun. but my childhood actually was less desolate and more destructive.
 
 ## love is loud
-violence and volume have always been cozy companions in my home growing up. nothing overtly damaging physically speaking, and by the time i turn into a teen learned that i can hit back. the shouting matches turned  empowering as i realised i could yell louder and longer than anyone else in my house.
+[[violence and volume]] have always been cozy companions in my home growing up. nothing overtly damaging physically speaking, and by the time i turn into a teen learned that i can hit back. the shouting matches turned  empowering as i realised i could yell louder and longer than anyone else in my house.
 
 my descriptions probably sounds more dramatic and traumatic than it was. for i always seemed to take it in my stride. i realise in hindsight that while i could hold my own against my father, i had sacrificed my soft child like vulnerability for that hollow victory. and i never regained that again. i wore my hardness like a badge with pride. i was invincible. i felt no pain. i delivered pain in fact with my resilience. my own unflinching cruelty. my soul crushing coldness. 
 

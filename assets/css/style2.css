@@ -72,15 +72,11 @@ body {
   background: var(--primary-color);
 }
 
-/* Hyphenate long headings and links */
-h1, h2, h3, h4, h5, h6, a {
+/* Heading Styles */
+h1, h2, h3, h4, h5, h6 {
   word-break: break-word;
   word-wrap: break-word;
   hyphens: auto;
-}
-
-/* Heading Styles */
-h1, h2, h3, h4, h5, h6 {
   font-family: var(--heading-font);
   color: var(--heading-color);
   margin-bottom: 0;
@@ -265,6 +261,9 @@ table th, table td {
 
 /* Links */
 a {
+  word-break: break-word;
+  word-wrap: break-word;
+  hyphens: auto;
   transition: all 300ms;
   font-weight: 800;
   color: var(--heading-color);

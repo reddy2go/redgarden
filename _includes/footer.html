@@ -1,7 +1,89 @@
+<style>
+    .gumroad-icon {
+        width: fit-content !important;
+    }
+    .gumroad-follow-form-embed {
+        width: 25%;
+        zoom: 1;
+        display: inherit;
+    }
+    
+    .gumroad-follow-form-embed:before,
+    .gumroad-follow-form-embed:after {
+        line-height: 0;
+        content: "";
+    }
+    
+    .gumroad-follow-form-embed:after {
+        clear: both;
+    }
+    
+    .gumroad-follow-form-embed * {
+        margin: 0;
+        border: 0;
+        padding: 5px;
+        outline: 0;
+        box-sizing: border-box !important;
+        float: left !important;
+    }
+    
+    .gumroad-follow-form-embed input {
+        border-radius: 4px;
+        border-top-right-radius: 0;
+        border-bottom-right-radius: 0;
+        font-family: -apple-system, ".SFNSDisplay-Regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: 15px;
+        line-height: 20px;
+        background: #fff;
+        border: 1px solid #ddd;
+        border-right: 0;
+        color: #aaa;
+        padding: 10px;
+        box-shadow: inset 0 1px 0 rgba(0, 0, 0, 0.02);
+        background-position: top right;
+        background-repeat: no-repeat;
+        text-rendering: optimizeLegibility;
+        font-smoothing: antialiased;
+        -webkit-appearance: none;
+        -moz-appearance: caret;
+        width: 65% !important;
+        height: 40px !important;
+    }
+    
+    .gumroad-follow-form-embed button {
+        border-radius: 4px;
+        border-top-left-radius: 0;
+        border-bottom-left-radius: 0;
+        box-shadow: 0 1px 1px rgba(0, 0, 0, 0.12);
+        -webkit-transition: all .05s ease-in-out;
+        transition: all .05s ease-in-out;
+        display: inline-block;
+        padding: 11px 15px 12px;
+        cursor: pointer;
+        color: #fff;
+        font-size: 15px;
+        line-height: 100%;
+        font-family: -apple-system, ".SFNSDisplay-Regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        background: #e63b7a;
+        border: 1px solid #cf356e;
+        filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#ff61a0, endColorstr=#d53771, GradientType=0)";
+        background: -webkit-linear-gradient(#ff61a0, #d53771);
+        background: linear-gradient(to bottom, #ff61a0, #d53771);
+        height: 40px !important;
+        width: 35% !important;
+    }
+</style>
 <hr/>
 <p>
-    <a href="https://playtime.reddy2go.com/" target="_blank" class="footer-link"> newsletter</a> | <a href="https://twitter.com/reddy2go" target="_blank" class="footer-link"> twitter</a> | <a href="https://t.me/reddy2play" target="_blank" class="footer-link"> telegram</a> | <a class="internal-link footer-link" href="/archive">archive</a> <br>
-
-    <div style="padding:5px 5px 5px 5px;"><a href="https://racket.com/reddy2go/ask?utm_source=button" alt="Ask @reddy2go anything" target="_blank" rel="noopener noreferrer" class="nav-icons"><img src="/assets/images/racket_share.png" style="all:revert;max-width:150px;box-shadow: 4px 4px #184e77;"></a></div>
+    <a href="https://playtime.reddy2go.com/" target="_blank" class="footer-link"> newsletter</a> | <a href="https://twitter.com/reddy2go" target="_blank" class="footer-link"> twitter</a> | <a href="https://reddy2go.gumroad.com/l/playguide" target="_blank" class="footer-link"> gumroad</a> | <a class="internal-link footer-link" href="/archive">archive</a> <br>
+    <div style="display: flex;">
+        
+        <form action="https://app.gumroad.com/follow_from_embed_form" class="form gumroad-follow-form-embed" method="post">
+            <img src = "/assets/images/gumroad-icon.svg" class="gumroad-icon">
+            <input name="seller_id" type="hidden" value="2182549370124">
+            <input name="email" placeholder="Your email address" type="email">
+            <button data-custom-highlight-color="" type="submit">Follow</button>
+        </form>
+    </div>
 </p>
 <b class="copyright">© reddy2go 2021</b>

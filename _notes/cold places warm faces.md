@@ -19,12 +19,17 @@ i'm surprisingly quiet irl (while traveling) to savour and soak in the experienc
 ## irl <-> url
 maybe i'm just being the gen Xer that i am but the ecstasy of url engagement is not as satisfying as savouring life irl. as we move into the metaverse era, i'm amused by the seesaw that we'll be playing on. 
 
-![[7B446141-DFED-4B75-9B67-06101ECE368B.jpeg]]
-[image  source](https://twitter.com/patel0phone/status/1472613193864339465?s=21)
+<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">I don’t know what the metaverse is but this is the bull argument for it <a href="https://t.co/1OUbiPEgml">pic.twitter.com/1OUbiPEgml</a></p>&mdash; Bhaumik 🍎 (@patel0phone) <a href="https://twitter.com/patel0phone/status/1472613193864339465?ref_src=twsrc%5Etfw">December 19, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-after the last two years online, maybe i will spend the next two offline. after the rabid engagement with a thousand plus people, maybe i'll hibernate with minimal interaction. [Aspect of Courage](https://twitter.com/vinveliveera/status/1472660635313840129?s=21) was talking about reply game of twitter accounts below 10k and above 10k. and i am now drawing parallels of living below 10k feet and above 10k feet. what would happen to me if i lived in the stratosphere, not engaging with the world and it's people?
+after the last two years online, maybe i will spend the next two offline. after the rabid engagement with a thousand plus people, maybe i'll hibernate with minimal interaction. 
 
-i'm reminded of [[Christophe Porot]] beckoning for geniuses to interact with people. of course as i've admitted in [[hubris in the hills]], i'm a genius whether people accept it or not. 
+<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">to get to 10k you have to get really good at replying<br><br>to stay sane after 10k you have to get really good at not replying</p>&mdash; Aspect of Courage (@VinveliVEERA) <a href="https://twitter.com/VinveliVEERA/status/1472660635313840129?ref_src=twsrc%5Etfw">December 19, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Aspect of Courage was talking about reply game of twitter accounts below 10k and above 10k. and i am now drawing parallels of living below 10k feet and above 10k feet. what would happen to me if i lived in the stratosphere, not engaging with the world and it's people?
+
+then again i'm reminded of Christophe Porot beckoning for geniuses to interact with people. of course as i've admitted in [[hubris in the hills]], i'm a genius whether people accept it or not. 
+
+<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Though I would blame this hypothetical world genius for hiding their thoughts from the world. They must learn how to speak and communicate with the masses and suffer the consequences if their intelligence is to be more than an instrument of superiority but rather a service.</p>&mdash; Christophe Porot (@PorotChristophe) <a href="https://twitter.com/PorotChristophe/status/1471146998594261002?ref_src=twsrc%5Etfw">December 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 > the question is, what does a genius really do?
 

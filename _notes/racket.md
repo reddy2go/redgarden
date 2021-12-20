@@ -8,15 +8,13 @@ hello there! glad you’re curious about making a racket together. my primary pu
 
 the conversation is recorded & saved forever like ol' photo albums (audio selfie?) of yore. a reminder that connecting with strangers can be an experience to cherish and build on till we’re no longer strangers, but playmates.
 
-### [where to schedule?](https://calendly.com/reddy2go/playtime)
+### [where to schedule?](https://tidycal.com/reddy2go/racket)
 
 ### [how to prepare for your racket?](https://racket.com/reddy2go/rhYhn)
 
 ### how to record?
 - open **[the studio link](https://racket.com/studio/reddy2go)** from desktop or phone (check browser compatibility), with a podcast quality mic or even just your regular mobile earphones
-- post the 9 min recording, ⚠️ **[don’t click](https://twitter.com/DominicZijlstra/status/1404034289671544834)** the ‘**return to racket**’ button if you want to stay connected and have a cool-down chat before heading out
-
-![assets/images/groot-gif-20.gif](assets/images/groot-gif-20.gif)
+- post the 9 min recording, we can stay connected and have a cool-down chat before heading out
 
 ### how do we play?
 - post the initial ‘hello, can you hear me’s and ‘hey, how are you’s, we can slide into a cool, casual, and candid conversation. i like to start with a question and riff about it but this isn’t a one-sided interview.

@@ -1,3 +1,8 @@
+---
+title: hubris in the hills
+slug: hubris-in-the-hills
+favicon: 
+---
 i'm a self-confessed genius and if you think i'm being preposterous, you have two choices:
 - dismiss my hubris as high altitude sickness (or any other kind)
 - question why you don't think just as highly of yourself as i do

@@ -1,3 +1,8 @@
+---
+title: toys, games, and play
+slug: toys-games-play
+favicon: 
+---
 what do i seek when  i climb step after step on a hill that knows everything there ever is for me to know? 
 
 ## welcome to wonder

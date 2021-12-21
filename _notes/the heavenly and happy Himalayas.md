@@ -9,3 +9,4 @@ the mountains beckon to many but they've always just dragged me by the neck! if 
 - [[hubris in the hills]]
 - [[cold places warm faces]]
 - [[the warm hug of solitude]]
+- [[the day is for play]]

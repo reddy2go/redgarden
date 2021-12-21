@@ -23,4 +23,5 @@ i was minutely ecstatic. not quite contradictory in case you're wondering, for t
 
 of course, i probably wouldn't last very long but a short while later, the sun which was hiding behind the hills came up and it was now warm. suddenly, just like that, i was sweating and the game was on. the day has begun and i'm ready to explore the moments that lie ahead.
 
+![[259598D1-3F24-45BB-BEB5-F5B875CC7ECD.jpeg]]
 the joy of being embraced by the sun is the fuel i use to be playful. it's not just the heat or the light but the warmth of spirit that inspires and invigorates my intention to live, to play, to create, to delight. to continue on my journey through [[the heavenly and happy Himalayas]].

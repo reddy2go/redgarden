@@ -14,7 +14,7 @@ title: Archive
             <span>
                 {% if note.date_updated %}
                     ({{ note.date_updated | date: "%d %b %Y" }})
-                {% elsif note.last_modified_at  %}
+                {% else %}
                     ({{ note.last_modified_at | date: "%d %b %Y" }})
                 {% endif %}
             </span>

@@ -4,7 +4,7 @@ title: Archive
 ---
 
 <ul class="archive">
-    {% assign notes = site.notes | sort: "last_modified_at" | reverse %}
+    {% assign notes = site.notes | sort: "title" | reverse %}
     {% for note in notes %}
         <li>
             <a href="{{ note.url }}{%- if site.use_html_extension -%}.html{%- endif -%}" class="internal-link">

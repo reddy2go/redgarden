@@ -10,3 +10,7 @@ the mountains beckon to many but they've always just dragged me by the neck! if 
 - [[cold places warm faces]]
 - [[the warm hug of solitude]]
 - [[the day is for play]]
+- [[feasting and fasting]]
+- [[focusing on fun]]
+- [[idea, institution or individual]]
+- [[general playful preparedness]]

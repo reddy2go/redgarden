@@ -48,7 +48,7 @@ if art is caring, and design is providing, then publishing is sharing. when i wr
 
 when i write with you, my fellow writers, i celebrate destruction; with inane observations, incisive feedback, and profound insights. destruction through iterations, from minor scratches on the surface to having entire sections amputated. sometimes even decapitation of the very title and introduction, as in this case. i’m grateful for all of you joining me in this dance of destruction.
 
-i’m reminded again of that creative act that led me down the destructive path. that first piece of art i created, in which lord krishna reminds the warrior arjuna.
+i’m reminded again of that creative act that led me on a [[destruction derby]] i couldn't get off of. that first piece of art i created, in which lord krishna reminds the warrior arjuna.
 
 > ”your right is to work only, to perform your prescribed duties, but you are not entitled to the fruits of your actions; let not the fruit-of-action be your motive. never consider yourself to be the cause of the results of your activities, nor be attached to inaction.”
 

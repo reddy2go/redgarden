@@ -23,7 +23,7 @@ haha! let’s start with step one for now. just make a list of all your fears. s
 
 maybe i’m not meeting enough people, but almost everyone’s bucket list seems to be the same to me. everyone’s ambition is also generally the same. it’s almost like watching participants of a beauty pageant rattle on about world peace.
 
-desires are hidden as efficiently as our fears. both fit in that deep, dark box we only open in our loneliest moments.
+desires are hidden as efficiently as our fears. both fit in that deep, dark box we only open in our loneliest moments. ^884dac
 
 one is easily aware of professional and career ambitions and even personal goals such as securing and stabilising relationships. but is that all there is to life?
 

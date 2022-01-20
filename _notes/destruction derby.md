@@ -21,7 +21,7 @@ if this is the case, why aren't we educating ourselves or our children to destro
 
 about teaching our children... i'm gonna take that back. it's our children who can teach us how to destroy.
 
-give a child a new toy and watch them play. they don't care about the user manual, howto instructions, or even the youtube video on how to play.
+give a child a new toy and watch them play. they don't care about the user manual, howto instructions, or even the youtube video on how to play. ^99690b
 
 the discovery of doing things the right way involves first scratching out all the wrong ways to do it. the infant is the expert at this with a precise process of exploration:
 - pick up toy

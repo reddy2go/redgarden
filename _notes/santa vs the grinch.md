@@ -1,5 +1,5 @@
 ---
-title: Santa vs the Grinch
+title: santa vs the grinch
 slug: santa-vs-the-grinch
 date_published: 2020-12-16T02:40:49.000Z
 date_updated: 2021-02-10T12:24:59.000Z

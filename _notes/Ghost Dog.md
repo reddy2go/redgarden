@@ -1,5 +1,5 @@
 ---
-title: Ghost Dog - Way of the Samurai
+title: ghost dog - way of the samurai
 slug: ghost-dog
 ---
 this film by Jim Jarmusch is about a modern day assassin following the ancient ways of the Samurai, explores themes from the Hagakure.

@@ -1,5 +1,5 @@
 ---
-title: Celebrations not Condolences
+title: celebrations not condolences
 slug: celebrations-not-condolences
 date_published: 2020-07-31T05:55:00.000Z
 date_updated: 2020-12-14T05:59:28.000Z

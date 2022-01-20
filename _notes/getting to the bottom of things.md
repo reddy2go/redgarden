@@ -1,5 +1,5 @@
 ---
-title: Getting to The Bottom of Things
+title: getting to the bottom of things
 slug: getting-to-the-bottom-of-things
 date_published: 2021-02-18T17:36:53.000Z
 date_updated: 2021-02-18T17:51:49.000Z

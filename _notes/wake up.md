@@ -1,5 +1,5 @@
 ---
-title: Wake up!
+title: wake up!
 slug: wake-up
 date_published: 2020-08-24T10:17:00.000Z
 date_updated: 2020-12-15T15:28:14.000Z

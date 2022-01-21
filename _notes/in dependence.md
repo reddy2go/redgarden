@@ -1,5 +1,5 @@
 ---
-title: In Dependence
+title: in dependence
 slug: in-dependence
 date_published: 2020-09-26T10:26:00.000Z
 date_updated: 2021-02-10T12:23:12.000Z

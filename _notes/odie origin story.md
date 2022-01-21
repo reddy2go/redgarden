@@ -1,5 +1,5 @@
 ---
-title: "ODie: origin story"
+title: "odie: origin story"
 slug: odie-origin-story
 date_published: 2021-05-19T20:05:42.000Z
 date_updated: 2021-05-19T20:05:42.000Z

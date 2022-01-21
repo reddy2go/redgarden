@@ -1,5 +1,5 @@
 ---
-title: 100 Zoom Games to Play
+title: 100 zoom games to play
 slug: 100-zoom-games-to-play
 date_published: 2020-12-15T17:57:36.000Z
 date_updated: 2021-02-10T12:28:06.000Z

@@ -10,4 +10,5 @@ you walk towards the horizon on a hot summer day. the sight of the river brings 
 when the future was bleak. it wasn't hope that saved me. it was her, the horizon. always beckoning, beguiling even. she instilled in me a certainty that the future was always better as long as i walked towards it. i have struggled to believe that i was good. i have boasted that nobody was as good as me. but it was she, who reminded me that i was still not quite there. the horizon to me is perfection. a destination to walk towards, and still never reach. what would this journey be, if i didn't have a vision to walk towards. is she a mirage? have i been wandering aimlessly? shimmering seductively on the horizon. right there, almost in my grasp but just beyond my reach. a reason to live. a dream to die for. ladies and gentlemen, i present to you; perfection.
 
 ![Walking towards the Horizon](/assets/images/beautiful-horizon.jpg)
+
 this writing resulted from a creative [jugalbandhi](https://en.wikipedia.org/wiki/Jugalbandi) with [Michael Dean](https://twitter.com/MichaelDean09). we jammed and bounced ideas, words and insights off of each other, to create what you read above.

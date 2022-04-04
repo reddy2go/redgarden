@@ -8,6 +8,7 @@ this Jekyll template publishes my thoughts from [Obsidian](https://obsidian.md/)
 ## credits
 - [Neha Kumari](https://twitter.com/nehakumarisaa?s=21) has painstakingly played with every little piece of code to bring not just light but  delight to the reader
 - [Krishanu Dhar](https://twitter.com/lowcodekrish?s=21)helped crush the bugs that tend to creep in on any project of such magnitude and meaning
+- [Aravind Balla](https://twitter.com/aravindballa?s=21&t=XPwWTbSisaDkXO1jNsb-Gg) helped me crack (effortlessly at that) the auto generated social image preview for every post/page url
 - [Charlie T's](https://twitter.com/rhymeswithvocal) [digital garden](https://garden.charlietrochlil.com/) was what caught my eye at first and he was kind enough to guide me towards the below resources
 - the customised “Green” version by Megumi Tanaka is [publicly available on Github](https://github.com/meewgumi/green-web-template) and you are free to edit as you wish! [buy Megumi a tea](https://www.buymeacoffee.com/megumi)! 🍵
 - [Original Jekyll template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) by Maxime Vaillancourt is available under the [MIT license](https://garden.megu.space/LICENSE.md). [buy Maxime a coffee](https://ko-fi.com/maximevaillancourt)! ☕️
